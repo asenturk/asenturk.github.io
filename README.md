@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+
+# Güz Dönemi
+## [EEM-117 Algoritma ve Programlama](eem117/README.md)
+
+## [EEM-251 İleri Düzey Programlama](eem251/README.md)
+
+## [EEM-465 Gömülü Sistemler](eem465/README.md)
+
+# Bahar Dönemi
+
+## [EEM-112 Bilgisayar Programlama](eem112/README.md)
+
+## [EEM-202 Devre Analizi 2](eem202/README.md)
+
+## [EEM-465 Gömülü Sistemler](eem465/README.md)
 
 
-[EEM-465 Gömülü Sistemler](eem465/README.md)
-
-You can use the [editor on GitHub](https://github.com/asenturk/deneme/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
