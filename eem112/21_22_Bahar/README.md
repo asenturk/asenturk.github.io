@@ -7,4 +7,9 @@
 
 - [Hafta 2 a](./dersler/ders02_a.md)  EEM-117 Algoritmalar ve programlama dersinde anlatılan stringler konusu    
   [Hafta 2 b](./dersler/ders02_b.md)   İşaretçiler giriş
-  
+
+
+
+C programlarınızı adım adım çalıştırmak ve görselleştirilmiş bir şekilde takip etmek için:
+https://pythontutor.com/visualize.html#mode=edit
+
