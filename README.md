@@ -3,9 +3,9 @@
 
 
 ## 2021-2022 Bahar Dönemi
-### [2021-2022 Bahar Dönemi](./eem112/21_22_Bahar/)
-### [2021-2022 Bahar Dönemi](./eem112/21_22_Bahar/)
-### [2021-2022 Bahar Dönemi](./eem465/21_22_Bahar/)
+### [EEM-112 Bilgisayar Programlama](./eem112/21_22_Bahar/)
+### [EEM-202 Devre Analizi 2](./eem112/21_22_Bahar/)
+### [EEM-465 Gömülü Sistemler](./eem465/21_22_Bahar/)
 
 
 ## Güz Dönemi
