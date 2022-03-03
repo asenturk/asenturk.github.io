@@ -1,4 +1,4 @@
-# EEM-112 Bilgisayar Programlama Dersi 
+# EEM-202 Devre Analizi 2 Dersi 
 
 ## 2021-2022 Bahar Dönemi
 ### Dersler

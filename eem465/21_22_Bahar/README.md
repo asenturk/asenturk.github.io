@@ -1,4 +1,4 @@
-# EEM-112 Bilgisayar Programlama Dersi 
+# EEM-465 Gömülü Sistemler Dersi
 
 ## 2021-2022 Bahar Dönemi
 ### Dersler
