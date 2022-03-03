@@ -11,5 +11,5 @@
 
 
 C programlarınızı adım adım çalıştırmak ve görselleştirilmiş bir şekilde takip etmek için:   
-https://pythontutor.com/visualize.html#mode=edit
+[https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
