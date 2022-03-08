@@ -179,15 +179,6 @@ int main() {
 }
 ```
 
-    /tmp/tmpg17ey3j1.c: In function ‘buyuk’:
-    /tmp/tmpg17ey3j1.c:9:16: warning: return discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]
-        9 |         return sayi1;
-          |                ^~~~~
-    /tmp/tmpg17ey3j1.c:10:12: warning: return discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]
-       10 |     return sayi2;
-          |            ^~~~~
-
-
     buyuk sayi: 20
 
 
@@ -364,11 +355,3 @@ int main() {
     20 18 16 14 12 10 8 6 4 2 
 
 
-```C
-
-```
-
-
-```C
-
-```
