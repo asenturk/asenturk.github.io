@@ -214,7 +214,7 @@ int main() {
     int *p;
     p=a;
     printf("%d \n",*p);
-    printf("%d \n",*a);"cv"
+    printf("%d \n",*a);
     printf("%d \n",*p+1);
     printf("%d \n",*(p+1));
     printf("%d \n",*(p+3));
