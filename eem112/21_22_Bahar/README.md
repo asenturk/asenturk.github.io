@@ -10,6 +10,8 @@
 
 - [Hafta 3](./dersler/ders03.md)  İşaretçilerin fonksiyon ve dizilerle kullanımı
 
+- [Hafta 4](./dersler/ders04.md)  İşaretçilerin strignler ile kullanımı
+
 C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
 [https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
