@@ -5,5 +5,9 @@
 
 - [Bölüm 1](./dersler/slayt01.pdf) sinusoid,  rms, karmaşık sayılar, fazör, empedans-admittans
 
+### Laboratuvar
+- [Laboratuvar ile ilgili açıklamalar](./laboratuvar/lab.pdf)
+- [Deney Föyleri](./laboratuvar/deney_foyleri.zip)
+
 
   
