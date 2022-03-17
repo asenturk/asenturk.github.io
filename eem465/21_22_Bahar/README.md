@@ -9,6 +9,11 @@
 - [Hafta 2](./dersler/ders02.md)
   Makro işaretçiler, tür dönüşümü, tür tanımlama, yapılar ve yapı işaretçileri
 
+- [Hafta 3 kodlamalar](./dersler/ders03.md)   
+  Struct Tür tanımlama ile bellek erişimi, işaretçilerin farklı kullanımları ile LED yakma-söndürme programları    
+  [Hafta 3 Slayt](./dersler/ders03.pdf)   
+  STM32 F4 Discovery kartının genel özellikleri, bellek haritası, RCC_AHB1 yazmacı GPIO Moder, IDR, ODR
+
 
 
 ### Dokümanlar
