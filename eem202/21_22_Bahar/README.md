@@ -4,6 +4,7 @@
 ### Dersler
 
 - [Bölüm 1](./dersler/slayt01.pdf) sinusoid,  rms, karmaşık sayılar, fazör, empedans-admittans
+- [Bölüm 2](./dersler/slayt02.pdf) Devre analiz yöntemleri
 
 ### Laboratuvar
 - [Laboratuvar ile ilgili açıklamalar](./laboratuvar/lab.pdf)
