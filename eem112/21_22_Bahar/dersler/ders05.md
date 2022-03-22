@@ -70,17 +70,17 @@ int main() {
     
     int a=10;
     
-    printf("DEĞ A: %X\n", ~a);
-    printf("DEĞ A: %d\n", ~a);
-    printf("DEĞ A: %u\n", ~a);
+    printf("DEG A: %X\n", ~a);
+    printf("DEG A: %d\n", ~a);
+    printf("DEG A: %u\n", ~a);
      
 	return 0;
 }
 ```
 
-    DEĞ A: FFFFFFF5
-    DEĞ A: -11
-    DEĞ A: 4294967285
+    DEG A: FFFFFFF5
+    DEG A: -11
+    DEG A: 4294967285
 
 
 
