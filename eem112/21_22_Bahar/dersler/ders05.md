@@ -21,7 +21,7 @@ int main() {
     printf("sayi: %X\n",a);
     printf("sayi: %o\n",a);
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -52,7 +52,7 @@ int main() {
     printf("XOR:   %X\n", a^b);
     printf("DEĞ A: %X\n", ~a);
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -74,7 +74,7 @@ int main() {
     printf("DEG A: %d\n", ~a);
     printf("DEG A: %u\n", ~a);
      
-	return 0;
+    return 0;
 }
 ```
 
@@ -96,7 +96,7 @@ int main() {
     printf("a >> 1: %d\n", a>>1);
     printf("a >> 2: %d\n", a>>2);
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -115,7 +115,7 @@ int main() {
     b=a | 1<<5;
     printf("%d, %X",b,b);
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -130,7 +130,7 @@ int main() {
     b=a & ~(1<<4);
     printf("%d, %X",b,b);
       
-	return 0;
+    return 0;
 }
 ```
 
@@ -147,7 +147,7 @@ int main() {
     else
         printf("a sayisinin 4. biti 0 dir.");
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -164,7 +164,7 @@ int main() {
     else
         printf("a sayisinin 5. biti 0 dir.");
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -182,7 +182,7 @@ int main() {
     else
         printf("a sayisinin %d. biti 0 dir.",n);
     
-	return 0;
+    return 0;
 }
 ```
 
@@ -202,7 +202,7 @@ int main() {
             printf("0");
     }
 
-	return 0;
+    return 0;
 }
 ```
 
