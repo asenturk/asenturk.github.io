@@ -12,6 +12,8 @@
 
 - [Hafta 4](./dersler/ders04.md)  İşaretçilerin strignler ile kullanımı
 
+- [Hafta 5](./dersler/ders05.md)  Bit düzey (bitwise) operatörler, değişken bitini set etme, 0 yapma, tespit etme 
+
 C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
 [https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
