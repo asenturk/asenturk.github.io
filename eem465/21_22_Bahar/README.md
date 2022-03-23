@@ -3,16 +3,20 @@
 ## 2021-2022 Bahar Dönemi
 ### Dersler
 
-- [Hafta 1](./dersler/ders01.md)
+- [Hafta 1](./dersler/ders01.md)  
   İşaretli İşaretsiz sayılar, bit set etme, temizleme, dönüştürme, test etme ve bekleme
 
-- [Hafta 2](./dersler/ders02.md)
+- [Hafta 2](./dersler/ders02.md)  
   Makro işaretçiler, tür dönüşümü, tür tanımlama, yapılar ve yapı işaretçileri
 
 - [Hafta 3 kodlamalar](./dersler/ders03.md)   
   Struct Tür tanımlama ile bellek erişimi, işaretçilerin farklı kullanımları ile LED yakma-söndürme programları    
   [Hafta 3 Slayt](./dersler/ders03.pdf)   
   STM32 F4 Discovery kartının genel özellikleri, bellek haritası, RCC_AHB1 yazmacı GPIO Moder, IDR, ODR
+
+
+- [Hafta 4](./dersler/ders04.md)   
+  Yapı işaretçisi ile GPIO yazmaçlarına erişim, stm32f407xx.h dosyasında bulunan tanımların kullanımı
 
 
 
