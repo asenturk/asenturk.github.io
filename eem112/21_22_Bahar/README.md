@@ -12,7 +12,9 @@
 
 - [Hafta 4](./dersler/ders04.md)  İşaretçilerin strignler ile kullanımı
 
-- [Hafta 5](./dersler/ders05.md)  Bit düzey (bitwise) operatörler, değişken bitini set etme, 0 yapma, tespit etme 
+- [Hafta 5](./dersler/ders05.md)  Bit düzey (bitwise) operatörler, değişken bitini set etme, 0 yapma, tespit etme
+
+- [Hafta 6](./dersler/ders06.md)  Tür tanımlama, yapı, yapı türü, yapı işaretçisi, yapıların ve yapı işaretçileri ve yapı dizilerinin fonkisyonlarla kullanımı
 
 C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
 [https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
