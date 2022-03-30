@@ -20,6 +20,8 @@
 - [Hafta 4 Slayt](./dersler/ders04.pdf)   
   GPIO push-pull, open drain,pull-up, pull-down modları
 
+- [Hafta 5 Slayt](./dersler/ders05.pdf)   
+  SysTick Timer
 
 
 ### Dokümanlar
@@ -27,6 +29,9 @@
 - [Yeni Proje](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/09_proje_olu%C5%9Fturma.pdf)
 - [Derleyici Değiştirme](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/04_derleyici_degistirme.pdf)
 - [Debug Modu ve Watch Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/05_debug_watch_penceresi.pdf)
+- [Debug Modu ve Bellek Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/07_bellek_veri_kontrolu.pdf)
+- [Başlık dosyası ekleme ve içeriğine ulaşma](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/08_baslik_dosyalari.pdf)
+- [Logic Analyser kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/11_logic_analyser_kullanimi.pdf)
 
 
 
