@@ -12,11 +12,13 @@
 - [Hafta 3 kodlamalar](./dersler/ders03.md)   
   Struct Tür tanımlama ile bellek erişimi, işaretçilerin farklı kullanımları ile LED yakma-söndürme programları    
   [Hafta 3 Slayt](./dersler/ders03.pdf)   
-  STM32 F4 Discovery kartının genel özellikleri, bellek haritası, RCC_AHB1 yazmacı GPIO Moder, IDR, ODR
+  STM32F4 Discovery kartının genel özellikleri, bellek haritası, RCC_AHB1 yazmacı GPIO Moder, IDR, ODR
 
 
-- [Hafta 4](./dersler/ders04.md)   
+- [Hafta 4 kodlamalar](./dersler/ders04.md)   
   Yapı işaretçisi ile GPIO yazmaçlarına erişim, stm32f407xx.h dosyasında bulunan tanımların kullanımı
+- [Hafta 4 Slayt](./dersler/ders04.pdf)   
+  GPIO push-pull, open drain,pull-up, pull-down modları
 
 
 
