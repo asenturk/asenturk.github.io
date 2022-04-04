@@ -20,7 +20,7 @@
 - [Hafta 4 Slayt](./dersler/ders04.pdf)   
   GPIO push-pull, open drain,pull-up, pull-down modları
 
-- [Hafta 5 Slayt](./dersler/ders05.pdf)   
+- [Hafta 5 Slayt](./dersler/ders05.pdf)  [Hafta 5 kodlamalar](./dersler/ders05.md)   
   SysTick Timer
 
 
