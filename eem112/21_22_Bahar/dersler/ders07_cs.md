@@ -1,0 +1,439 @@
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello ");
+            Console.WriteLine("World!");
+            Console.WriteLine("Hello\n");
+            Console.WriteLine("World!");
+
+            Console.Write("Hello ");
+            Console.Write("World!");
+        }
+    }
+}
+```
+
+
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, b, c;
+            double d;
+            a = 10;
+            b = 3;
+            c = a + b;
+            Console.WriteLine("sonuc: {0}", c);
+            Console.WriteLine("{1}+{0}={2}", a, b, c);
+
+            c = 1 - b;
+            Console.WriteLine("sonuc: {0}", c);
+            c = a * b;
+            Console.WriteLine("sonuc: {0}", c);
+            c = a / b;
+            Console.WriteLine("sonuc: {0}", c);
+            c = a % b;
+            Console.WriteLine("sonuc: {0}", c);
+            d = (double)a / b;
+            Console.WriteLine("sonuc: {0}", d);
+            d = Convert.ToDouble(a) / b;
+            Console.WriteLine("sonuc: {0}", d);
+        }
+    }
+}
+```
+
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string x;
+            Console.WriteLine("Bir değer giriniz: ");
+            x = Console.ReadLine();
+            Console.WriteLine("Girilen değer: " + x);
+
+            int a;
+            Console.WriteLine("Bir değer giriniz: ");
+            x = Console.ReadLine();
+            a = Convert.ToInt32(x);
+            Console.WriteLine("girilen değerin 10 fazlası:" + (a + 10));
+            Console.WriteLine("girilen değerin 10 fazlası: {0}",  a + 10);
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, b, c;
+            Console.WriteLine("Birinci sayıyı giriniz:");
+            a = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("İkinci sayıyı giriniz:");
+            b = Convert.ToInt32(Console.ReadLine());
+            c = a + b;
+            Console.WriteLine("Girilen değerlerin toplamı: {0}", c);
+            Console.WriteLine("{1}+{0}={2}",a,b,c);
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, b, c;
+            Console.WriteLine("Birinci sayıyı giriniz:");
+            a = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("İkinci sayıyı giriniz:");
+            b = Convert.ToInt32(Console.ReadLine());
+
+            if (a > b)
+                Console.WriteLine("{0} büyüktür.", a);
+            else
+                Console.WriteLine("{0} buyuktur veya sayılar eşit.", b);
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, i = 0;
+            a = Convert.ToInt32(Console.ReadLine());
+
+            while (i < a)
+            {
+                Console.Write(i);
+                i++;
+            }
+            
+            Console.WriteLine();
+            i = 0;
+            while (i < a)
+            {
+                Console.Write(i+" ");
+                i++;
+            }
+            
+            Console.WriteLine();
+            for (int j = 0; j < a; j++)
+                Console.Write("{0}-", j);
+
+            Console.WriteLine();
+            i = 100;
+            do {
+                Console.Write("{0}", i);
+                i--;
+            }while (i > a);
+
+            Console.WriteLine();
+            i = 100;
+            do
+            {
+                Console.Write("{0}", i);
+                i-=5;
+            } while (i > a);
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string isim;
+            char cinsiyet;
+            Console.WriteLine("Adınızı giriniz: ");
+            isim = Console.ReadLine();
+            Console.WriteLine("Cinsiyet (k/e): ");
+            cinsiyet = Convert.ToChar(Console.ReadLine());
+
+            if (cinsiyet == 'e')
+                Console.WriteLine("Merhaba {0} bey.", isim);
+            else if (cinsiyet == 'k')
+                Console.WriteLine("Merhaba {0} hanım.", isim);
+            else
+                Console.WriteLine("Cinsiyet hatalı girildi: ({0})", cinsiyet);
+        }
+    }
+}
+```
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a;
+            a = Convert.ToInt32(Console.ReadLine());
+            if (a > 10 && a < 20)
+                Console.WriteLine("girilen değer 10 ile 20 arasındadır.");
+            else if (a <= 10 || a>= 20)
+                Console.WriteLine("girilen değer 10'dan kucuk veya  20'den buyuktur");
+
+            if (a != 10)
+                Console.WriteLine("a sayısı 10 değildir.");
+
+            if (!(a <= 10 || a >= 20))
+                Console.WriteLine("girilen değer 10'dan kucuk veya  20'den buyuk degildir.");
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, i=2;
+            a = Convert.ToInt32(Console.ReadLine());
+
+            while (i < a)
+            {
+                if (a % i == 0)
+                    break;
+                i++;
+            }
+            
+            if (a == i)
+                Console.WriteLine("{0} sayısı asaldır.", a);
+            else
+            {
+                Console.WriteLine("{0} sayısı asal değildir. \n{1} sayısı {0} sayısını boler.", a, i);
+                Console.WriteLine("{0}/{1}={2}", a, i, (double)a / i);
+            }
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, n;
+            double kare, kup, karekok;
+
+            Console.WriteLine("başlangıç sayısını giriniz: ");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("bitiş sayısını giriniz: ");
+            n = Convert.ToInt32(Console.ReadLine());
+            for(int i = a; i <= n; i++)
+            {
+                karekok = Math.Sqrt(i);
+                kup = Math.Pow(i, 3);
+                kare = Math.Pow(i, 2);
+                Console.Write("{0} sayısının karesi: {1} ", i, kare);
+                Console.Write("karekokü: {0}, kupu: {1}\n", karekok, kup);
+                
+            }
+        }
+    }
+}
+```
+
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int[] sayilar1 = { 1, 2, 3, 4, 5, 6 };
+            int[] sayilar2 = new int[10];
+            double ortalama;
+            int toplam = 0;
+
+            for (int i = 0; i < 6; i++)
+                toplam += sayilar1[i];
+            Console.WriteLine("sayilarin toplami: {0}", toplam);
+            Console.WriteLine("sayilarin ortalaması: {0}", (double)toplam / 6);
+
+            Console.WriteLine("sayiları giriniz: ");
+            for (int i = 0; i < 10; i++)
+            {
+                sayilar2[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            for (int i = 0; i < 10; i++)
+                toplam += sayilar2[i];
+            Console.WriteLine("sayilarin toplami: {0}", toplam);
+            ortalama= (double)toplam / 10;
+            Console.WriteLine("sayilarin ortalaması: {0}",ortalama) ;
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static double r1, r2, r3;
+        static void direnc_gir()
+        {
+            Console.WriteLine("birinci direncin değerini giriniz: ");
+            r1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("ikinci direncin değerini giriniz: ");
+            r2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("üçüncü direncin değerini giriniz: ");
+            r3 = Convert.ToDouble(Console.ReadLine());
+        }
+
+        static double paralel_esdeger_direnc(double direnc1, double direnc2, double direnc3)
+        {
+            double esdeger_direnc;
+            esdeger_direnc = 1 / direnc1 + 1 / direnc2 + 1 / direnc3;
+            esdeger_direnc = 1 / esdeger_direnc;
+            return esdeger_direnc;
+        }
+
+        static void Main(string[] args)
+        {
+
+            double esdeger_direnc=0;
+            char secim;
+            direnc_gir();
+            Console.WriteLine("Seri: s, Paralel: p");
+            secim = Convert.ToChar(Console.ReadLine());
+
+            if (secim == 's')
+                esdeger_direnc = r1 + r2 + r3;
+            else if (secim == 'p')
+                esdeger_direnc = paralel_esdeger_direnc(r1, r2, r3);
+            else
+                Console.WriteLine("Hatalı seçim");
+
+
+            Console.WriteLine("eşdeğer direnç: {0}", esdeger_direnc);
+        }
+    }
+}
+```
+
+
+```cs
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static double r1, r2, r3;
+        
+        static void direnc_gir()
+        {
+            Console.WriteLine("birinci direncin değerini giriniz: ");
+            r1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("ikinci direncin değerini giriniz: ");
+            r2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("üçüncü direncin değerini giriniz: ");
+            r3 = Convert.ToDouble(Console.ReadLine());
+        }
+
+        static double paralel_esdeger_direnc(double direnc1, double direnc2, double direnc3)
+        {
+            double esdeger_direnc;
+            esdeger_direnc = 1 / direnc1 + 1 / direnc2 + 1 / direnc3;
+            esdeger_direnc = 1 / esdeger_direnc;
+            return esdeger_direnc;
+        }
+
+        static void Main(string[] args)
+        {
+
+            double esdeger_direnc=0;
+            char secim;
+            direnc_gir();
+            Console.WriteLine("Seri: s, Paralel: p");
+            secim = Convert.ToChar(Console.ReadLine());
+
+            if (secim == 's')
+                esdeger_direnc = r1 + r2 + r3;
+            else if (secim == 'p')
+                esdeger_direnc = paralel_esdeger_direnc(r1, r2, r3);
+            else
+                Console.WriteLine("Hatalı seçim");
+
+
+            Console.WriteLine("eşdeğer direnç: {0}", esdeger_direnc);
+        }
+    }
+}
+```

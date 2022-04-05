@@ -16,6 +16,8 @@
 
 - [Hafta 6](./dersler/ders06.md)  Tür tanımlama, yapı, yapı türü, yapı işaretçisi, yapıların ve yapı işaretçileri ve yapı dizilerinin fonkisyonlarla kullanımı
 
+- [Hafta 7](./dersler/ders07_cs.md)  C# (C-Sharp) konsol uygulamaları
+
 C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
 [https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
