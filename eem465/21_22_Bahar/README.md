@@ -39,4 +39,7 @@
 - [Reference manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/01%20-%20RM0090%20Reference%20manual.pdf)
 - [Datasheet - production data](https://github.com/asenturk/stm32f4/blob/master/Referanslar/02%20-%20STM32F407xx%20Datasheet%20-%20production%20data.pdf)
 - [User manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/04%20-%20UM1472%20User%20manual.pdf)
-  
+
+
+### Diğer kaynaklar
+- [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0)
