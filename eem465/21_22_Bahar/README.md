@@ -23,6 +23,9 @@
 - [Hafta 5 Slayt](./dersler/ders05.pdf)  [Hafta 5 kodlamalar](./dersler/ders05.md)   
   SysTick Timer
 
+- [Hafta 6 Slayt](./dersler/ders06.pdf)  [Hafta 6 kodlamalar](./dersler/ders05.md)   
+  Harici kesmeler
+
 
 ### Dokümanlar
 - [Keil Program ve Kütüphane Kurulumu](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/01_program_ve_kutuphane_kurulumu.pdf)
