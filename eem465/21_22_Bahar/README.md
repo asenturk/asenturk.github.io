@@ -23,7 +23,7 @@
 - [Hafta 5 Slayt](./dersler/ders05.pdf)  [Hafta 5 kodlamalar](./dersler/ders05.md)   
   SysTick Timer
 
-- [Hafta 6 Slayt](./dersler/ders06.pdf)  [Hafta 6 kodlamalar](./dersler/ders05.md)   
+- [Hafta 6 Slayt](./dersler/ders06.pdf)  [Hafta 6 kodlamalar](./dersler/ders06.md)   
   Harici kesmeler
 
 
