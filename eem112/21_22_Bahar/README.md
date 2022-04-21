@@ -3,6 +3,7 @@
 ## 2021-2022 Bahar Dönemi
 ### Dersler
 
+#### C Programlama
 - [Hafta 1](./dersler/ders01.md)   EEM-117 Algoritmalar ve programlama dersinde anlatılan temel konular 
 
 - [Hafta 2 a](./dersler/ders02_a.md)  EEM-117 Algoritmalar ve programlama dersinde anlatılan stringler konusu    
@@ -16,12 +17,16 @@
 
 - [Hafta 6](./dersler/ders06.md)  Tür tanımlama, yapı, yapı türü, yapı işaretçisi, yapıların ve yapı işaretçileri ve yapı dizilerinin fonkisyonlarla kullanımı
 
-- [Hafta 7](./dersler/ders07_cs.md)  C# (C-Sharp) konsol uygulamaları
+C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
+[https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
-- Hafta 8: Arasınav
+#### C# (C-Sharp) Programlama
+
+- [Hafta 7](./dersler/ders07_cs.md)  C#  konsol uygulamaları
+
+- Hafta 8 Arasınav
 
 - [Hafta 9](./dersler/ders09_cs_form1.md)  C# Form uygulamaları Button (Düğme), Textbox (Metin Kutusu), Label (Etiket)
 
-C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
-[https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
+
 
