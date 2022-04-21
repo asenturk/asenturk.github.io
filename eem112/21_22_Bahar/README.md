@@ -18,6 +18,10 @@
 
 - [Hafta 7](./dersler/ders07_cs.md)  C# (C-Sharp) konsol uygulamaları
 
+- Hafta 8: Arasınav
+
+- [Hafta 9](./dersler/ders09_cs_form1.md)  C# Form uygulamaları Button (Düğme), Textbox (Metin Kutusu), Label (Etiket)
+
 C programlarınızı adım adım çalıştırmak ve görselleştirmek için:   
 [https://pythontutor.com/visualize.html#mode=edit](https://pythontutor.com/visualize.html#mode=edit)
 
