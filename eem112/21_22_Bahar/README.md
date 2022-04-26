@@ -28,5 +28,6 @@ C programlarınızı adım adım çalıştırmak ve görselleştirmek için:
 
 - [Hafta 9](./dersler/ders09_cs_form1.md)  C# Form uygulamaları Button (Düğme), Textbox (Metin Kutusu), Label (Etiket)
 
+- [Hafta 10](./dersler/ders10_cs_form2.md)  C# Form uygulamaları Check Box, Radio Button
 
 

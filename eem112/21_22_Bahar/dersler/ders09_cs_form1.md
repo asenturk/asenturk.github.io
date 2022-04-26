@@ -1,7 +1,7 @@
-![Form tasarımı](files/ders08_cs_form_01.png)
+![Form tasarımı](files/ders09_cs_form.png)
 
 
-Proje dosyalarını indirmek için [tıklayınız](files/ders08_cs_form.zip).
+Proje dosyalarını indirmek için [tıklayınız](files/ders09_cs_form.zip).
 
 Form1.cs
 ```cs
