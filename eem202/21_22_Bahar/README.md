@@ -7,6 +7,8 @@
 - [Bölüm 2](./dersler/slayt02.pdf) Devre analiz yöntemleri
 - [Bölüm 3](./dersler/slayt03.pdf) Karşılıklı Endüktans
 - [Bölüm 4](./dersler/slayt04.pdf) AC Güç Analizi
+- [Bölüm 5](./dersler/slayt05.pdf) Laplace dönüşümü
+- [Bölüm 6](./dersler/slayt06.pdf) Laplace ile devre analizi
 
 ### Laboratuvar
 - [Laboratuvar ile ilgili açıklamalar](./laboratuvar/lab.pdf)
