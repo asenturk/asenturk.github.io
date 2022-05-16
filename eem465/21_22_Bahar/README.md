@@ -26,7 +26,7 @@
 - [Ders 6 Slayt](./dersler/ders06.pdf)  [Ders 6 kodlamalar](./dersler/ders06.md)   
   Harici kesmeler
 
-- [Ders 7 Slayt](./dersler/ders07.pdf)  [Ders 6 kodlamalar](./dersler/ders07.md)   
+- [Ders 7 Slayt](./dersler/ders07.pdf)  [Ders 7 kodlamalar](./dersler/ders07.md)   
   Basic Timers
 
 
