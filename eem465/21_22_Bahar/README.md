@@ -3,28 +3,31 @@
 ## 2021-2022 Bahar Dönemi
 ### Dersler
 
-- [Hafta 1](./dersler/ders01.md)  
+- [Ders 1](./dersler/ders01.md)  
   İşaretli İşaretsiz sayılar, bit set etme, temizleme, dönüştürme, test etme ve bekleme
 
-- [Hafta 2](./dersler/ders02.md)  
+- [Ders 2](./dersler/ders02.md)  
   Makro işaretçiler, tür dönüşümü, tür tanımlama, yapılar ve yapı işaretçileri
 
-- [Hafta 3 kodlamalar](./dersler/ders03.md)   
+- [Ders 3 kodlamalar](./dersler/ders03.md)   
   Struct Tür tanımlama ile bellek erişimi, işaretçilerin farklı kullanımları ile LED yakma-söndürme programları    
-  [Hafta 3 Slayt](./dersler/ders03.pdf)   
+  [Ders 3 Slayt](./dersler/ders03.pdf)   
   STM32F4 Discovery kartının genel özellikleri, bellek haritası, RCC_AHB1 yazmacı GPIO Moder, IDR, ODR
 
 
-- [Hafta 4 kodlamalar](./dersler/ders04.md)   
+- [Ders 4 kodlamalar](./dersler/ders04.md)   
   Yapı işaretçisi ile GPIO yazmaçlarına erişim, stm32f407xx.h dosyasında bulunan tanımların kullanımı
-- [Hafta 4 Slayt](./dersler/ders04.pdf)   
+- [Ders 4 Slayt](./dersler/ders04.pdf)   
   GPIO push-pull, open drain,pull-up, pull-down modları
 
-- [Hafta 5 Slayt](./dersler/ders05.pdf)  [Hafta 5 kodlamalar](./dersler/ders05.md)   
+- [Ders 5 Slayt](./dersler/ders05.pdf)  [Ders 5 kodlamalar](./dersler/ders05.md)   
   SysTick Timer
 
-- [Hafta 6 Slayt](./dersler/ders06.pdf)  [Hafta 6 kodlamalar](./dersler/ders06.md)   
+- [Ders 6 Slayt](./dersler/ders06.pdf)  [Ders 6 kodlamalar](./dersler/ders06.md)   
   Harici kesmeler
+
+- [Ders 7 Slayt](./dersler/ders07.pdf)  [Ders 6 kodlamalar](./dersler/ders07.md)   
+  Basic Timers
 
 
 ### Dokümanlar
