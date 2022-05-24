@@ -122,10 +122,20 @@ namespace WinFormsApp1
             listView1.Items[i].SubItems.Add(Convert.ToString(satisfiyati));
             listView1.Items[i].SubItems.Add(Convert.ToString(ciro));
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string veri;
+            veri = textBox1.Text + " "+ textBox2.Text + " " + textBox3.Text + " " + textBox4.Text + " " + textBox5.Text + " " + textBox6.Text;
+            checkedListBox1.Items.Add(veri);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < checkedListBox1.Items.Count; i++)
+                if (checkedListBox1.GetItemChecked(i))
+                    checkedListBox1.Items.RemoveAt(i);
+        }
     }
 }
-
-
-
-
 ```
