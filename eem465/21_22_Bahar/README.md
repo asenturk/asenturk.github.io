@@ -27,7 +27,11 @@
   Harici kesmeler
 
 - [Ders 7 Slayt](./dersler/ders07.pdf)  [Ders 7 kodlamalar](./dersler/ders07.md)   
-  Basic Timers
+  Basic Timers - Temel Zamanlayıcılar
+
+- [Ders 8 Slayt](./dersler/ders08.pdf)  [Ders 8 kodlamalar](./dersler/ders08.md)   
+  General Purpose Timers - Genel Amaçlı Zamanlayıcılar
+
 
 
 ### Dokümanlar
