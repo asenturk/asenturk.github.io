@@ -119,29 +119,45 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Random rnd = new Random();
-            int sayi_baslama, sayi_bitis;
-            sayi_baslama = Convert.ToInt32(textBox1.Text);
-            sayi_bitis = Convert.ToInt32(textBox2.Text);
-            int sayi = rnd.Next(sayi_baslama, sayi_bitis);
-            textBox3.Text = sayi.ToString();
-
-            timer1.Interval = 1000;
-            timer1.Enabled = true;
-            label4.Text = sayi.ToString(); ;
+            pictureBox1.Load("resimler/1.jpg");
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            int sayi;
-            sayi = Convert.ToInt32(label4.Text);
-            sayi--;
-            if (sayi >= 0)
-                label4.Text = sayi.ToString();
-            else
-                timer1.Enabled = false;
+            pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+        }
+
+        int sira=1;
+        private void button6_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Load("resimler/"+sira+".jpg");
+            sira++;
+            if (sira == 5)
+                sira = 1;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            DialogResult sonuc = openFileDialog1.ShowDialog();
+            if (sonuc == DialogResult.OK)
+                pictureBox1.Load(openFileDialog1.FileName);
         }
     }
 }
+
 ```
