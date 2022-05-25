@@ -34,4 +34,5 @@ C programlarınızı adım adım çalıştırmak ve görselleştirmek için:
 
 - [Hafta 12](./dersler/ders12_cs_form4.md)  C# Form uygulamaları Rastgele sayı, timer, numericupdown, progressBar, 
 
+- [Hafta 13](./dersler/ders13_cs_form5.md)  C# Form uygulamaları dateTimePicker, monthCalendar, menuStrip, çoklu form, try-catch
 
