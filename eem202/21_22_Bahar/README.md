@@ -9,6 +9,7 @@
 - [Bölüm 4](./dersler/slayt04.pdf) AC Güç Analizi
 - [Bölüm 5](./dersler/slayt05.pdf) Laplace dönüşümü
 - [Bölüm 6](./dersler/slayt06.pdf) Laplace ile devre analizi
+- [Bölüm 7](./dersler/slayt07.pdf) Frekans seçici devreler (Pasif filtreler)
 
 ### Laboratuvar
 - [Laboratuvar ile ilgili açıklamalar](./laboratuvar/lab.pdf)
