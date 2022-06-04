@@ -32,6 +32,12 @@
 - [Ders 8 Slayt](./dersler/ders08.pdf)  [Ders 8 kodlamalar](./dersler/ders08.md)   
   General Purpose Timers - Genel Amaçlı Zamanlayıcılar
 
+- [Ders 9 Slayt](./dersler/ders09.pdf)  [Ders 9 kodlamalar](./dersler/ders09.md)   
+  Analog Dijital Çevrici - ADC
+
+- [Ders 10 Slayt](./dersler/ders10.pdf)  [Ders 10 kodlamalar](./dersler/ders11.md)   
+  Evrensel Senkron Asenkron Alıcı Verici - USART
+
 
 
 ### Dokümanlar
