@@ -38,5 +38,7 @@ C programlarınızı adım adım çalıştırmak ve görselleştirmek için:
 
 - [Hafta 14](./dersler/ders14_cs_form6.md)  C# Dosyaya yazma ve dosya okuma 
 
+- [Hafta 15](./dersler/ders14_cs_form6.md)  C# Örnek uygulamalar direnç hesabı, rastgele en büyük sayı tıklama ouyunu
+
 
 
