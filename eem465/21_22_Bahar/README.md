@@ -35,7 +35,7 @@
 - [Ders 9 Slayt](./dersler/ders09.pdf)  [Ders 9 kodlamalar](./dersler/ders09.md)   
   Analog Dijital Çevrici - ADC
 
-- [Ders 10 Slayt](./dersler/ders10.pdf)  [Ders 10 kodlamalar](./dersler/ders11.md)   
+- [Ders 10 Slayt](./dersler/ders10.pdf)  [Ders 10 kodlamalar](./dersler/ders10.md)   
   Evrensel Senkron Asenkron Alıcı Verici - USART
 
 
