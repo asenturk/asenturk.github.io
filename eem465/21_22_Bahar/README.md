@@ -38,6 +38,9 @@
 - [Ders 10 Slayt](./dersler/ders10.pdf)  [Ders 10 kodlamalar](./dersler/ders10.md)   
   Evrensel Senkron Asenkron Alıcı Verici - USART
 
+- [Ders 11 Slayt](./dersler/ders11.pdf)  [Ders 10 kodlamalar](./dersler/ders11.md)   
+  Dahili ve harici çevrim kaynakları - HSI, HSE  
+
 
 
 ### Dokümanlar
