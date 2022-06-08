@@ -36,5 +36,7 @@ C programlarınızı adım adım çalıştırmak ve görselleştirmek için:
 
 - [Hafta 13](./dersler/ders13_cs_form5.md)  C# Form uygulamaları dateTimePicker, monthCalendar, menuStrip, çoklu form, try-catch
 
+- [Hafta 14](./dersler/ders14_cs_form6.md)  C# Dosyaya yazma ve dosya okuma 
+
 
 
