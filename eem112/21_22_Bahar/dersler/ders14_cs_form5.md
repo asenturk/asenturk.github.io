@@ -1,10 +1,7 @@
 
 
-Bu çalışmada 2 form kullanılmıştır.
-
 Proje dosyalarını indirmek için [tıklayınız](files/ders14_cs_form.zip).
 
-### Form 1
 
 ![Form tasarımı](files/ders14_cs_form.png)
 

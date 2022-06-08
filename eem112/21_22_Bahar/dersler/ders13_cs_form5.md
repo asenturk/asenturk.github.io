@@ -2,7 +2,7 @@
 
 Bu çalışmada 2 form kullanılmıştır.
 
-Proje dosyalarını indirmek için [tıklayınız](files/ders12_cs_form_a.zip).
+Proje dosyalarını indirmek için [tıklayınız](files/ders13_cs_form.zip).
 
 ### Form 1
 
