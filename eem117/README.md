@@ -1,6 +1,6 @@
 # EEM-117 Algoritma ve Programlama  Dersi (Güz)
 
-
+Bu ders kapatılmıştır. Yerine EEM-119 Algoritma ve Programlama I dersi açılmıştır.
 
 
 ## Önceki Dönemler
