@@ -2,11 +2,13 @@
 
 
 ## Mevcut Dönem
-## [2021-2022 Bahar Dönemi](./21_22_Bahar/)
+## [2022-2023 Güz Dönemi](./22_23_Guz/)
 
 
 
 ## Önceki Dönemler
+
+### [2021-2022 Bahar Dönemi](./21_22_Bahar/)
 
 ### [2021-2022 Güz Dönemi](https://github.com/asenturk/eem465_21-22_Guz)
 
