@@ -1,13 +1,9 @@
 # EEM-465 Gömülü Sistemler Dersi
 
 ## 2022-2023 Güz Dönemi
-
 ### Dersler
 
-
-
-```
-- [Ders 1](./dersler/ders01.md)  
+<!-- - [Ders 1](./dersler/ders01.md)  
   İşaretli İşaretsiz sayılar, bit set etme, temizleme, dönüştürme, test etme ve bekleme
 
 - [Ders 2](./dersler/ders02.md)  
@@ -65,5 +61,4 @@
 
 
 ### Diğer kaynaklar
-- [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0)
-```
+- [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0) -->
