@@ -1,11 +1,11 @@
-# EEM-119 Algoritma ve Programlama I Dersi
+# EEM-251 İleri Düzey Programlama
 
-## 2021-2022 Güz Dönemi
+## 2022-2023 Güz Dönemi
 ### Dersler
 
-#### Algoritma
+<!-- #### Algoritma
 
-#### C Programlama
+#### C Programlama -->
 <!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
 
 
