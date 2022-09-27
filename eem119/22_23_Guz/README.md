@@ -3,8 +3,10 @@
 ## 2021-2022 Bahar Dönemi
 ### Dersler
 
+#### Algoritma
+
 #### C Programlama
-- [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi 
+<!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
 
 
 
