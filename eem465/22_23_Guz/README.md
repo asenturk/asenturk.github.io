@@ -1,4 +1,4 @@
-# EEM-465 Gömülü Sistemler Dersi
+# EEM-465 Gömülü Sistemler Dersi 
 
 ## 2022-2023 Güz Dönemi
 ### Dersler
