@@ -3,6 +3,24 @@
 ## 2022-2023 Güz Dönemi
 ### Dersler
 
+
+### STM32F4 Discovery kartının dokümanları
+- [Reference manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/01%20-%20RM0090%20Reference%20manual.pdf)
+- [Datasheet - production data](https://github.com/asenturk/stm32f4/blob/master/Referanslar/02%20-%20STM32F407xx%20Datasheet%20-%20production%20data.pdf)
+- [User manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/04%20-%20UM1472%20User%20manual.pdf)
+
+### Kitap
+- [STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama, Ali Şentürk, Nobel Akademik Yayıncılık, 2021](https://www.nobelyayin.com/stm32f4-discovery-karti-ile-arm-mikrokontrolcu-programlama-17271.html)
+- [ARM Cortex-M4 ile mikrodenetleyici programlama, Oğuz Emre Çakıl, KODLAB Yayın Dağıtım, 2019](https://www.hiperkitap.com/arm-cortex-m4-ile-mikrodenetleyici-programlama)   
+(Üniversitemiz hiperkitap sitesine üye olduğundan bu kitaba ücretsiz ulaşılabilir.)
+
+### İnternet
+- [Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C](https://www.youtube.com/channel/UCY0sQ9hpSR6yZobt1qOv6DA/videos)
+- [Eddie Amaya](https://www.youtube.com/user/sdf3e33/featured)  
+- [Coşkun Taşdemir](https://www.youtube.com/c/CoskunTasdemirKanal/featured)   
+- [Fastbit Embedded Brain Academy](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/featured)
+- [ Mutex Embedded](https://www.youtube.com/channel/UC-CuJ6qKst9-8Z-EXjoYK3Q)
+
 <!-- - [Ders 1](./dersler/ders01.md)  
   İşaretli İşaretsiz sayılar, bit set etme, temizleme, dönüştürme, test etme ve bekleme
 
@@ -54,10 +72,7 @@
 
 
 
-### STM32F4 Discovery kartının dokümanları
-- [Reference manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/01%20-%20RM0090%20Reference%20manual.pdf)
-- [Datasheet - production data](https://github.com/asenturk/stm32f4/blob/master/Referanslar/02%20-%20STM32F407xx%20Datasheet%20-%20production%20data.pdf)
-- [User manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/04%20-%20UM1472%20User%20manual.pdf)
+
 
 
 ### Diğer kaynaklar
