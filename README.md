@@ -2,7 +2,7 @@
 # ISUBU Elektrik-Elektronik Mühendisliği
 
 
-## 2021-2022 Bahar Dönemi
+## 2022-2023 Güz Dönemi
 ### [EEM-119 Algoritma ve Programlama I](./eem119/22_23_Guz/)
 ### [EEM-251 İleri Düzey Programlama](eem251/22_23_Guz/)
 ### [EEM-465 Gömülü Sistemler](./eem465/22_23_Guz/)
