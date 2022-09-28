@@ -16,7 +16,14 @@
 - [Kodlamaya Yeni Başlayanlar İçin Temel Programlama, Mehmet Tekdal](https://www.turcademy.com/tr/kitap/kodlamaya-yeni-baslayanlar-icin-temel-programlama-programlama-dilleri-i-program-gelistirme-yontemleri-algoritmalar-akis-semalari-c-pascal-9789750239021)
 
 #### İnternet
-- https://www.bilgigunlugum.net/prog/cprog/c_proggiris
+- [Algoritma ve Programlamaya Giriş Ders Notları](http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf)
+(4-67. sayfalar)
+- [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](Flowgorithm ile Algoritma ve Akış Diyagramı)
+- [Bilgi Günlüğüm](https://www.bilgigunlugum.net/prog/cprog/c_proggiris)
+
+#### Programlar
+- [Flowgorithm](http://www.flowgorithm.org/download/index.html)
+- [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/)
 
 
 
