@@ -18,7 +18,7 @@
 #### İnternet
 - [Algoritma ve Programlamaya Giriş Ders Notları](http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf)
 (4-67. sayfalar)
-- [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](Flowgorithm ile Algoritma ve Akış Diyagramı)
+- [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
 - [Bilgi Günlüğüm](https://www.bilgigunlugum.net/prog/cprog/c_proggiris)
 
 #### Programlar
