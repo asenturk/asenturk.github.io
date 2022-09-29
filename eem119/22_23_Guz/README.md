@@ -1,12 +1,18 @@
 # EEM-119 Algoritma ve Programlama I Dersi
 
 ## 2021-2022 Güz Dönemi
+
+### Duyurular
+\1. öğretim dersleri saat 09.00'da başlayacaktır. 
+
 <!-- ### Dersler
 
 #### Algoritma
 
 #### C Programlama -->
 <!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
+
+
 
 ### Kaynaklar
 #### Kitaplar
