@@ -2,16 +2,16 @@
 
 ## 2021-2022 Güz Dönemi
 
+## [Duyurular](#duyurular) | ## [Dersler](#dersler) | [Kaynaklar](#kaynaklar) | ## [Programlar](#programlar)
+
 ### Duyurular
-1\. öğretim dersleri saat 09.00'da başlayacaktır. 
+- 1\. öğretim dersleri saat 09.00'da başlayacaktır. 
+  
+
+### Dersler
+- Hafta 1: 
 
 
-<!-- ### Dersler
-
-#### Algoritma
-
-#### C Programlama -->
-<!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
 
 
 
