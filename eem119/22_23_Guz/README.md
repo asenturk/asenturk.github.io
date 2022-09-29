@@ -3,7 +3,8 @@
 ## 2021-2022 Güz Dönemi
 
 ### Duyurular
-\1. öğretim dersleri saat 09.00'da başlayacaktır. 
+1\. öğretim dersleri saat 09.00'da başlayacaktır. 
+
 
 <!-- ### Dersler
 
