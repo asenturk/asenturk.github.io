@@ -12,7 +12,7 @@
 ### Arduino Programlama
 
 #### Dersler
-- [Hafta 1](./dersler/01.md): Arduino led yakma söndürme örneği
+- [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
