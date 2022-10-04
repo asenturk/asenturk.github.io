@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-29 11:14:12 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTA5LTI5OzEwOjUwOjIzIMOWw5Y7Mjg3MQ=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTA5LTI5OzExOjE0OjEyIMOWw5Y7MjsyOTc5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, eb" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <input variable="c"/>
+            <assign variable="eb" expression="a"/>
+            <if expression="b&gt;eb">
+                <then>
+                    <assign variable="eb" expression="b"/>
+                    <if expression="c&gt;eb">
+                        <then>
+                            <assign variable="eb" expression="c"/>
+                        </then>
+                        <else/>
+                    </if>
+                </then>
+                <else>
+                    <if expression="c&gt;eb">
+                        <then>
+                            <assign variable="eb" expression="c"/>
+                        </then>
+                        <else/>
+                    </if>
+                </else>
+            </if>
+            <output expression="eb" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

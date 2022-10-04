@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-29 11:18:14 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTA5LTI5OzExOjE0OjM4IMOWw5Y7Mjg3OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTA5LTI5OzExOjE4OjE0IMOWw5Y7MTsyOTg0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <assign variable="sayac" expression="0"/>
+            <while expression="sayac&lt;10">
+                <assign variable="sayac" expression="sayac+1"/>
+                <output expression="sayac" newline="True"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
