@@ -3,7 +3,7 @@
 ## 2022-2023 Güz Dönemi
 ### Dersler 
 - Hafta 1: 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
-- Hafta 2:
+- Hafta 2: C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme
 
 
 ### STM32F4 Discovery kartının dokümanları
