@@ -5,7 +5,7 @@
 <!-- ## [Duyurular](#duyurular) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar) -->
 
 ### Duyurular
-- 1\. öğretim dersleri saat 09:00'da başlayacaktır. 
+- 1\. öğretim dersleri saat 08:45'te başlayacaktır. 
   
 
 ### Dersler
