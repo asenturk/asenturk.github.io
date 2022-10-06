@@ -10,6 +10,7 @@
 
 ### Dersler
 - [Hafta 1](./dersler/01.md):  Sözde kod, akış diyagramı
+- [Hafta 2](./dersler/02.md):
 
 
 
