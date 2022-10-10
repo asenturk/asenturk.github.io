@@ -13,7 +13,7 @@
 
 #### Dersler
 - [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
-- [Hafta 2](./dersler/02.md): 
+- [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, ikili sayıcı
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
