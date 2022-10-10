@@ -17,17 +17,6 @@
 
 
 ### Kaynaklar
-#### Dokümanlar
-- [Keil Program ve Kütüphane Kurulumu](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/01_program_ve_kutuphane_kurulumu.pdf)
-- [Yeni Proje](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/09_proje_olu%C5%9Fturma.pdf)
-- [Derleyici Değiştirme](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/04_derleyici_degistirme.pdf)
-- [Debug Modu ve Watch Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/05_debug_watch_penceresi.pdf)
-- [Debug Modu ve Bellek Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/07_bellek_veri_kontrolu.pdf)
-- [Başlık dosyası ekleme ve içeriğine ulaşma](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/08_baslik_dosyalari.pdf)
-- [Logic Analyser kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/11_logic_analyser_kullanimi.pdf)
-
-#### Diğer
-- [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0)
 
 #### Kitaplar
 Hiperkitap ve Turcademy sitelerine üniversitemiz üye olduğundan bu sitedeki kitaplara ücretsiz ulaşabilirsiniz.   
