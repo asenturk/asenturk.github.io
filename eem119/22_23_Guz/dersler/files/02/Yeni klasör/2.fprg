@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-06 09:38:21 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTA2OzA5OjA5OjA5IMOWw5Y7Mjg3NA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTA2OzA5OjM4OjIxIMOWw5Y7MjsyOTc5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, x, n, sonuc" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="0"/>
+            <assign variable="sonuc" expression="1"/>
+            <input variable="x"/>
+            <input variable="n"/>
+            <while expression="i&lt;n">
+                <assign variable="sonuc" expression="sonuc*x"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

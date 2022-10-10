@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-06 09:24:01 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTA2OzA5OjA5OjA5IMOWw5Y7Mjg3NA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTA2OzA5OjI0OjAxIMOWw5Y7MTsyOTcx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, n, toplam" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="1"/>
+            <assign variable="toplam" expression="0"/>
+            <input variable="n"/>
+            <while expression="i&lt;=n">
+                <assign variable="toplam" expression="toplam+i"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -9,8 +9,8 @@
   
 
 ### Dersler
-- [Hafta 1](./dersler/01.md):  Sözde kod, akış diyagramı
-- [Hafta 2](./dersler/02.md):
+- [Hafta 1](./dersler/01.md):  Sözde kod, akış diyagramı örnekler
+- [Hafta 2](./dersler/02.md): Akış diyagramı örnekler
 
 
 
