@@ -11,6 +11,20 @@
 - [Datasheet - production data](https://github.com/asenturk/stm32f4/blob/master/Referanslar/02%20-%20STM32F407xx%20Datasheet%20-%20production%20data.pdf)
 - [User manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/04%20-%20UM1472%20User%20manual.pdf)
 
+### Dokümanlar
+- [Keil Program ve Kütüphane Kurulumu](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/01_program_ve_kutuphane_kurulumu.pdf)
+- [Yeni Proje](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/09_proje_olu%C5%9Fturma.pdf)
+- [Derleyici Değiştirme](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/04_derleyici_degistirme.pdf)
+- [Debug Modu ve Watch Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/05_debug_watch_penceresi.pdf)
+- [Debug Modu ve Bellek Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/07_bellek_veri_kontrolu.pdf)
+- [Başlık dosyası ekleme ve içeriğine ulaşma](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/08_baslik_dosyalari.pdf)
+- [Logic Analyser kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/11_logic_analyser_kullanimi.pdf)
+
+
+### Diğer
+- [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0)
+
+
 ### Kitap
 - [STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama, Ali Şentürk, Nobel Akademik Yayıncılık, 2021](https://www.nobelyayin.com/stm32f4-discovery-karti-ile-arm-mikrokontrolcu-programlama-17271.html)
 - [ARM Cortex-M4 ile mikrodenetleyici programlama, Oğuz Emre Çakıl, KODLAB Yayın Dağıtım, 2019](https://www.hiperkitap.com/arm-cortex-m4-ile-mikrodenetleyici-programlama)   
@@ -63,19 +77,4 @@
 
 
 
-### Dokümanlar
-- [Keil Program ve Kütüphane Kurulumu](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/01_program_ve_kutuphane_kurulumu.pdf)
-- [Yeni Proje](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/09_proje_olu%C5%9Fturma.pdf)
-- [Derleyici Değiştirme](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/04_derleyici_degistirme.pdf)
-- [Debug Modu ve Watch Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/05_debug_watch_penceresi.pdf)
-- [Debug Modu ve Bellek Penceresi Kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/07_bellek_veri_kontrolu.pdf)
-- [Başlık dosyası ekleme ve içeriğine ulaşma](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/08_baslik_dosyalari.pdf)
-- [Logic Analyser kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/11_logic_analyser_kullanimi.pdf)
-
-
-
-
-
-
-### Diğer kaynaklar
-- [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0) -->
+ -->
