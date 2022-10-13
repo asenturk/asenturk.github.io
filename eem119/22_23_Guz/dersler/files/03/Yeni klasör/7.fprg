@@ -4,19 +4,16 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="Ali"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2022-10-13 10:42:02 &#214;&#214;"/>
-        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzEwOjM0OjM4IMOWw5Y7Mjg2NA=="/>
-        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzEwOjQyOjAyIMOWw5Y7MTsyOTYy"/>
+        <attribute name="saved" value="2022-10-13 06:24:11 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA2OjIyOjUwIMOWUzsyNzI5"/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA2OjI0OjExIMOWUzsxOzI4MzY="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
-            <declare name="i, j, n" type="Integer" array="False" size=""/>
-            <assign variable="i" expression="1"/>
-            <assign variable="j" expression="1"/>
-            <assign variable="n" expression="10"/>
-            <for variable="i" start="1" end="n" direction="inc" step="1">
-                <for variable="j" start="1" end="n" direction="inc" step="1">
+            <declare name="i, j" type="Integer" array="False" size=""/>
+            <for variable="i" start="1" end="6" direction="inc" step="1">
+                <for variable="j" start="1" end="6" direction="inc" step="1">
                     <output expression="i*j" newline="False"/>
                     <output expression="&quot; &quot;" newline="False"/>
                 </for>

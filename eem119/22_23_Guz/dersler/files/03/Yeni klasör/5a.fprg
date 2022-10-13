@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 06:19:09 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA1OjU5OjA4IMOWUzsyNzQx"/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA2OjE5OjA5IMOWUzsxOzI4NDc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, i, n" type="Integer" array="False" size=""/>
+            <declare name="asal" type="Boolean" array="False" size=""/>
+            <assign variable="n" expression="1000"/>
+            <assign variable="sayi" expression="2"/>
+            <while expression="sayi&lt;=n">
+                <assign variable="i" expression="2"/>
+                <assign variable="asal" expression="true"/>
+                <while expression="i&lt;sayi">
+                    <if expression="sayi%i==0">
+                        <then>
+                            <assign variable="asal" expression="false"/>
+                        </then>
+                        <else/>
+                    </if>
+                    <assign variable="i" expression="i+1"/>
+                </while>
+                <if expression="asal==true">
+                    <then>
+                        <output expression="sayi" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="sayi" expression="sayi+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
