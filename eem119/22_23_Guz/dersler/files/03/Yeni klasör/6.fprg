@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 10:33:00 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzEwOjAxOjU0IMOWw5Y7Mjg1Ng=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzEwOjMzOjAwIMOWw5Y7MTsyOTYw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2, n, i, temp" type="Integer" array="False" size=""/>
+            <assign variable="sayi1" expression="1"/>
+            <assign variable="sayi2" expression="1"/>
+            <assign variable="i" expression="2"/>
+            <input variable="n"/>
+            <while expression="i&lt;n">
+                <assign variable="temp" expression="sayi1+sayi2"/>
+                <assign variable="sayi1" expression="sayi2"/>
+                <assign variable="sayi2" expression="temp"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="temp" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

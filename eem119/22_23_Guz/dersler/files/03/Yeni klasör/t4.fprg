@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 12:35:15 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA5OjIwOjM0IMOWw5Y7Mjg2Mw=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzEyOjM1OjE1IMOWUzszOzI4NDE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="uzunluk, azalma, i" type="Integer" array="False" size=""/>
+            <assign variable="uzunluk" expression="300"/>
+            <assign variable="azalma" expression="10"/>
+            <while expression="uzunluk&gt;0">
+                <forward expression="uzunluk" pen="down"/>
+                <turn expression="90" rotate="right"/>
+                <assign variable="uzunluk" expression="uzunluk-azalma"/>
+                <forward expression="uzunluk" pen="down"/>
+                <turn expression="90" rotate="right"/>
+                <forward expression="uzunluk" pen="down"/>
+                <turn expression="90" rotate="right"/>
+                <assign variable="uzunluk" expression="uzunluk-azalma"/>
+                <forward expression="uzunluk" pen="down"/>
+                <turn expression="90" rotate="right"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

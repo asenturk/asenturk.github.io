@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 09:14:31 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA3OjQ5OjMwIMOWw5Y7Mjg2OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA5OjE0OjMxIMOWw5Y7MTsyOTcx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="eb, ek, toplam, carpim, i, sayi" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <assign variable="carpim" expression="sayi"/>
+            <assign variable="toplam" expression="sayi"/>
+            <assign variable="eb" expression="sayi"/>
+            <assign variable="ek" expression="sayi"/>
+            <assign variable="i" expression="1"/>
+            <while expression="i&lt;10">
+                <input variable="sayi"/>
+                <if expression="sayi&gt;eb">
+                    <then>
+                        <assign variable="eb" expression="sayi"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="sayi&lt;ek">
+                    <then>
+                        <assign variable="ek" expression="sayi"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="toplam" expression="toplam+sayi"/>
+                <assign variable="carpim" expression="carpim*sayi"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="eb" newline="True"/>
+            <output expression="ek" newline="True"/>
+            <output expression="carpim" newline="True"/>
+            <output expression="toplam/10" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

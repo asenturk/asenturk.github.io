@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 09:44:10 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA5OjI5OjMzIMOWw5Y7Mjg3MQ=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA5OjQ0OjEwIMOWw5Y7MTsyOTcx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi1, sayi2, ebob, i" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="2"/>
+            <assign variable="ebob" expression="1"/>
+            <input variable="sayi1"/>
+            <input variable="sayi2"/>
+            <while expression="i&lt;=sayi1 &amp;&amp; i&lt;=sayi2">
+                <if expression="sayi1%i==0 &amp;&amp; sayi2%i==0">
+                    <then>
+                        <assign variable="ebob" expression="i"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="ebob" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

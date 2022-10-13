@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 09:41:20 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA5OjI1OjE4IMOWw5Y7Mjg3MA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA5OjQxOjIwIMOWw5Y7MTsyOTY5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bolunen, bolen, bolum" type="Integer" array="False" size=""/>
+            <input variable="bolunen"/>
+            <input variable="bolen"/>
+            <assign variable="bolum" expression="0"/>
+            <while expression="bolunen&gt;=bolen">
+                <assign variable="bolunen" expression="bolunen-bolen"/>
+                <assign variable="bolum" expression="bolum+1"/>
+            </while>
+            <output expression="bolum" newline="True"/>
+            <output expression="bolunen" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
