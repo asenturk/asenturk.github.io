@@ -8,8 +8,7 @@
 - 1\. öğretim dersleri saat 08:45'te başlayacaktır. 
 
 ### Ödevler
-Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx).   
-Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).
+Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).   
 
 - Ödev 1: Klavyeden girilen a sayısından b sayısına kadar n artan sayıları ekrana yazdıran programı while döngüsü ve for döngüsü ile flowgorithm programında yapınız.   
 Ödev 1 yükleme bağlantısı için [tıklayınız](https://forms.gle/7fu7zvmkxg2BbmJw7). Son yükleme tarihi 21.10.2022 23:59
