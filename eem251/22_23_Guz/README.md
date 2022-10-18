@@ -13,8 +13,8 @@
 
 #### Dersler
 - [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
-- [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, ikili sayıcı
-- [Hafta 3](./dersler/03.md): Sıralı LED yakma söndürmek örnekleri, ikili sayıcı
+- [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
+- [Hafta 3](./dersler/03.md): input pin modu, pull-up, pull-down, millis fonksiyonu 
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
