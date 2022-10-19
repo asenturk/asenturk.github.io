@@ -39,6 +39,7 @@ Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.
 - [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
 - [Bilgi Günlüğüm](https://www.bilgigunlugum.net/prog/cprog/c_proggiris)
 - [Flowgorithm ile Algoritma ve Akış Diyagramı dersleri Youtube oynatma listesi](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
+- [Flowgorithm Tutorial](https://www.testingdocs.com/flowgorithm-flowchart-tutorial/)
 
 ### Programlar
 - [Flowgorithm](http://www.flowgorithm.org/download/index.html)
