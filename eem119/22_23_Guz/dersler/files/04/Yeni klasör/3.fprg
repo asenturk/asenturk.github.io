@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-20 09:11:34 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA4OjUzOjQ2IMOWw5Y7Mjg2OQ=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjExOjM0IMOWw5Y7NTsyOTcz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Integer" array="True" size="5"/>
+            <declare name="i, toplam" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="4" direction="inc" step="1">
+                <input variable="a[i]"/>
+            </for>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="i" expression="4"/>
+            <while expression="i&gt;=0">
+                <assign variable="toplam" expression="toplam+a[i]"/>
+                <assign variable="i" expression="i-1"/>
+            </while>
+            <output expression="toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-20 10:04:18 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjU5OjUyIMOWw5Y7Mjg3Mw=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzEwOjA0OjE4IMOWw5Y7MTsyOTY1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <output expression="topla(a,b)" newline="True"/>
+        </body>
+    </function>
+    <function name="topla" type="Integer" variable="toplam">
+        <parameters>
+            <parameter name="x" type="Integer" array="False"/>
+            <parameter name="y" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="toplam" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="x+y"/>
+        </body>
+    </function>
+</flowgorithm>

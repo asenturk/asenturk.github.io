@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-20 09:07:21 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA4OjUzOjQ2IMOWw5Y7Mjg2OQ=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjA3OjIxIMOWw5Y7NzsyOTc2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayilar" type="Integer" array="True" size="50"/>
+            <declare name="tek" type="Integer" array="True" size="50"/>
+            <declare name="cift" type="Integer" array="True" size="50"/>
+            <declare name="i, j, k" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="49" direction="inc" step="1">
+                <assign variable="sayilar[i]" expression="random(1000)"/>
+            </for>
+            <for variable="i" start="0" end="49" direction="inc" step="1">
+                <output expression="sayilar[i]&amp;&quot; &quot;" newline="False"/>
+            </for>
+            <assign variable="j" expression="0"/>
+            <assign variable="k" expression="0"/>
+            <for variable="i" start="0" end="49" direction="inc" step="1">
+                <if expression="sayilar[i]%2 == 0">
+                    <then>
+                        <assign variable="cift[j]" expression="sayilar[i]"/>
+                        <assign variable="j" expression="j+1"/>
+                    </then>
+                    <else>
+                        <assign variable="tek[k]" expression="sayilar[i]"/>
+                        <assign variable="k" expression="k+1"/>
+                    </else>
+                </if>
+            </for>
+            <output expression="&quot;&quot;" newline="True"/>
+            <output expression="&quot;tek sayi  sayisi &quot; &amp;k" newline="True"/>
+            <output expression="&quot;cift sayi sayisi &quot; &amp; j" newline="True"/>
+            <for variable="i" start="0" end="k-1" direction="inc" step="1">
+                <output expression="tek[i] &amp; &quot; &quot;" newline="False"/>
+            </for>
+            <output expression="&quot;&quot;" newline="True"/>
+            <for variable="i" start="0" end="j-1" direction="inc" step="1">
+                <output expression="cift[i] &amp; &quot; &quot;" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

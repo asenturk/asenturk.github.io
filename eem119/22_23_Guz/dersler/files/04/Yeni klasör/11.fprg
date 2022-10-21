@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-20 09:59:49 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjQ4OjI2IMOWw5Y7Mjg3Mg=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjU5OjQ5IMOWw5Y7MzsyOTg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, j, n" type="Integer" array="False" size=""/>
+            <input variable="n"/>
+            <for variable="i" start="1" end="n" direction="inc" step="1">
+                <call expression="yildizYaz(i)"/>
+                <output expression="&quot;&quot;" newline="True"/>
+            </for>
+        </body>
+    </function>
+    <function name="yildizYaz" type="None" variable="">
+        <parameters>
+            <parameter name="yildizSayisi" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="yildizSayisi-1" direction="inc" step="1">
+                <output expression="&quot;*&quot;" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

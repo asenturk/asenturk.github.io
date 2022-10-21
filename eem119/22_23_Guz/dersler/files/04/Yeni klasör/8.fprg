@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-20 09:47:58 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjM4OjU0IMOWw5Y7Mjg3Mg=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzA5OjQ3OjU4IMOWw5Y7MTsyOTg0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, toplam" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="4" direction="inc" step="1">
+                <assign variable="toplam" expression="okuVeTopla()"/>
+                <output expression="toplam" newline="True"/>
+            </for>
+        </body>
+    </function>
+    <function name="okuVeTopla" type="Integer" variable="toplam">
+        <parameters/>
+        <body>
+            <declare name="a, b, toplam" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <assign variable="toplam" expression="a+b"/>
+        </body>
+    </function>
+</flowgorithm>

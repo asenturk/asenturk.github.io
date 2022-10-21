@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-20 10:21:46 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzEwOjA3OjU0IMOWw5Y7Mjg2MA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTIwOzEwOjIxOjQ2IMOWw5Y7MjsyOTY2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, fakt" type="Integer" array="False" size=""/>
+            <input variable="x"/>
+            <assign variable="fakt" expression="faktoriyel(x)"/>
+            <output expression="fakt" newline="True"/>
+        </body>
+    </function>
+    <function name="faktoriyel" type="Integer" variable="f">
+        <parameters>
+            <parameter name="n" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="f, i" type="Integer" array="False" size=""/>
+            <assign variable="f" expression="1"/>
+            <for variable="i" start="2" end="n" direction="inc" step="1">
+                <assign variable="f" expression="f*i"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
