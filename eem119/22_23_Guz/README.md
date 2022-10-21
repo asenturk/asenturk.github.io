@@ -18,6 +18,7 @@
 - [Hafta 1](./dersler/01.md): Sözde kod, akış diyagramı örnekler
 - [Hafta 2](./dersler/02.md): Akış diyagramı örnekler
 - [Hafta 3](./dersler/03.md): Akış diyagramı ve  çizdirme örnekleri
+- [Hafta 4](./dersler/04.md): Akış diyagramı dizi ve fonksiyon örnekleri
 
 
 
