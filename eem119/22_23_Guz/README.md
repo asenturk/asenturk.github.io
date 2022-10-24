@@ -2,7 +2,7 @@
 
 ## 2022-2023 Güz Dönemi
 
-<!-- ## [Duyurular](#duyurular) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar) -->
+## [Duyurular](#duyurular) |  [Ödevler](#ödevler) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
 
 ### Duyurular
 - 1\. öğretim dersleri saat 08:45'te başlayacaktır. 
