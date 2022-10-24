@@ -10,10 +10,12 @@
 ### Ödevler
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).   
 
+- Ödev 2: Klavyeden girilen a'dan b sayısına kadar olan x değerleri için 2x+3 değerlerini ekrana yazdıran programı flowgorithm ile tasarlayınız. 2x+3 işlemi x değerini parametre olarak alan ve işlem sonucu elde edilen değeri döndüren bir fonksiyonla yapılmalıdır.   
+Ödev yükleme bağlantısı için [tıklayınız](https://forms.gle/7aku2KDyVeRKGzER6). Son yükleme tarihi 26.10.2022 23:59
+
 - Ödev 1: Klavyeden girilen a sayısından b sayısına kadar n artan sayıları ekrana yazdıran programı while döngüsü ve for döngüsü ile flowgorithm programında yapınız. Son yükleme tarihi 21.10.2022 23:59
 
-- Ödev 2: Klavyeden girilen a'dan b sayısına kadar olan x değerleri için 2x+3 değerlerini ekrana yazdıran programı flowgorithm ile tasarlayınız. 2x+3 işlemi x değerini parametre olarak alan ve işlem sonucu elde edilen değeri döndüren bir fonksiyonla yapılmalıdır.   
-Ödev yükleme bağlantısı için [tıklayınız](https://forms.gle/LiVofyZin3LM37hw8). Son yükleme tarihi 26.10.2022 23:59
+
 
 
 
