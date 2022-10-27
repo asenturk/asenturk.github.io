@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-27 09:23:56 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTI3OzA4OjUxOjMzIMOWw5Y7Mjg3MA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTI3OzA5OjIzOjU2IMOWw5Y7OTsyOTkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="metin" type="String" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <input variable="metin"/>
+            <for variable="i" start="0" end="len(metin)-1" direction="inc" step="1">
+                <if expression="tocode(char(metin,i))&gt;=tocode(&quot;a&quot;) &amp;&amp; tocode(char(metin,i))&lt;=tocode(&quot;z&quot;)">
+                    <then>
+                        <output expression="ToChar(tocode(char(metin,i))-32)" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="char(metin,i)" newline="True"/>
+                    </else>
+                </if>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
