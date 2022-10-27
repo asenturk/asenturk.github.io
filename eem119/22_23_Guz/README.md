@@ -26,6 +26,7 @@
 - [Hafta 2](./dersler/02.md): Akış diyagramı örnekler
 - [Hafta 3](./dersler/03.md): Akış diyagramı ve  çizdirme örnekleri
 - [Hafta 4](./dersler/04.md): Akış diyagramı dizi ve fonksiyon örnekleri
+- [Hafta 5a](./dersler/05a.md)  [Hafta 5b](./dersler/05b.md)
 
 
 
