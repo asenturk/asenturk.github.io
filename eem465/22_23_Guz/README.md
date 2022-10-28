@@ -4,12 +4,19 @@
 ### Dersler 
 - Hafta 1:   
 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
-- Hafta 2: [Kodlamalar](./dersler/02.md)
+- Hafta 2: [Kodlamalar](./dersler/02.md)   
 C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme    
+- Hafta 3: [Kodlamalar](./dersler/03.md)   
+Makro tanımlama, işaretçiler, tür dönüşümü,  yapılar, yapı işaretçileri, tür tanımlama, yapı türü
+- Hafta 4: [Kodlamalar](./dersler/04.md) | [Slayt](./dersler/04.pdf)   
+LED yakma için gerekli kodlamalar, buton kontrolü, makro tanımlamaları, yapı türü tanımlamaları
+- Hafta 5: [Kodlamalar](./dersler/05.md) | [Slayt](./dersler/05.pdf)   
+stm32f407xx.h başlık dosyası tanımlamalarının kullanımı ile programlama, input ve output modları
 
-- [Hafta 3](./dersler/03.md): 
-- [Hafta 4](./dersler/04.md) [Slayt](./dersler/04.pdf): 
-- [Hafta 5](./dersler/05.md) [Slayt](./dersler/05.pdf):
+
+
+
+
 
 
 ### STM32F4 Discovery kartının dokümanları
