@@ -2,8 +2,11 @@
 
 ## 2022-2023 Güz Dönemi
 ### Dersler 
-- Hafta 1: 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
-- [Hafta 2](./dersler/02.md): C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme
+- Hafta 1:   
+2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
+- Hafta 2: [Kodlamalar](./dersler/02.md)
+C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme    
+
 - [Hafta 3](./dersler/03.md): 
 - [Hafta 4](./dersler/04.md) [Slayt](./dersler/04.pdf): 
 - [Hafta 5](./dersler/05.md) [Slayt](./dersler/05.pdf):

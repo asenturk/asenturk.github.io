@@ -27,7 +27,7 @@
 - [Hafta 3](./dersler/03.md): Akış diyagramı örnekler (+çizdirme)
 - [Hafta 4](./dersler/04.md): Akış diyagramı dizi ve fonksiyon örnekleri
 - [Hafta 5](./dersler/05a.md): Akış diyagramı string, karakter işleme örnekleri
-- [Hafta 5](./dersler/05b.md): C programlama 
+- [Hafta 5](./dersler/05b.md): C programlama printf() fonksiyonu kullanımı, char türü, sizeof() operatörü, aritmetik operatörler
 
 
 
