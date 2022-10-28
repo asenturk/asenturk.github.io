@@ -15,8 +15,8 @@
 - [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
 - [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
 - [Hafta 3](./dersler/03.md): input pin modu, pull-up, pull-down dirençleri, millis() fonksiyonu 
-- [Hafta 4](./dersler/04.md): Yazılımla debounce, 7 segmentli gösterge uygulamaları, BCD to 7 segment decoder entegresi kullanımı
-- [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD kullanımı
+- [Hafta 4](./dersler/04.md): Yazılımla debounce, 7 segmentli gösterge, BCD to 7 segment decoder entegresi
+- [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
