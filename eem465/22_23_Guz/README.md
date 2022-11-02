@@ -12,6 +12,8 @@ Makro tanımlama, işaretçiler, tür dönüşümü,  yapılar, yapı işaretçi
 LED yakma için gerekli kodlamalar, buton kontrolü, makro tanımlamaları, yapı türü tanımlamaları
 - Hafta 5: [Kodlamalar](./dersler/05.md) | [Slayt](./dersler/05.pdf)   
 stm32f407xx.h başlık dosyası tanımlamalarının kullanımı ile programlama, input ve output modları
+- Hafta 6: [Kodlamalar](./dersler/06.md) | [Slayt](./dersler/06.pdf)   
+Kesme (interrupt) programlama
 
 
 
