@@ -34,7 +34,7 @@ Son yükleme tarihi 28.10.2022 23:59
 - [Hafta 5](./dersler/05a.md): Akış diyagramı string, karakter işleme örnekleri
 - [Hafta 5](./dersler/05b.md): C programlama printf() fonksiyonu kullanımı, char türü, sizeof() operatörü, aritmetik operatörler
 - [Hafta 6](./dersler/06.md): 
-- [Hafta 6](./dersler/07.md): 
+- [Hafta 7](./dersler/07.md): 
 
 
 
