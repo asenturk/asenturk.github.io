@@ -10,6 +10,9 @@
 ### Ödevler
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx). 
 
+- 8. hafta Lab Çalışması: Bu çalışma ödev olarak istenmemektedir.
+- Girilen bir tam sayıyı tersten yazdıran programı yazınız. (Programda while döngüsü kullanılacaktır.)
+
 - Ödev 4: Girilen bir metinde her bir küçük harften (a, z ve arasindaki İngiliz alfabesindeki küçük harfler) kaç tane olduğunu ekrana yazdıran programı flowgorithm ile tasarlayınız. Ödev yükleme bağlantısı için [tıklayınız](https://forms.gle/zqSJfc1R2usHJmgP9). Son yükleme tarihi 11.11.2022 23:59
 
 - Ödev 3: Bir tam sayı dizisinin 50 elemanı olsun. Bu tamsayı dizisine en fazla 50 tane veya 0 girilene kadar el ile pozitif veya negatif sayılar girilmelidir. Sayı girme işlemi tamamlandıktan sonra önce  pozitif sayıları, daha sonra negatif sayıları ekrana yazdıran, pozitif ve negatif sayıların ortalamasını bulan programı flowgorithm ile tasarlayınız.   
