@@ -19,6 +19,7 @@
 - [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD
 - [Hafta 6](./dersler/06.md):
 - [Hafta 7](./dersler/07.md):
+- [Hafta 8](./dersler/08.md):
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
