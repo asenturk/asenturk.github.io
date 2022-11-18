@@ -8,10 +8,9 @@
 #### C Programlama -->
 <!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
 
+### Dersler
+#### Arduino Programlama
 
-### Arduino Programlama
-
-#### Dersler
 - [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
 - [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
 - [Hafta 3](./dersler/03.md): input pin modu, pull-up, pull-down dirençleri, millis() fonksiyonu 
@@ -19,7 +18,10 @@
 - [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD
 - [Hafta 6](./dersler/06.md): Analog okuma, map() fonksiyonu, analogWrite() - PWM sinyali
 - [Hafta 7](./dersler/07.md): LCD uygulamaları, motor sürme, RGB LED analogWrite(), servo motor, Osiloskop ve Röle kullanımı
-- [Hafta 8](./dersler/08.md):
+
+#### Python Programlama
+
+- [Hafta 8](./dersler/08.md): 
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
