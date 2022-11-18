@@ -17,7 +17,7 @@
 - [Hafta 3](./dersler/03.md): input pin modu, pull-up, pull-down dirençleri, millis() fonksiyonu 
 - [Hafta 4](./dersler/04.md): Yazılımla debounce, 7 segmentli gösterge, BCD to 7 segment decoder entegresi
 - [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD
-- [Hafta 6](./dersler/06.md): Analog okuma, map() fonksiyonu, analogWrite() ile PWM sinyali,
+- [Hafta 6](./dersler/06.md): Analog okuma, map() fonksiyonu, analogWrite() - PWM sinyali
 - [Hafta 7](./dersler/07.md):
 - [Hafta 8](./dersler/08.md):
 
