@@ -21,7 +21,7 @@
 
 #### Python Programlama
 
-- [Hafta 8](./dersler/08.md): 
+- [Hafta 8](./dersler/08.md): print, dir, help, str.title, str.rstrip, str.lstrip, str.strip fonksiyonlarının kullanımı, listeler, sort metodu, 
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
