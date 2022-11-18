@@ -43,8 +43,8 @@ Son yükleme tarihi 28.10.2022 23:59
 
 - [Hafta 5](./dersler/05b.md): C programlama printf() fonksiyonu kullanımı, char türü, sizeof() operatörü, aritmetik operatörler
 - [Hafta 6](./dersler/06.md): Format belirleyicileri (%d %f %lf), scanf() fonksiyonu, #define ile tanımlama, değişken tanımlama kuralları, bileşik operatörler (+= gibi), ön arttırım (++i), son arttırım (i++)
-- [Hafta 7](./dersler/07.md): 
-- [Hafta 8](./dersler/08.md): do-while döngüsü
+- [Hafta 7](./dersler/07.md): karşılaştırma operatörleri, mantık operatörleri, if-else if-else, üçlü (ternary) (?:) operatör, while döngüsü 
+- [Hafta 8](./dersler/08.md): do-while döngüsü, for döngüsü, virgül kullanımı, break, continue
 
 
 
