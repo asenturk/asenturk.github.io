@@ -13,9 +13,11 @@ LED yakma için gerekli kodlamalar, buton kontrolü, makro tanımlamaları, yap�
 - Hafta 5: [Kodlamalar](./dersler/05.md) | [Slayt](./dersler/05.pdf)   
 stm32f407xx.h başlık dosyası tanımlamalarının kullanımı ile programlama, input ve output modları
 - Hafta 6: [Kodlamalar](./dersler/06.md) | [Slayt](./dersler/06.pdf)   
-Kesme (interrupt) programlama
+Kesme (interrupt)
 - Hafta 7: [Kodlamalar](./dersler/07.md) | [Slayt](./dersler/07.pdf)   
-Systic Timer programlama
+Systic Timer
+- Hafta 8: [Kodlamalar](./dersler/08.md) | [Slayt](./dersler/08.pdf)   
+Basic Timer
 
 
 
