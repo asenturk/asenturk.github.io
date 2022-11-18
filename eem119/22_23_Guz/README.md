@@ -30,11 +30,17 @@ Son yükleme tarihi 28.10.2022 23:59
   
 
 ### Dersler
+
+#### Akış Diyagramı
+
 - [Hafta 1](./dersler/01.md): Sözde kod, akış diyagramı örnekler
 - [Hafta 2](./dersler/02.md): Akış diyagramı örnekler
 - [Hafta 3](./dersler/03.md): Akış diyagramı örnekler (+çizdirme)
 - [Hafta 4](./dersler/04.md): Akış diyagramı dizi ve fonksiyon örnekleri
 - [Hafta 5](./dersler/05a.md): Akış diyagramı string, karakter işleme örnekleri
+
+#### C Programlama
+
 - [Hafta 5](./dersler/05b.md): C programlama printf() fonksiyonu kullanımı, char türü, sizeof() operatörü, aritmetik operatörler
 - [Hafta 6](./dersler/06.md): 
 - [Hafta 7](./dersler/07.md): 
