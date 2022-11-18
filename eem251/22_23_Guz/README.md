@@ -18,7 +18,7 @@
 - [Hafta 4](./dersler/04.md): Yazılımla debounce, 7 segmentli gösterge, BCD to 7 segment decoder entegresi
 - [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD
 - [Hafta 6](./dersler/06.md): Analog okuma, map() fonksiyonu, analogWrite() - PWM sinyali
-- [Hafta 7](./dersler/07.md):
+- [Hafta 7](./dersler/07.md): LCD uygulamaları, motor sürme, RGB LED analogWrite(), servo motor, Osiloskop ve Röle kullanımı
 - [Hafta 8](./dersler/08.md):
 
 #### Kaynaklar
