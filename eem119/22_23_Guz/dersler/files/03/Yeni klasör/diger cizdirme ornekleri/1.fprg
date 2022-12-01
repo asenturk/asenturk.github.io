@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-12 11:50:00 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEyOzExOjI1OjI0IMOWUzsyNzI4"/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEyOzExOjUwOjAwIMOWUzsxOzI4Mjg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, j" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;10">
+                <assign variable="j" expression="0"/>
+                <while expression="j&lt;4">
+                    <forward expression="10" pen="down"/>
+                    <turn expression="90" rotate="right"/>
+                    <assign variable="j" expression="j+1"/>
+                </while>
+                <turn expression="90" rotate="right"/>
+                <forward expression="10" pen="down"/>
+                <turn expression="90" rotate="left"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

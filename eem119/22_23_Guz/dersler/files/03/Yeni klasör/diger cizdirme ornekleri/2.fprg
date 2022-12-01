@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 07:06:15 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEyOzExOjUwOjAzIMOWUzsyNzIz"/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA3OjA2OjE1IMOWw5Y7MTsyOTcy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="uzaklik, degisim" type="Integer" array="False" size=""/>
+            <assign variable="uzaklik" expression="300"/>
+            <assign variable="degisim" expression="20"/>
+            <while expression="uzaklik&gt;0">
+                <forward expression="uzaklik" pen="down"/>
+                <assign variable="uzaklik" expression="uzaklik-degisim"/>
+                <turn expression="90" rotate="right"/>
+                <forward expression="uzaklik" pen="down"/>
+                <turn expression="90" rotate="right"/>
+                <forward expression="uzaklik" pen="down"/>
+                <assign variable="uzaklik" expression="uzaklik-degisim"/>
+                <turn expression="90" rotate="right"/>
+                <forward expression="uzaklik" pen="down"/>
+                <turn expression="90" rotate="right"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

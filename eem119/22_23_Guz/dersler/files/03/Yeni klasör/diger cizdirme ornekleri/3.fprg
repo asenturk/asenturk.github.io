@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-13 07:29:59 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA3OjIwOjEwIMOWw5Y7Mjg1NQ=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIyLTEwLTEzOzA3OjI5OjU5IMOWw5Y7MjsyOTg2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, j, n" type="Integer" array="False" size=""/>
+            <input variable="n"/>
+            <for variable="i" start="1" end="n" direction="inc" step="1">
+                <for variable="j" start="1" end="360" direction="inc" step="1">
+                    <forward expression="10" pen="down"/>
+                    <turn expression="1" rotate="right"/>
+                </for>
+                <turn expression="360/n" rotate="right"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
