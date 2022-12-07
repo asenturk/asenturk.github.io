@@ -26,9 +26,6 @@ Son yükleme tarihi 28.10.2022 23:59
 
 
 
-
-  
-
 ### Dersler
 
 #### Akış Diyagramı
