@@ -18,6 +18,8 @@ Kesme (interrupt)
 Systic Timer
 - Hafta 8: [Kodlamalar](./dersler/08.md) | [Slayt](./dersler/08.pdf)   
 Basic Timer
+- Hafta 10: [Kodlamalar](./dersler/09.md) | [Slayt](./dersler/09.pdf)   
+Genel Amaçlı Zamanlayıcılar
 
 
 
