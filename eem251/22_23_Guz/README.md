@@ -3,7 +3,7 @@
 ## 2022-2023 Güz Dönemi
 
 
-<!-- #### Algoritma
+<!-- #### Algoritma 
 
 #### C Programlama -->
 <!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
