@@ -23,7 +23,7 @@ Son yükleme tarihi 28.10.2022 23:59
 
 - Ödev 1: Klavyeden girilen a sayısından b sayısına kadar n artan sayıları ekrana yazdıran programı while döngüsü ve for döngüsü ile flowgorithm programında yapınız. Son yükleme tarihi 21.10.2022 23:59
 
-
+ 
 
 
 ### Dersler

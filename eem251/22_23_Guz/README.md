@@ -9,7 +9,7 @@
 <!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
 
 ### Dersler
-#### Arduino Programlama
+#### Arduino Programlama 
 
 - [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
 - [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
