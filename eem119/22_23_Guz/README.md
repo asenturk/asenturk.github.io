@@ -43,7 +43,7 @@ Son yükleme tarihi 28.10.2022 23:59
 - [Hafta 7](./dersler/07.md): karşılaştırma operatörleri, mantık operatörleri, if-else if-else, üçlü (ternary) (?:) operatör, while döngüsü 
 - [Hafta 8](./dersler/08.md): do-while döngüsü, for döngüsü, virgül kullanımı, break, continue
 - [Hafta 9](./dersler/09.md): İşaretsiz sayılar, taşma, karakter türü, tür dönüşümü, tür tanımlama
-- [Hafta 10](./dersler/10.md: 
+- [Hafta 10](./dersler/10.md): 
 
 
 
