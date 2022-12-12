@@ -7,8 +7,11 @@
 ### Duyurular
 - 1\. öğretim dersleri saat 08:45'te başlayacaktır. 
 
-### Ödevler
+### Ödev - Lab Çalışmaları
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx). 
+
+- 11\. Hafta Lab Çalışması: Bu çalışma ödev olarak istenmemektedir.   
+NxM boyutundaki bir dizinin a-b satırlari ve c-d sutunlari arasindaki sayılari ekrana yazdıran ve bu aralıktaki sutunların ortalamasını bulan programı yazınız.
 
 - 8\. hafta Lab Çalışması: Bu çalışma ödev olarak istenmemektedir.   
 Girilen bir tam sayıyı tersten yazdıran programı yazınız. (Programda while döngüsü kullanılacaktır.)
