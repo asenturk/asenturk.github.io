@@ -20,6 +20,8 @@ Systic Timer
 Basic Timer
 - Hafta 10: [Kodlamalar](./dersler/09.md) | [Slayt](./dersler/09.pdf)   
 Genel Amaçlı Zamanlayıcılar
+- Hafta 11: [Kodlamalar](./dersler/10.md) | [Slayt](./dersler/10.pdf)   
+Analog Dijital Çevirici
 
 
 
