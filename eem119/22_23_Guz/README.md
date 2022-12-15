@@ -47,6 +47,7 @@ Son yükleme tarihi 28.10.2022 23:59
 - [Hafta 8](./dersler/08.md): do-while döngüsü, for döngüsü, virgül kullanımı, break, continue
 - [Hafta 9](./dersler/09.md): İşaretsiz sayılar, taşma, karakter türü, tür dönüşümü, tür tanımlama
 - [Hafta 10](./dersler/10.md): Diziler
+- [Hafta 11](./dersler/11.md): Diziler
 
 
 
