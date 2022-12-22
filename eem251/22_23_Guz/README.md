@@ -25,6 +25,7 @@
 - [Hafta 9](./dersler/09.md): 
 - [Hafta 10](./dersler/10.md): 
 - [Hafta 11](./dersler/11.md): 
+- [Hafta 11](./dersler/12.md): 
 
 #### Kaynaklar
 - [Tinkercad](https://www.tinkercad.com)
