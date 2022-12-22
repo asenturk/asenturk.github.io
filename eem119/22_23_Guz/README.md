@@ -10,6 +10,10 @@
 ### Ödev - Lab Çalışmaları
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx). 
 
+- 12\. Hafta Lab Çalışması: 
+void dizi_eb_ek(int dizi[], int boyut, int eb_ek[]) fonksiyonu boyut boyutlu dizi[] dizisinin  en küçük ve en büyük elemanını bulup eb_ek[] dizisinin sırasıyla 0. ve 1. elemanına yazdıracaktır.    
+fonksiyonda ekrana herhangi bir şey yazdırılmayacaksa belirtilen fonksiyon ve fonksiyonu kullanan programı yazınız.
+
 - 11\. Hafta Lab Çalışması: Bu çalışma ödev olarak istenmemektedir.   
 NxM boyutundaki bir dizinin a-b satırlari ve c-d sutunlari arasindaki sayılari ekrana yazdıran ve bu aralıktaki sutunların ortalamasını bulan programı yazınız.
 
