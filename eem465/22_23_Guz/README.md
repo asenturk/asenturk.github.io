@@ -22,7 +22,8 @@ Basic Timer
 Genel Amaçlı Zamanlayıcılar
 - Hafta 11: [Kodlamalar](./dersler/10.md) | [Slayt](./dersler/10.pdf)   
 Analog Dijital Çevirici
-
+- Hafta 12: [Kodlamalar](./dersler/11.md) | [Slayt](./dersler/11.pdf)   
+Seri Haberleşme UART
 
 
 
