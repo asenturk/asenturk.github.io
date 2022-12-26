@@ -21,7 +21,7 @@
 
 #### Python Programlama
 
-- [Hafta 8](./dersler/08.md): print, dir, help, str.title, str.rstrip, str.lstrip, str.strip fonksiyonlarının kullanımı, listeler, sort metodu,
+- [Hafta 8](./dersler/08.md): print, dir, help, str.title fonksiyonlarının kullanımı, listeler, sort metodu,
 - [Hafta 9](./dersler/09.md): 
 - [Hafta 10](./dersler/10.md): 
 - [Hafta 11](./dersler/11.md): 
