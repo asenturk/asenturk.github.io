@@ -24,7 +24,8 @@ Genel Amaçlı Zamanlayıcılar
 Analog Dijital Çevirici
 - Hafta 12: [Kodlamalar](./dersler/11.md) | [Slayt](./dersler/11.pdf)   
 Seri Haberleşme UART
-
+- Hafta 13: [Kodlamalar](./dersler/12.md) | [Slayt](./dersler/12.pdf)   
+HSI - HSE sistem clock (saat) kaynakları
 
 
 
