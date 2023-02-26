@@ -56,7 +56,7 @@ Son yükleme tarihi 28.10.2022 23:59
 - [Hafta 11](./dersler/11.md): Fonksiyonlar
 - [Hafta 12](./dersler/12.md): Local - global değişkenler
 - [Hafta 13](./dersler/13.md): İşaretçiler
-- [Hafta 14](./dersler/14.md): 
+- [Hafta 14](./dersler/14.md): Örnekler
 
 
 
