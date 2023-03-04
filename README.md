@@ -12,7 +12,7 @@
 
 #### [EEM-117 Algoritma ve Programlama (Güz)](eem117/README.md)
 
-### [EEM-119 Algoritma ve Programlama I (Güz)](./eem119/22_23_Guz/)
+#### [EEM-119 Algoritma ve Programlama I (Güz)](./eem119/22_23_Guz/)
 
 #### [EEM-251 İleri Düzey Programlama (Güz)](eem251/README.md)
 

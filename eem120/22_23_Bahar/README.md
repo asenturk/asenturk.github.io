@@ -17,9 +17,8 @@
 
 ### Dersler
 
-#### Akış Diyagramı
-
-- [Hafta 1]:
+- [Hafta 1](../../eem119/22_23_Guz/dersler/13.md): Güz döneminde işlenen işaretçiler konusunun tekrarı
+- [Hafta 2]
 
 
 
