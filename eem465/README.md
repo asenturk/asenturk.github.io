@@ -1,12 +1,8 @@
 # EEM-465 Gömülü Sistemler Dersi
 
 
-## Mevcut Dönem
-## [2022-2023 Güz Dönemi](./22_23_Guz/)
 
-
-
-## Önceki Dönemler
+### [2022-2023 Güz Dönemi](./22_23_Guz/)
 
 ### [2021-2022 Bahar Dönemi](./21_22_Bahar/)
 
