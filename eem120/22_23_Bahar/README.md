@@ -18,7 +18,7 @@
 ### Dersler
 
 - [Hafta 1](../../eem119/22_23_Guz/dersler/13.md): Güz döneminde işlenen işaretçiler konusunun tekrarı
-- [Hafta 2]
+- [Hafta 2](./dersler/01.md): İşaretçi aritmetiği
 
 
 
