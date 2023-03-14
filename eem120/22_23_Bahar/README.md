@@ -33,12 +33,12 @@ Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.
 - [C İle Programlama, Deitel ve Deitel](https://www.turcademy.com/tr/kitap/c-ile-programlama-9786053556237)
 
 
-#### İnternet
+<!-- #### İnternet -->
 
 
 ### Programlar
 - [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/)
-- 
+
 
 
 
