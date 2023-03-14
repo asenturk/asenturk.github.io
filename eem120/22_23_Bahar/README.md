@@ -5,12 +5,12 @@
 ## [Duyurular](#duyurular) |  [Ödevler](#ödevler) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
 
 ### Duyurular
-- 
+- Online dersin son saatinde lab çalışması yapılacaktır. Lab çalışması yapmak isteyenlerin ekran paylaşımı yapabilmek için Adobe Connect programını kurması gerekmektedir.
 
 ### Ödev - Lab Çalışmaları
-Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx). 
+<!-- Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).  -->
 
-- 
+- Lab 1 çalışması için [tıklayınız](./lab/01.md).
 
  
 
