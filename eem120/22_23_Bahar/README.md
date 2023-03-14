@@ -2,7 +2,7 @@
 
 ## 2022-2023 Bahar Dönemi
 
-## [Duyurular](#duyurular) |  [Laboratuvar](#Laboratuvar Çalışmaları) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
+### [Duyurular](#duyurular) |  [Laboratuvar](#Laboratuvar Çalışmaları) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
 
 ### Duyurular
 - Online dersin son saatinde lab çalışması yapılacaktır. Lab çalışması yapmak isteyenlerin ekran paylaşımı yapabilmek için Adobe Connect programını kurması gerekmektedir.
