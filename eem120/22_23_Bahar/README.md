@@ -2,12 +2,12 @@
 
 ## 2022-2023 Bahar Dönemi
 
-## [Duyurular](#duyurular) |  [Ödevler](#ödevler) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
+## [Duyurular](#duyurular) |  [Laboratuvar](#Laboratuvar Çalışmaları) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
 
 ### Duyurular
 - Online dersin son saatinde lab çalışması yapılacaktır. Lab çalışması yapmak isteyenlerin ekran paylaşımı yapabilmek için Adobe Connect programını kurması gerekmektedir.
 
-### Ödev - Lab Çalışmaları
+### Laboratuvar Çalışmaları
 <!-- Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).  -->
 
 - Lab 1 çalışması için [tıklayınız](./lab/01.md).
@@ -25,7 +25,7 @@
 
 ### Kaynaklar
 
-#### Kitaplar
+<!-- #### Kitaplar -->
 Hiperkitap ve Turcademy sitelerine üniversitemiz üye olduğundan bu sitedeki kitaplara ücretsiz ulaşabilirsiniz.   
 Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.tr/tr/servisler/kampus-disi-erisim-6932s.html).
 - [Her yönüyle C,  Tevfik Kızılören](https://www.hiperkitap.com/her-yonuyle-c)
