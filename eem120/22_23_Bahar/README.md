@@ -1,13 +1,13 @@
-# EEM-119 Algoritma ve Programlama II Dersi
+# EEM-120 Algoritma ve Programlama II Dersi
 
 ## 2022-2023 Bahar Dönemi
 
-### [Duyurular](#duyurular) |  [Laboratuvar](#Laboratuvar Çalışmaları) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
+### [Duyurular](#duyurular) |  [Laboratuvar](#Laboratuvar) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
 
 ### Duyurular
 - Online dersin son saatinde lab çalışması yapılacaktır. Lab çalışması yapmak isteyenlerin ekran paylaşımı yapabilmek için Adobe Connect programını kurması gerekmektedir.
 
-### Laboratuvar Çalışmaları
+### Laboratuvar
 <!-- Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).  -->
 
 - Lab 1 çalışması için [tıklayınız](./lab/01.md).
@@ -17,8 +17,9 @@
 
 ### Dersler
 
-- [Hafta 1](../../eem119/22_23_Guz/dersler/13.md): Güz döneminde işlenen işaretçiler konusunun tekrarı
-- [Hafta 2](./dersler/01.md): İşaretçi aritmetiği
+- [Konu 1](../../eem119/22_23_Guz/dersler/13.md): Güz döneminde işlenen işaretçiler konusunun tekrarı
+- [Konu 2](./dersler/01.md): İşaretçi aritmetiği
+- [Konu 3](./dersler/02.md): String (karakter dizisi)
 
 
 
