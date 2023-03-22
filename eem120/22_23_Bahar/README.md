@@ -11,6 +11,7 @@
 <!-- Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).  -->
 
 - Lab 1 çalışması için [tıklayınız](./lab/01.md).
+- Lab 2 çalışması için [tıklayınız](./lab/02.md).
 
  
 
