@@ -22,6 +22,7 @@
 - [Konu 1](../../eem119/22_23_Guz/dersler/13.md): Güz döneminde işlenen işaretçiler konusunun tekrarı
 - [Konu 2](./dersler/01.md): İşaretçi aritmetiği
 - [Konu 3](./dersler/02.md): String (karakter dizisi)
+- [Konu 4](./dersler/03.md): Struct (yapılar)
 
 
 
