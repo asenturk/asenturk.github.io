@@ -13,6 +13,7 @@
 - Lab 1 çalışması için [tıklayınız](./lab/01.md).
 - Lab 2 çalışması için [tıklayınız](./lab/02.md).
 - Lab 3 çalışması için [tıklayınız](./lab/03.md).
+- Lab 4 çalışması için [tıklayınız](./lab/04.md).
 
  
 
