@@ -5,7 +5,9 @@
 
 
 
-### [EEM-465 Gömülü Sistemler](./eem465/22_23_Guz/)
+### [EEM-465 Gömülü Sistemler](./eem465/EEM465/)
+
+### [EEM-119 Algoritma ve Programlama I](./eem119/23_24_Guz/)
 
 
 ## Geçmiş Dönemler
