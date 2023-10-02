@@ -1,6 +1,5 @@
 # EEM-465 Gömülü Sistemler Dersi 
 
-## 2022-2023 Güz Dönemi
 ### Dersler 
 - Hafta 1:   
 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
@@ -26,8 +25,6 @@ Analog Dijital Çevirici
 Seri Haberleşme UART
 - Hafta 13: [Kodlamalar](./dersler/12.md) | [Slayt](./dersler/12.pdf)   
 HSI - HSE sistem clock (saat) kaynakları
-
-
 
 
 

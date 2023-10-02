@@ -2,7 +2,7 @@
 
 
 
-### [2022-2023 Güz Dönemi](./22_23_Guz/)
+### [Mevcut Dönem](./EEM465/)
 
 ### [2021-2022 Bahar Dönemi](./21_22_Bahar/)
 

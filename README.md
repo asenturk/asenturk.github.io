@@ -3,9 +3,9 @@
 
 
 
-### [EEM-120 Algoritma ve Programlama II Bahar](./eem120/22_23_Bahar/)
 
-### [EEM-465 Gömülü Sistemler 2022-2023 Güz](./eem465/22_23_Guz/)
+
+### [EEM-465 Gömülü Sistemler](./eem465/22_23_Guz/)
 
 
 ## Geçmiş Dönemler
@@ -13,6 +13,8 @@
 #### [EEM-117 Algoritma ve Programlama (Güz)](eem117/README.md)
 
 #### [EEM-119 Algoritma ve Programlama I (Güz)](./eem119/22_23_Guz/)
+
+#### [EEM-120 Algoritma ve Programlama II Bahar](./eem120/README.md)
 
 #### [EEM-251 İleri Düzey Programlama (Güz)](eem251/README.md)
 
