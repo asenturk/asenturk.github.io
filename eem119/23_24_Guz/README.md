@@ -3,11 +3,13 @@
 ## 2023-2024 Güz Dönemi
 
 
-### Programlar
-- [Blockly](http://blockly.eba.gov.tr/tr/index.html)
-- [Flowgorithm](http://www.flowgorithm.org/download/index.html)
+### Programlar 
+- [Flowgorithm](http://www.flowgorithm.org/download/index.html)   
 <!-- - [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/) -->
-İlgilenenler için: [Scratch](https://scratch.mit.edu/), [MIT AppInventor](https://appinventor.mit.edu/)
+#### Blok programlama siteleri
+- [Blockly](http://blockly.eba.gov.tr/tr/index.html)   
+- [Scratch](https://scratch.mit.edu/)
+- [MIT AppInventor](https://appinventor.mit.edu/)
 
 <!-- ## [Duyurular](#duyurular) |  [Ödevler](#ödevler) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
 
