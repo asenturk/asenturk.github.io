@@ -8,7 +8,7 @@
 
 
 
-#### İnternet
+### İnternet Kaynakları
 - [Algoritma ve Programlamaya Giriş Ders Notları](http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf)
 (4-67. sayfalar)
 - [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
@@ -21,7 +21,7 @@
 - [Flowgorithm](http://www.flowgorithm.org/download/index.html)   
 <!-- - [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/) -->
 
-#### Blok programlama siteleri
+### Blok programlama siteleri
 - [Blockly](http://blockly.eba.gov.tr/tr/index.html)   
 - [Scratch](https://scratch.mit.edu/)
 - [MIT AppInventor](https://appinventor.mit.edu/)
