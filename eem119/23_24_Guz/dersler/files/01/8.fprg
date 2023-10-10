@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-09 11:55:09 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTA5OzExOjI0OjA2IMOWw5Y7Mjg2NQ=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTA5OzExOjU1OjA5IMOWw5Y7MzsyOTgy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n, carpim" type="Integer" array="False" size=""/>
+            <input variable="n"/>
+            <assign variable="carpim" expression="1"/>
+            <while expression="n&gt;1">
+                <assign variable="carpim" expression="carpim*n"/>
+                <assign variable="n" expression="n-1"/>
+            </while>
+            <output expression="carpim" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

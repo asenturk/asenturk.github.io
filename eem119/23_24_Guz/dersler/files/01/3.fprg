@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-09 10:47:14 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTA5OzA5OjUwOjQ0IMOWw5Y7Mjg3Mw=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTA5OzEwOjQ3OjE0IMOWw5Y7MjsyOTc3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="A, B, C, EB" type="Integer" array="False" size=""/>
+            <output expression="&quot;3 sayi giriniz: &quot;" newline="True"/>
+            <input variable="A"/>
+            <input variable="B"/>
+            <input variable="C"/>
+            <assign variable="EB" expression="A"/>
+            <if expression="B&gt;EB">
+                <then>
+                    <assign variable="EB" expression="B"/>
+                    <if expression="C&gt;EB">
+                        <then>
+                            <assign variable="EB" expression="C"/>
+                        </then>
+                        <else/>
+                    </if>
+                </then>
+                <else>
+                    <if expression="C&gt;EB">
+                        <then>
+                            <assign variable="EB" expression="C"/>
+                        </then>
+                        <else/>
+                    </if>
+                </else>
+            </if>
+            <output expression="EB" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
