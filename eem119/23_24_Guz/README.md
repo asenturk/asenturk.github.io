@@ -2,6 +2,10 @@
 
 ## 2023-2024 Güz Dönemi
 
+### Dersler
+
+- [Hafta 1](./dersler/01.md): Sözde kod, akış diyagramı örnekler
+
 
 ### Programlar 
 - [Flowgorithm](http://www.flowgorithm.org/download/index.html)   
