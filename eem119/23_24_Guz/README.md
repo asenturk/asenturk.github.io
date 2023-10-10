@@ -7,10 +7,19 @@
 - [Hafta 1](./dersler/01.md): Sözde kod, akış diyagramı örnekler
 
 
+
+#### İnternet
+- [Algoritma ve Programlamaya Giriş Ders Notları](http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf)
+(4-67. sayfalar)
+- [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
+- [Bilgi Günlüğüm](https://www.bilgigunlugum.net/prog/cprog/c_proggiris)
+- [Flowgorithm ile Algoritma ve Akış Diyagramı dersleri Youtube oynatma listesi](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
+- [Flowgorithm Tutorial](https://www.testingdocs.com/flowgorithm-flowchart-tutorial/)
+
+
 ### Programlar 
 - [Flowgorithm](http://www.flowgorithm.org/download/index.html)   
 <!-- - [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/) -->
-
 
 #### Blok programlama siteleri
 - [Blockly](http://blockly.eba.gov.tr/tr/index.html)   
@@ -86,13 +95,7 @@ Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.
 - [C İle Programlama, Deitel ve Deitel](https://www.turcademy.com/tr/kitap/c-ile-programlama-9786053556237)
 - [Kodlamaya Yeni Başlayanlar İçin Temel Programlama, Mehmet Tekdal](https://www.turcademy.com/tr/kitap/kodlamaya-yeni-baslayanlar-icin-temel-programlama-programlama-dilleri-i-program-gelistirme-yontemleri-algoritmalar-akis-semalari-c-pascal-9789750239021)
 
-#### İnternet
-- [Algoritma ve Programlamaya Giriş Ders Notları](http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf)
-(4-67. sayfalar)
-- [Flowgorithm ile Algoritma ve Akış Diyagramı (Youtube Oynatma Listesi)](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
-- [Bilgi Günlüğüm](https://www.bilgigunlugum.net/prog/cprog/c_proggiris)
-- [Flowgorithm ile Algoritma ve Akış Diyagramı dersleri Youtube oynatma listesi](https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs)
-- [Flowgorithm Tutorial](https://www.testingdocs.com/flowgorithm-flowchart-tutorial/)
+
 
 
 
