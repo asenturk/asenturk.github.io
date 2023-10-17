@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-16 11:25:12 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzA5OjM0OjQ5IMOWw5Y7Mjg3OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzExOjI1OjEyIMOWw5Y7MTU7MzAyMg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="carpma operat&#246;r&#252;n&#252; kullanmadan toplama islemi ile carpma yapmak"/>
+            <declare name="carpan, carpilan, carpim, i" type="Integer" array="False" size=""/>
+            <input variable="carpilan"/>
+            <input variable="carpan"/>
+            <assign variable="carpim" expression="0"/>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;carpan">
+                <assign variable="carpim" expression="carpim+carpilan"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="carpim" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

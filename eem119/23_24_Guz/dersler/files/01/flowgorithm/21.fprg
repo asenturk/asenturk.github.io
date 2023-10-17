@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-16 12:21:38 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzA5OjM0OjQ5IMOWw5Y7Mjg3OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzEyOjIxOjM4IMOWUzsyMzsyODk1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="sayinin asal olup olmadigini ekrana yazdiran program."/>
+            <declare name="sayi, i, asalmi" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <assign variable="asalmi" expression="1"/>
+            <assign variable="i" expression="2"/>
+            <while expression="i&lt;=sayi/2">
+                <if expression="sayi%i == 0">
+                    <then>
+                        <assign variable="asalmi" expression="0"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <if expression="asalmi==1">
+                <then>
+                    <output expression="&quot;sayi asaldir&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;sayi asal degildir&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-16 11:07:51 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzA5OjM0OjQ5IMOWw5Y7Mjg3OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzExOjA3OjUxIMOWw5Y7MTA7MzAyMA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, eb, ek, i" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <assign variable="eb" expression="sayi"/>
+            <assign variable="ek" expression="sayi"/>
+            <assign variable="i" expression="4"/>
+            <while expression="i&gt;0">
+                <input variable="sayi"/>
+                <if expression="sayi&gt;eb">
+                    <then>
+                        <assign variable="eb" expression="sayi"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="sayi&lt;ek">
+                    <then>
+                        <assign variable="ek" expression="sayi"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="i" expression="i-1"/>
+            </while>
+            <output expression="eb" newline="True"/>
+            <output expression="ek" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

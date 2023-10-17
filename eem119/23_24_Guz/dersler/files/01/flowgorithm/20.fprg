@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-16 12:12:16 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzA5OjM0OjQ5IMOWw5Y7Mjg3OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTE2OzEyOjEyOjE2IMOWUzsyMTsyODg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="iki sayinin en buyuk ortak bolenini bulma"/>
+            <declare name="sayi1, sayi2, ebob, i" type="Integer" array="False" size=""/>
+            <input variable="sayi1"/>
+            <input variable="sayi2"/>
+            <assign variable="i" expression="1"/>
+            <while expression="i&lt;=sayi1 &amp;&amp; i&lt;=sayi2">
+                <if expression="sayi1%i == 0 &amp;&amp; sayi2%i == 0">
+                    <then>
+                        <assign variable="ebob" expression="i"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="ebob" newline="True"/>
+            <output expression="sayi1/ebob" newline="True"/>
+            <output expression="sayi2/ebob" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
