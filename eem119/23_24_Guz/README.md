@@ -23,7 +23,7 @@
     İndirim yüzdesini uygulayarak indirimli toplam fiyatı hesaplayın.
     Kullanıcıya hem toplam fiyatı hem de indirimli toplam fiyatı gösterin.
 
-Çalışma 1 Ödev yükleme kapanış 26/10/2023 23:55. Bağlantı: <https://forms.gle/que3C6aFWgE6GJ5SA>
+Çalışma 1 yükleme kapanış 26/10/2023 23:55. Bağlantı: <https://forms.gle/que3C6aFWgE6GJ5SA>
     
 
 
