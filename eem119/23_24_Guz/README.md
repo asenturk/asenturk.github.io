@@ -7,6 +7,25 @@
 - [Konu 1](./dersler/01.md): Sözde kod, akış diyagramı örnekler
 
 
+### Ödev/Lab çalışmaları
+
+Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).   
+**Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
+
+- Çalışma 1: Ürün Fiyatları ve İndirim Hesaplama
+
+Ürünlerin fiyatını girip ardından belirli bir indirim yüzdesini uygulayarak toplam fiyatı hesaplayan program tasarımı
+
+    Kullanıcıya kaç adet ürün eklemek istediklerini sorun.
+    Kullanıcıdan her bir ürünün fiyatını girmesini isteyin.
+    Kullanıcıdan bir indirim yüzdesi girmesini isteyin.
+    Tüm ürünlerin toplam fiyatını  hesaplayın.
+    İndirim yüzdesini uygulayarak indirimli toplam fiyatı hesaplayın.
+    Kullanıcıya hem toplam fiyatı hem de indirimli toplam fiyatı gösterin.
+Çalışma 1 Ödev yükleme son tarih 26/10/2023 bağlantı: https://forms.gle/que3C6aFWgE6GJ5SA
+    
+
+
 
 ### İnternet Kaynakları
 - [Algoritma ve Programlamaya Giriş Ders Notları](http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf)
