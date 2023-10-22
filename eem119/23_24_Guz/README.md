@@ -22,6 +22,7 @@
     Tüm ürünlerin toplam fiyatını  hesaplayın.
     İndirim yüzdesini uygulayarak indirimli toplam fiyatı hesaplayın.
     Kullanıcıya hem toplam fiyatı hem de indirimli toplam fiyatı gösterin.
+
 Çalışma 1 Ödev yükleme son tarih 26/10/2023 bağlantı: https://forms.gle/que3C6aFWgE6GJ5SA
     
 
