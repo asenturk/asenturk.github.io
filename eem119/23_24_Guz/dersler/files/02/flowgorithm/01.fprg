@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-23 10:41:50 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTIzOzEwOjM3OjI0IMOWw5Y7Mjg2NA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTIzOzEwOjQxOjUwIMOWw5Y7MTsyOTY2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <forward expression="50" pen="down"/>
+            <turn expression="90" rotate="right"/>
+            <forward expression="50" pen="down"/>
+            <turn expression="90" rotate="right"/>
+            <forward expression="50" pen="down"/>
+            <turn expression="90" rotate="right"/>
+            <forward expression="50" pen="down"/>
+        </body>
+    </function>
+</flowgorithm>

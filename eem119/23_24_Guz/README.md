@@ -4,7 +4,8 @@
 
 ### Dersler
 
-- [Konu 1](./dersler/01.md): Sözde kod, akış diyagramı örnekler
+- [Konu 1](./dersler/01.md): Sözde kod, akış diyagramı örnekleri
+- [Konu 2](./dersler/02.md): Akış diyagramı çizdirme örnekleri
 
 
 ### Ödev/Lab çalışmaları

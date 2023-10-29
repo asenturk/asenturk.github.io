@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-23 10:13:37 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTIzOzA5OjMxOjUyIMOWw5Y7Mjg2Nw=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTIzOzEwOjEzOjM3IMOWw5Y7NDsyOTcz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, i, j, fibonacci" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <assign variable="i" expression="1"/>
+            <assign variable="j" expression="1"/>
+            <assign variable="fibonacci" expression="1"/>
+            <while expression="fibonacci&lt;sayi">
+                <output expression="fibonacci" newline="True"/>
+                <assign variable="fibonacci" expression="i+j"/>
+                <assign variable="i" expression="j"/>
+                <assign variable="j" expression="fibonacci"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

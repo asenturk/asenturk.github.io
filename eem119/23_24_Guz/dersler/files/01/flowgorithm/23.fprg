@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-23 10:00:42 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTIzOzA5OjMxOjUyIMOWw5Y7Mjg2Nw=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTIzOzEwOjAwOjQyIMOWw5Y7MTsyOTYy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi, i, j, asal" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <assign variable="i" expression="3"/>
+            <output expression="&quot;2&quot;" newline="True"/>
+            <while expression="i&lt;=sayi">
+                <assign variable="j" expression="2"/>
+                <assign variable="asal" expression="1"/>
+                <while expression="j&lt;i">
+                    <if expression="i%j == 0">
+                        <then>
+                            <assign variable="asal" expression="0"/>
+                        </then>
+                        <else/>
+                    </if>
+                    <assign variable="j" expression="j+1"/>
+                </while>
+                <if expression="asal == 1">
+                    <then>
+                        <output expression="i" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="i" expression="i+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
