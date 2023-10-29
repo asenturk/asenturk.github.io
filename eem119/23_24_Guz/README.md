@@ -18,10 +18,10 @@
 
 - Çalışma/Ödev 2: İki sayı arasındaki tam bölünen sayıları bulma
 
-A ve B sayıları arasındaki C veya D sayısının tam böldüğü sayıları ekrana yazdıran programı tasarlayın.
+A ve B sayıları arasındaki C veya D sayısının tam böldüğü sayıları büyükten küçüğe sırayla ekrana yazdıran programı tasarlayın.
 
     Kullanıcıya başlangıç sayısı (A), bitiş sayısı (B) ve katı bulunacak sayılar (C ve D) sorulacak.
-    A ve B dahil olmak üzere C veya D sayısının tam böldüğü sayıları ekrana yazdıracak.
+    A ve B dahil olmak üzere C veya D sayısının tam böldüğü sayıları büyükten küçüğe sırayla ekrana yazdıracak.
 
 Yükleme kapanış 02/11/2023 23:55. Bağlantı: <https://forms.gle/heP2kREwXSDthcWv5>
 
