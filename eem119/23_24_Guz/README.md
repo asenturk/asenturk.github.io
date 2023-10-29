@@ -13,7 +13,21 @@
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).   
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
-- Çalışma 1: Ürün Fiyatları ve İndirim Hesaplama
+
+
+
+- Çalışma/Ödev 2: İki sayı arasındaki tam bölünen sayıları bulma
+
+A ve B sayıları arasındaki C veya D sayısının tam böldüğü sayıları ekrana yazdıran programı tasarlayın.
+
+    Kullanıcıya başlangıç sayısı (A), bitiş sayısı (B) ve katı bulunacak sayılar (C ve D) sorulacak.
+    A ve B dahil olmak üzere C veya D sayısının tam böldüğü sayıları ekrana yazdıracak.
+
+Yükleme kapanış 02/11/2023 23:55. Bağlantı: <https://forms.gle/heP2kREwXSDthcWv5>
+
+
+
+- Çalışma/Ödev 1: Ürün Fiyatları ve İndirim Hesaplama
 
 Ürünlerin fiyatını girip ardından belirli bir indirim yüzdesini uygulayarak toplam fiyatı hesaplayan program tasarımı
 
@@ -24,7 +38,7 @@
     İndirim yüzdesini uygulayarak indirimli toplam fiyatı hesaplayın.
     Kullanıcıya hem toplam fiyatı hem de indirimli toplam fiyatı gösterin.
 
-Çalışma 1 yükleme kapanış 26/10/2023 23:55. Bağlantı: <https://forms.gle/que3C6aFWgE6GJ5SA>
+Yükleme kapanış 26/10/2023 23:55. Bağlantı: <https://forms.gle/que3C6aFWgE6GJ5SA>
     
 
 
