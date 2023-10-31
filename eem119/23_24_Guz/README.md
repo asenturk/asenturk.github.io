@@ -6,6 +6,7 @@
 
 - [Konu 1](./dersler/01.md): Sözde kod, akış diyagramı örnekleri
 - [Konu 2](./dersler/02.md): Akış diyagramı çizdirme örnekleri
+- [Konu 3](./dersler/03.md): For döngüsü ve dizi örnekleri
 
 
 ### Ödev/Lab çalışmaları
