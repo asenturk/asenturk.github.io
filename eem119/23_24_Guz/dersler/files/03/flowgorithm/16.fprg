@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-30 12:07:37 &#214;S"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTMwOzExOjEyOjM3IMOWw5Y7Mjg2MA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTMwOzEyOjA3OjM3IMOWUzs1OzI4NDY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="dizinin elemanlarini kucukten buyuge dogru siralama"/>
+            <declare name="x" type="Integer" array="True" size="5"/>
+            <declare name="gecici, i, j" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="4" direction="inc" step="1">
+                <assign variable="x[i]" expression="Random(20)"/>
+            </for>
+            <for variable="i" start="0" end="4" direction="inc" step="1">
+                <for variable="j" start="i+1" end="4" direction="inc" step="1">
+                    <if expression="x[j]&lt;x[i]">
+                        <then>
+                            <assign variable="gecici" expression="x[i]"/>
+                            <assign variable="x[i]" expression="x[j]"/>
+                            <assign variable="x[j]" expression="gecici"/>
+                        </then>
+                        <else/>
+                    </if>
+                </for>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

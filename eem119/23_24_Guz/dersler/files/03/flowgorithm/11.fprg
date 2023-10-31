@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-30 10:46:55 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTMwOzA5OjQzOjAxIMOWw5Y7Mjg2Mg=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTMwOzEwOjQ2OjU1IMOWw5Y7MTQ7MzAyNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x" type="Integer" array="True" size="50"/>
+            <declare name="i, tek, cift" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;50">
+                <assign variable="x[i]" expression="Random(1000)"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <assign variable="tek" expression="0"/>
+            <assign variable="cift" expression="0"/>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;50">
+                <if expression="x[i] % 2 == 0">
+                    <then>
+                        <assign variable="cift" expression="cift+1"/>
+                    </then>
+                    <else>
+                        <assign variable="tek" expression="tek+1"/>
+                    </else>
+                </if>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="&quot;tek sayilar &quot; &amp; tek &amp; &quot; tanedir.&quot;" newline="True"/>
+            <output expression="&quot;cift sayilar &quot; &amp; cift &amp; &quot; tanedir.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

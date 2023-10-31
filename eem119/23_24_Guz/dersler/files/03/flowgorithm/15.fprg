@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-30 11:39:36 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTMwOzExOjEyOjM3IMOWw5Y7Mjg2MA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTEwLTMwOzExOjM5OjM2IMOWw5Y7MzsyOTc4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="tekrar etmeyen rastgele say&#305;lar&#305; diziye atama"/>
+            <declare name="x" type="Integer" array="True" size="10"/>
+            <declare name="i, j, sayi, var" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;10">
+                <assign variable="var" expression="0"/>
+                <assign variable="sayi" expression="Random(10)"/>
+                <assign variable="j" expression="0"/>
+                <while expression="j&lt;i">
+                    <if expression="sayi == x[j]">
+                        <then>
+                            <assign variable="var" expression="1"/>
+                        </then>
+                        <else/>
+                    </if>
+                    <assign variable="j" expression="j+1"/>
+                </while>
+                <if expression="var==0">
+                    <then>
+                        <assign variable="x[i]" expression="sayi"/>
+                        <assign variable="i" expression="i+1"/>
+                    </then>
+                    <else/>
+                </if>
+            </while>
+            <for variable="i" start="0" end="9" direction="inc" step="1">
+                <output expression="x[i] &amp; &quot; &quot;" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
