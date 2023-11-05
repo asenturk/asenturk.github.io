@@ -15,10 +15,10 @@
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
 
-- Çalışma/Ödev 3: Verilen şekli
+- Çalışma/Ödev 3: Verilen şekli oluşturmak için
   1. for döngüsü kullanarak
   2. while döngüsü kullanarak
-2 farklı program tasarlayarak çözünüz.
+2 farklı programla flowgorithmde algoritma tasarlayarak çözünüz.
 ![image](./odevler/files/odev_3.png)
 
 
