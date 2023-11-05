@@ -15,6 +15,12 @@
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
 
+- Çalışma/Ödev 3: Verilen şekli
+  1. for döngüsü kullanarak
+  2. while döngüsü kullanarak
+2 farklı program tasarlayarak çözünüz.
+![image](./odevler/files/odev_3.png)
+
 
 
 - Çalışma/Ödev 2: İki sayı arasındaki tam bölünen sayıları bulma
