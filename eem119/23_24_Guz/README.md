@@ -18,7 +18,7 @@
 - Çalışma/Ödev 3: Verilen şekli oluşturmak için
   1. for döngüsü kullanarak
   2. while döngüsü kullanarak   
-2 farklı flowgorithmde algoritma tasarlayarak çözünüz.  
+2 farklı flowgorithmde algoritma tasarlayarak çözünüz.     
 ![image](./odevler/files/odev_3.png)
 
 
