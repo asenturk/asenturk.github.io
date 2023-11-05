@@ -18,7 +18,7 @@
 - Çalışma/Ödev 3: Verilen şekli oluşturmak için
   1. for döngüsü kullanarak
   2. while döngüsü kullanarak   
-2 farklı programla flowgorithmde algoritma tasarlayarak çözünüz.
+2 farklı programla flowgorithmde algoritma tasarlayarak çözünüz.  
 ![image](./odevler/files/odev_3.png)
 
 
@@ -27,8 +27,8 @@
 
 A ve B sayıları arasındaki C veya D sayısının tam böldüğü sayıları büyükten küçüğe sırayla ekrana yazdıran programı tasarlayın.
 
-    Kullanıcıya başlangıç sayısı (A), bitiş sayısı (B) ve katı bulunacak sayılar (C ve D) sorulacak.
-    A ve B dahil olmak üzere C veya D sayısının tam böldüğü sayıları büyükten küçüğe sırayla ekrana yazdıracak.
+Kullanıcıya başlangıç sayısı (A), bitiş sayısı (B) ve katı bulunacak sayılar (C ve D) sorulacak.
+A ve B dahil olmak üzere C veya D sayısının tam böldüğü sayıları büyükten küçüğe sırayla ekrana yazdıracak.
 
 Yükleme kapanış 02/11/2023 23:55. Bağlantı: <https://forms.gle/heP2kREwXSDthcWv5>
 
@@ -38,12 +38,12 @@ Yükleme kapanış 02/11/2023 23:55. Bağlantı: <https://forms.gle/heP2kREwXSDt
 
 Ürünlerin fiyatını girip ardından belirli bir indirim yüzdesini uygulayarak toplam fiyatı hesaplayan program tasarımı
 
-    Kullanıcıya kaç adet ürün eklemek istediklerini sorun.
-    Kullanıcıdan her bir ürünün fiyatını girmesini isteyin.
-    Kullanıcıdan bir indirim yüzdesi girmesini isteyin.
-    Tüm ürünlerin toplam fiyatını  hesaplayın.
-    İndirim yüzdesini uygulayarak indirimli toplam fiyatı hesaplayın.
-    Kullanıcıya hem toplam fiyatı hem de indirimli toplam fiyatı gösterin.
+Kullanıcıya kaç adet ürün eklemek istediklerini sorun.
+Kullanıcıdan her bir ürünün fiyatını girmesini isteyin.
+Kullanıcıdan bir indirim yüzdesi girmesini isteyin.
+Tüm ürünlerin toplam fiyatını  hesaplayın.
+İndirim yüzdesini uygulayarak indirimli toplam fiyatı hesaplayın.
+Kullanıcıya hem toplam fiyatı hem de indirimli toplam fiyatı gösterin.
 
 Yükleme kapanış 26/10/2023 23:55. Bağlantı: <https://forms.gle/que3C6aFWgE6GJ5SA>
     
