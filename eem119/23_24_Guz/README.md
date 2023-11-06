@@ -61,7 +61,7 @@ Yükleme kapanış 26/10/2023 23:55. Bağlantı: <https://forms.gle/que3C6aFWgE6
 
 ### Programlar 
 - [Flowgorithm](http://www.flowgorithm.org/download/index.html)   
-<!-- - [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/) -->
+- [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/)
 
 ### Blok programlama siteleri
 - [Blockly](http://blockly.eba.gov.tr/tr/index.html)   
