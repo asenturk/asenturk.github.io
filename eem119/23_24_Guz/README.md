@@ -22,6 +22,11 @@
 ![image](./odevler/files/odev_3.png)
 
 
+Yükleme kapanış 09/11/2023 23:55. Bağlantı: <https://forms.gle/KH9uvyAxc41n26mR9>
+
+
+
+
 
 - Çalışma/Ödev 2: İki sayı arasındaki tam bölünen sayıları bulma
 
