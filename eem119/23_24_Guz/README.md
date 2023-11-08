@@ -5,13 +5,14 @@
 ### Dersler
 
 *Algoritma*   
-- [Konu 1](./dersler/01.md): Sözde kod, akış diyagramı örnekleri
+- [Konu 1](./dersler/01.md): Sözde kod, akış diyagramı 
 - [Konu 2](./dersler/02.md): Akış diyagramı çizdirme örnekleri
-- [Konu 3](./dersler/03.md): For döngüsü ve dizi örnekleri
-- [Konu 4](./dersler/04.md): Fonksiyon örnekleri
+- [Konu 3](./dersler/03.md): For döngüsü ve diziler 
+- [Konu 4](./dersler/04.md): Fonksiyonlar örnekleri
+- [Konu 5](./dersler/05.md): Stringler
 
-*C Programalma*
-- 
+<!-- *C Programalma*
+-  -->
 
 
 ### Ödev/Lab çalışmaları
