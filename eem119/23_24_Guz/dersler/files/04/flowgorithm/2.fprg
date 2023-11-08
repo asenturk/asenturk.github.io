@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-06 09:54:28 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzA5OjQzOjQxIMOWw5Y7Mjg3MA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzA5OjU0OjI4IMOWw5Y7MTsyOTg1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="toplam" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="okuVeTopla()"/>
+            <output expression="toplam" newline="True"/>
+        </body>
+    </function>
+    <function name="okuVeTopla" type="Integer" variable="x">
+        <parameters/>
+        <body>
+            <declare name="x, a, b" type="Integer" array="False" size=""/>
+            <output expression="&quot;birinci sayi:&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;ikinci sayi:&quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="x" expression="a+b"/>
+        </body>
+    </function>
+</flowgorithm>

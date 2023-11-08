@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-06 10:13:35 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzEwOjA3OjA3IMOWw5Y7Mjg2NA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzEwOjEzOjM1IMOWw5Y7MTsyOTcw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <output expression="&quot;birinci sayi:&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;ikinci sayi:&quot;" newline="True"/>
+            <input variable="b"/>
+            <assign variable="c" expression="topla(a,b)"/>
+            <output expression="c" newline="True"/>
+        </body>
+    </function>
+    <function name="topla" type="Integer" variable="z">
+        <parameters>
+            <parameter name="x" type="Integer" array="False"/>
+            <parameter name="y" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="z" type="Integer" array="False" size=""/>
+            <assign variable="z" expression="x+y"/>
+        </body>
+    </function>
+</flowgorithm>
