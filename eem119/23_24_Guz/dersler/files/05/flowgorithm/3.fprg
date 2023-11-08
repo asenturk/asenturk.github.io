@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-06 11:03:02 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzEwOjUwOjQ4IMOWw5Y7Mjg2Nw=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzExOjAzOjAyIMOWw5Y7MzsyOTY2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="metin" type="String" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <input variable="metin"/>
+            <for variable="i" start="len(metin)-1" end="0" direction="dec" step="1">
+                <output expression="char(metin, i)" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

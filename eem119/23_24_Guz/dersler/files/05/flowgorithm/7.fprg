@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-06 11:13:48 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzExOjA3OjE5IMOWw5Y7Mjg2OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzExOjEzOjQ4IMOWw5Y7MjsyOTc2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="karakter" type="Integer" array="False" size=""/>
+            <for variable="karakter" start="toCode(&quot;a&quot;)" end="toCode(&quot;z&quot;)" direction="inc" step="1">
+                <output expression="toChar(karakter) &amp; &quot;:&quot; &amp; karakter &amp; &quot; &quot;" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

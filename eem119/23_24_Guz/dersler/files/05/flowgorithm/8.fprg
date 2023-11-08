@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ali"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-06 11:24:05 &#214;&#214;"/>
+        <attribute name="created" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzExOjA3OjE5IMOWw5Y7Mjg2OA=="/>
+        <attribute name="edited" value="QWxpO0RFU0tUT1AtUjNNVTM3OTsyMDIzLTExLTA2OzExOjI0OjA1IMOWw5Y7NTsyOTc0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <declare name="metin, kar" type="String" array="False" size=""/>
+            <input variable="metin"/>
+            <for variable="i" start="0" end="len(metin)-1" direction="inc" step="1">
+                <assign variable="kar" expression="Char(metin, i)"/>
+                <if expression="ToCode(kar)&gt;=ToCode(&quot;A&quot;) &amp;&amp; ToCode(kar)&lt;=ToCode(&quot;Z&quot;)">
+                    <then>
+                        <assign variable="kar" expression="toChar(toCode(kar)+(toCode(&quot;a&quot;)-toCode(&quot;A&quot;)))"/>
+                    </then>
+                    <else/>
+                </if>
+                <output expression="kar" newline="False"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
