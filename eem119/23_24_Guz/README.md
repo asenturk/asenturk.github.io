@@ -21,6 +21,15 @@
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
 
+- Çalışma/Ödev 4: Klavyeden girilen bir stringdeki harf olmayan karakterlerin sayısını bulan bir BUL fonksiyonunu tasarlayınız.    
+Bu fonksiyon ana fonksiyonda çağırılmalı, fonksiyon parametresi  string olmalı, fonksiyon harf olmayan karakterlerin sayısını döndürmelidir.   
+Ana fonksiyonda ise string klavyeden girilmeli ve yine ana fonksiyonda harf olmayan karakterlerin sayısı yazdırılmalıdır.
+
+Yükleme kapanış 16/11/2023 23:55. Bağlantı: <https://forms.gle/NaHmaJVsLJbAANa39>
+
+
+
+
 - Çalışma/Ödev 3: Verilen şekli oluşturmak için
   1. for döngüsü kullanarak
   2. while döngüsü kullanarak   
