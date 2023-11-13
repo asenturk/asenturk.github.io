@@ -11,8 +11,8 @@
 - [Konu 4](./dersler/04.md): Fonksiyonlar 
 - [Konu 5](./dersler/05.md): Stringler
 
-<!-- *C Programalma*
--  -->
+*C Programalma*
+- [Konu 6](./dersler/06.md): printf, değişken türleri, aritmetik operatörler
 
 
 ### Ödev/Lab çalışmaları
