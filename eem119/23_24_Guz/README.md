@@ -25,7 +25,7 @@
 Bu fonksiyon ana fonksiyonda çağırılmalı, fonksiyon parametresi  string olmalı, fonksiyon harf olmayan karakterlerin sayısını döndürmelidir.   
 Ana fonksiyonda ise string klavyeden girilmeli ve yine ana fonksiyonda harf olmayan karakterlerin sayısı yazdırılmalıdır.
 
-Yükleme kapanış 16/11/2023 23:55. Bağlantı: <https://forms.gle/NaHmaJVsLJbAANa39>
+Yükleme kapanış 17/11/2023 23:55. Bağlantı: <https://forms.gle/dzTQYCp2WnK9RykdA>
 
 
 
