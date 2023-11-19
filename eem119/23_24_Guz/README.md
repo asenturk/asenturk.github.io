@@ -21,7 +21,7 @@
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
 
-- Çalışma 5: Klavyeden girilen iki sayının toplam, fark, çarpım, tam sayı bölümü bölümünden kalan ve ondalıklı sayı bölüm değerlerini ekrana yazdıran C programını yazınız.
+- Çalışma 5: Klavyeden girilen iki sayının toplam, fark, çarpım, tam sayı bölümü, bölümünden kalan ve ondalıklı sayı bölüm değerlerini ekrana yazdıran C programını yazınız.
 
 *Bu çalışma ödev olarak yüklenmeyecektir.*
 
