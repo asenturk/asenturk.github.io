@@ -22,6 +22,11 @@
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
 
+- Çalışma 5: Klavyeden girilen iki sayının toplam, fark, çarpım, tam sayı bölümü, bölümünden kalan ve ondalıklı sayı bölüm değerlerini ekrana yazdıran C programını yazınız.
+
+*Bu çalışma ödev olarak yüklenmeyecektir.*
+
+
 - Çalışma/Ödev 4: Klavyeden girilen bir stringdeki harf olmayan karakterlerin sayısını bulan bir BUL fonksiyonunu tasarlayınız.    
 Bu fonksiyon ana fonksiyonda çağırılmalı, fonksiyon parametresi  string olmalı, fonksiyon harf olmayan karakterlerin sayısını döndürmelidir.   
 Ana fonksiyonda ise string klavyeden girilmeli ve yine ana fonksiyonda harf olmayan karakterlerin sayısı yazdırılmalıdır.
