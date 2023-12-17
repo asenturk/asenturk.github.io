@@ -23,6 +23,11 @@
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
 
+- Çalışma 6: Klavyeden girilen bir sayının rakamlarının toplamını while döngüsü ile bulan C programını yazınız.
+
+*Bu çalışma ödev olarak yüklenmeyecektir.*
+
+
 - Çalışma 5: Klavyeden girilen iki sayının toplam, fark, çarpım, tam sayı bölümü, bölümünden kalan ve ondalıklı sayı bölüm değerlerini ekrana yazdıran C programını yazınız.
 
 *Bu çalışma ödev olarak yüklenmeyecektir.*
