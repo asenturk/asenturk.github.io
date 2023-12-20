@@ -15,6 +15,7 @@
 - [Konu 6](./dersler/06.md): printf, değişken türleri, aritmetik operatörler
 - [Konu 7](./dersler/07.md): Format belirleyicileri, scanf, bileşke operatörler, arttırma operatörleri
 - [Konu 8](./dersler/08.md): Karşılaştırma operatörleri, Mantık operatöleri, if, while
+- [Konu 9](./dersler/09.md): do-while, for, break, continue
 
 
 ### Ödev/Lab çalışmaları
