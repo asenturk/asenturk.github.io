@@ -23,10 +23,9 @@
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).   
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
+- Çalışma 7: Girilen bir sayıdan küçük tüm asal sayıları bulan C programını yazınız.
 
 - Çalışma 6: Klavyeden girilen bir sayının rakamlarının toplamını while döngüsü ile bulan C programını yazınız.
-
-*Bu çalışma ödev olarak yüklenmeyecektir.*
 
 
 - Çalışma 5: Klavyeden girilen iki sayının toplam, fark, çarpım, tam sayı bölümü, bölümünden kalan ve ondalıklı sayı bölüm değerlerini ekrana yazdıran C programını yazınız.
