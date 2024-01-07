@@ -11,7 +11,7 @@
 - [Konu 4](./dersler/04.md): Fonksiyonlar 
 - [Konu 5](./dersler/05.md): Stringler
 
-*C Programalma*
+*C Programlama*
 - [Konu 6](./dersler/06.md): printf, değişken türleri, aritmetik operatörler
 - [Konu 7](./dersler/07.md): Format belirleyicileri, scanf, bileşke operatörler, arttırma operatörleri
 - [Konu 8](./dersler/08.md): Karşılaştırma operatörleri, Mantık operatöleri, if, while
