@@ -24,10 +24,14 @@
 Ödev Şablonu için [tıklayınız](./odevler/odev_raporu_sablonu.docx). Örnek Ödev için [tıklayınız](./odevler/ornek_odev_raporu.docx).   
 **Önemli**: Tüm ödevler ödev şablonuna uygun şekilde yapılmalıdır.
 
+- Çalışma 8: 8, 10 veya 16 sayı tabanında girilen bir sayı, yine bu tabanlardan birisi olmak üzere bir sayı tabanına çevrilecektir. Bu işlem için girilecek sayı tabanını sorduktan sonra switch case yapısı ile klavyeden belirtilen sayı bir değişkende saklanır. Çevrilecek sayı tabanı sorulur ve yine switch case yapısı ile sonuç ekrana yazdırılır. Belirtilen programın ödev şablonuna uygun olacak şekilde C kodunu yazınız ve akış diyagramını çiziniz.
+Yükleme kapanış 12/01/2024 23:55. Bağlantı: <https://forms.gle/JQPWkXWs21oN1vw9A>
+
 - Çalışma 7: Girilen bir sayıdan küçük tüm asal sayıları bulan C programını yazınız.
+*Bu çalışma ödev olarak yüklenmeyecektir.*
 
 - Çalışma 6: Klavyeden girilen bir sayının rakamlarının toplamını while döngüsü ile bulan C programını yazınız.
-
+*Bu çalışma ödev olarak yüklenmeyecektir.*
 
 - Çalışma 5: Klavyeden girilen iki sayının toplam, fark, çarpım, tam sayı bölümü, bölümünden kalan ve ondalıklı sayı bölüm değerlerini ekrana yazdıran C programını yazınız.
 
