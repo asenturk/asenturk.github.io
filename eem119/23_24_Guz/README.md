@@ -18,6 +18,7 @@
 - [Konu 9](./dersler/09.md): do-while, for, break, continue
 - [Konu 10](./dersler/10.md): switch-case, işaretsiz sayılar, taşma, karakter türü, tür dönüşümü, tür tanımlama
 - [Konu 11](./dersler/11.md): Diziler
+- [Konu 12](./dersler/12.md): Fonksiyonlar
 
 
 ### Ödev/Lab çalışmaları
