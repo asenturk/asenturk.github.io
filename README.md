@@ -1,13 +1,13 @@
 
 # ISUBU Elektrik-Elektronik Mühendisliği
 
-
-
-
-
 ### [EEM-465 Gömülü Sistemler](./eem465/EEM465/)
 
+### [EEM-120 Algoritma ve Programlama II](./eem120/23_24_Bahar/)
+
 ### [EEM-119 Algoritma ve Programlama I](./eem119/23_24_Guz/)
+
+
 
 
 ## Geçmiş Dönemler
