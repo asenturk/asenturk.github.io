@@ -31,6 +31,11 @@
 
 
 
+### Ödev/Lab çalışmaları
+
+- Çalışma 1: Ekrana n defa merhaba yazdıran `void yazdir(int n)` fonksiyonunu döngü kullanmadan tasarlayınız. An programda çağırarak programı çalıştırınız.
+
+
 <!-- 
 ### Kaynaklar -->
 
