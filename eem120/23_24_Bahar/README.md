@@ -35,7 +35,9 @@
 
 ### Ödev/Lab çalışmaları
 
-- Çalışma 1: Ekrana n defa merhaba yazdıran `void yazdir(int n)` fonksiyonunu döngü kullanmadan tasarlayınız. An programda çağırarak programı çalıştırınız.
+- Çalışma 1: Ekrana n defa merhaba yazdıran `void yazdir(int n)` fonksiyonunu döngü kullanmadan tasarlayınız. Ana programda çağırarak programı çalıştırınız.
+
+- Çalışma 2: İki ürünün satışlarını kontrol etmek için `satis1` ve `satis2` fonksiyonlari yazılacaktır. Bu fonksiyonlara satış adedi ve satış miktarı parametre olarak girilecektir. Bu fonksiyonlardan  satis 1 fonksiyonu çağırıldı ise ürün 1'in satis2 fonksiyonu çağırıldı ise ve ürün 2'nin toplam satış adetleri ve toplam satış sonrası elde edilen gelir ekrana yazdırılacaktır. Bu işlemler için `statik` değişkenler kullanınız. Ayrıca yine her bir fonksiyon çağırıldığında toplam satış adedi ve toplam gelir yazıdırılacaktır. Bu işlem için ise `global` değişkenler kullanınız.
 
 
 <!-- 
