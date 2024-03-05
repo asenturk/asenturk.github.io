@@ -22,6 +22,7 @@
 - [Konu 2](./dersler/02.md): Local, static ve global değişkenler
 - [Konu 3](./dersler/03.md): İşaretçiler
 - [Konu 4](./dersler/04.md): İşaretçi aritmetiği
+- [Konu 5](./dersler/05.md): Karakter dizileri
 
 <!-- 
 -  [Konu 3](./dersler/02.md): String (karakter dizisi)
