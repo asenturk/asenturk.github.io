@@ -41,6 +41,37 @@
 
 - Çalışma 2: İki ürünün satışlarını kontrol etmek için `satis1` ve `satis2` fonksiyonlari yazılacaktır. Bu fonksiyonlara satış adedi ve satış miktarı parametre olarak girilecektir. Bu fonksiyonlardan  satis 1 fonksiyonu çağırıldı ise ürün 1'in satis2 fonksiyonu çağırıldı ise ve ürün 2'nin toplam satış adetleri ve toplam satış sonrası elde edilen gelir ekrana yazdırılacaktır. Bu işlemler için `statik` değişkenler kullanınız. Ayrıca yine her bir fonksiyon çağırıldığında toplam satış adedi ve toplam gelir yazıdırılacaktır. Bu işlem için ise `global` değişkenler kullanınız.
 
+- Çalışma 3:
+
+`int sicaklik[7][24]` dizisine 7 gün her saatin sıcaklık bilgisi girilmiştir.
+
+- Tüm sıcaklıkları işaretçi ve döngü kullanarak ekrana yazdırın.
+
+- Tüm sıcaklıkları satırlar günü sütunlar saati gösterecek şekilde işaretçi kullanarak ekrana yazdırın.
+
+- Kullanıcıdan gün ve saat bilgisini isteyerek sıcaklık bilgisini ekrana yazdırın. (1 boyutlu işaretçi kullanın.)
+
+- En yüksek sıcaklık olan gün ve saat bilgisi için 
+`void en_yuksek(int *p, int boyut, int *gun, int *saat)`
+fonksiyonunu yazın, programda kullanın.
+
+Aşağıdaki kodlamadan devam edebilirsiniz.
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+int main() {
+  int sicaklik[7][24],i,j;
+  srand(100);  
+  for(i = 0; i < 7; i++){
+    for(j = 0; j < 24; j++) {
+      sicaklik[i][j] = rand() % 40;
+    }
+  }
+  return 0;
+}
+```
+
 
 <!-- 
 ### Kaynaklar -->
