@@ -24,6 +24,7 @@
 - [Konu 4](./dersler/04.md): İşaretçi aritmetiği
 - [Konu 5](./dersler/05.md): Karakter dizileri
 - [Konu 6](./dersler/06.md): Bit düzey operatörler
+- [Konu 7](./dersler/07.md): Dosya okuma ve dosyaya yazma
 
 <!-- 
 -  [Konu 3](./dersler/02.md): String (karakter dizisi)
