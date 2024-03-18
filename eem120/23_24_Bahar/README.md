@@ -39,7 +39,29 @@
 
 - Çalışma 4:
 
+Klavyeden girilen bir metindeki sesli harflerin sayısını bulmak için 
+- `i`, `j` değişkenlerini indis olarak kullanarak,
+- `p`, `q` işaretçilerini stringin elemanlarına işaret edecek şekilde kullanarak
+programları yazını.
 
+```C
+#include <stdio.h>
+
+int main() {
+    char str[100], sesli_harfler[] = "aeiouAEIOU";
+    int count = 0, i, j;
+    char *p, *q;
+
+    printf("Bir metin giriniz: ");
+    // kolamayı bu satirdan itibaren yapabilirsiniz.    
+
+
+    printf("Sesli harf sayısı: %d\n", count);
+
+    return 0;
+}
+
+```
 
 
 - Çalışma 3:
