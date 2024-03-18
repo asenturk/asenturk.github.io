@@ -36,21 +36,22 @@
 
 ### Ödev/Lab çalışmaları
 
-- Çalışma 1: Ekrana n defa merhaba yazdıran `void yazdir(int n)` fonksiyonunu döngü kullanmadan tasarlayınız. Ana programda çağırarak programı çalıştırınız.
+- Çalışma 4:
 
-- Çalışma 2: İki ürünün satışlarını kontrol etmek için `satis1` ve `satis2` fonksiyonlari yazılacaktır. Bu fonksiyonlara satış adedi ve satış miktarı parametre olarak girilecektir. Bu fonksiyonlardan  satis 1 fonksiyonu çağırıldı ise ürün 1'in satis2 fonksiyonu çağırıldı ise ve ürün 2'nin toplam satış adetleri ve toplam satış sonrası elde edilen gelir ekrana yazdırılacaktır. Bu işlemler için `statik` değişkenler kullanınız. Ayrıca yine her bir fonksiyon çağırıldığında toplam satış adedi ve toplam gelir yazıdırılacaktır. Bu işlem için ise `global` değişkenler kullanınız.
+
+
 
 - Çalışma 3:
 
 `int sicaklik[7][24]` dizisine 7 gün her saatin sıcaklık bilgisi girilmiştir.
 
-- Tüm sıcaklıkları işaretçi ve döngü kullanarak ekrana yazdırın.
+Tüm sıcaklıkları işaretçi ve döngü kullanarak ekrana yazdırın.
 
-- Tüm sıcaklıkları satırlar günü sütunlar saati gösterecek şekilde işaretçi kullanarak ekrana yazdırın.
+Tüm sıcaklıkları satırlar günü sütunlar saati gösterecek şekilde işaretçi kullanarak ekrana yazdırın.
 
-- Kullanıcıdan gün ve saat bilgisini isteyerek sıcaklık bilgisini ekrana yazdırın. (1 boyutlu işaretçi kullanın.)
+Kullanıcıdan gün ve saat bilgisini isteyerek sıcaklık bilgisini ekrana yazdırın. (1 boyutlu işaretçi kullanın.)
 
-- En yüksek sıcaklık olan gün ve saat bilgisi için 
+En yüksek sıcaklık olan gün ve saat bilgisi için 
 `void en_yuksek(int *p, int boyut, int *gun, int *saat)`
 fonksiyonunu yazın, programda kullanın.
 
@@ -71,6 +72,10 @@ int main() {
 }
 ```
 
+- Çalışma 2: İki ürünün satışlarını kontrol etmek için `satis1` ve `satis2` fonksiyonlari yazılacaktır. Bu fonksiyonlara satış adedi ve satış miktarı parametre olarak girilecektir. Bu fonksiyonlardan  satis 1 fonksiyonu çağırıldı ise ürün 1'in satis2 fonksiyonu çağırıldı ise ve ürün 2'nin toplam satış adetleri ve toplam satış sonrası elde edilen gelir ekrana yazdırılacaktır. Bu işlemler için `statik` değişkenler kullanınız. Ayrıca yine her bir fonksiyon çağırıldığında toplam satış adedi ve toplam gelir yazıdırılacaktır. Bu işlem için ise `global` değişkenler kullanınız.
+
+
+- Çalışma 1: Ekrana n defa merhaba yazdıran `void yazdir(int n)` fonksiyonunu döngü kullanmadan tasarlayınız. Ana programda çağırarak programı çalıştırınız.
 
 <!-- 
 ### Kaynaklar -->
