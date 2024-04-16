@@ -1,17 +1,24 @@
 # EEM-120 Algoritma ve Programlama II Dersi
 
-<!-- ### [Duyurular](#duyurular) |  [Laboratuvar](#Laboratuvar) |  [Dersler](#dersler) | [Kaynaklar](#kaynaklar) |  [Programlar](#programlar)
+## Laboratuvar
+Arduino programlama simülasyonları ve Laboratuvar çalışmaları için [TINKERCAD](https://www.tinkercad.com/) sitesine kaydolmanız gerekmektedir.   
+Kaydolduktan sonra sağ üst köşede bulunan profil ayarlarından Ekran Adı kısmını sınıf listesinde bulunan Ad Soyadınız olacak şekilde düzenleyin. Eğer ad soyad kabul etmezse soyadınızdan sonra isubu ifadesini ekleyebilirsiniz.   
+Kaydolduktan sonra sol menüde bulunan Sınıflar menüsüne tıklayarak 'Bir Sınıfa Katıl' butonuna tıklayınız. Aşağıdaki sınıf kodu ile sınıfa kaydolduktan sonra laboratuvar çalışmalarını takip edebilir ve yapabilirsiniz.   
+Sınıf kodu: DQQ CSZ WYK
 
-### Duyurular
-- Online dersin son saatinde lab çalışması yapılacaktır. Lab çalışması yapmak isteyenlerin ekran paylaşımı yapabilmek için Adobe Connect programını kurması gerekmektedir.
+Sınıfların içinde laboratuvar  çalışmalarını her öğrencinin kendinin başlatması ve yapması gerekmektedir.
 
-### Laboratuvar
+Sınıftaki Lab etkinliğine girdikten sonra "Yeni tasarım oluştur" butonuna tıklayın ve "Devre" seçeneğini seçin.
+
+Sol üst köşede, tinkercad logosunun yanında çalışmanıza otomatik olarak verilen isimin üzerine tıklayarak, "Lab1 okul_numaranız" şeklinde isimlendirmeniz gerekiyor.
+Örneğin 3 numaralı çalışma için Lab3 2322705000 şeklinde.
+Çalışmalar için son tarih konulamıyor. Bundan dolayı son tarihten sonra çalışmanızda herhangi bir değişiklik yapmayın. 
+
+**ÖNEMLİ:Laboratavar dersinden önce bu çalışmaları yapmamış olanlar laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinden yok yazılacaktır.**
 
 
-- Lab 1 çalışması için [tıklayınız](./lab/01.md).
-- Lab 2 çalışması için [tıklayınız](./lab/02.md).
-- Lab 3 çalışması için [tıklayınız](./lab/03.md).
-- Lab 4 çalışması için [tıklayınız](./lab/04.md). -->
+Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). (Güncelleme: 16/04/2024)
+
 
 ## Arduino Programlama (Final konuları)
 
@@ -38,68 +45,7 @@
 
 ### Ödev/Lab çalışmaları
 
-- Çalışma 4:
-
-Klavyeden girilen bir metindeki sesli harflerin sayısını bulmak için 
-- `i`, `j` değişkenlerini indis olarak kullanarak,
-- `p`, `q` işaretçilerini stringin elemanlarına işaret edecek şekilde kullanarak
-programları yazını.
-
-```C
-#include <stdio.h>
-
-int main() {
-    char str[100], sesli_harfler[] = "aeiouAEIOU";
-    int count = 0, i, j;
-    char *p, *q;
-
-    printf("Bir metin giriniz: ");
-    // kolamayı bu satirdan itibaren yapabilirsiniz.    
-
-
-    printf("Sesli harf sayısı: %d\n", count);
-
-    return 0;
-}
-
-```
-
-
-- Çalışma 3:
-
-`int sicaklik[7][24]` dizisine 7 gün her saatin sıcaklık bilgisi girilmiştir.
-
-Tüm sıcaklıkları işaretçi ve döngü kullanarak ekrana yazdırın.
-
-Tüm sıcaklıkları satırlar günü sütunlar saati gösterecek şekilde işaretçi kullanarak ekrana yazdırın.
-
-Kullanıcıdan gün ve saat bilgisini isteyerek sıcaklık bilgisini ekrana yazdırın. (1 boyutlu işaretçi kullanın.)
-
-En yüksek sıcaklık olan gün ve saat bilgisi için 
-`void en_yuksek(int *p, int boyut, int *gun, int *saat)`
-fonksiyonunu yazın, programda kullanın.
-
-Aşağıdaki kodlamadan devam edebilirsiniz.
-
-```C
-#include <stdio.h>
-#include <stdlib.h>
-int main() {
-  int sicaklik[7][24],i,j;
-  srand(100);  
-  for(i = 0; i < 7; i++){
-    for(j = 0; j < 24; j++) {
-      sicaklik[i][j] = rand() % 40;
-    }
-  }
-  return 0;
-}
-```
-
-- Çalışma 2: İki ürünün satışlarını kontrol etmek için `satis1` ve `satis2` fonksiyonlari yazılacaktır. Bu fonksiyonlara satış adedi ve satış miktarı parametre olarak girilecektir. Bu fonksiyonlardan  satis 1 fonksiyonu çağırıldı ise ürün 1'in satis2 fonksiyonu çağırıldı ise ve ürün 2'nin toplam satış adetleri ve toplam satış sonrası elde edilen gelir ekrana yazdırılacaktır. Bu işlemler için `statik` değişkenler kullanınız. Ayrıca yine her bir fonksiyon çağırıldığında toplam satış adedi ve toplam gelir yazıdırılacaktır. Bu işlem için ise `global` değişkenler kullanınız.
-
-
-- Çalışma 1: Ekrana n defa merhaba yazdıran `void yazdir(int n)` fonksiyonunu döngü kullanmadan tasarlayınız. Ana programda çağırarak programı çalıştırınız.
+Laboratuvar Çalışmaları için [tıklayınız](./Lab/01.md).
 
 <!-- 
 ### Kaynaklar -->
