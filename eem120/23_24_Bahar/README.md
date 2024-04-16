@@ -1,6 +1,11 @@
 # EEM-120 Algoritma ve Programlama II Dersi
 
+**ÖNEMLİ:Laboratuvar dersinden önce bu çalışmaları yapmamış olanlar laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinden yok yazılacaktır.**
+
 ## Laboratuvar
+
+Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). (Güncelleme: 16/04/2024)
+
 Arduino programlama simülasyonları ve Laboratuvar çalışmaları için [TINKERCAD](https://www.tinkercad.com/) sitesine kaydolmanız gerekmektedir.   
 Kaydolduktan sonra sağ üst köşede bulunan profil ayarlarından Ekran Adı kısmını sınıf listesinde bulunan Ad Soyadınız olacak şekilde düzenleyin. Eğer ad soyad kabul etmezse soyadınızdan sonra isubu ifadesini ekleyebilirsiniz.   
 Kaydolduktan sonra sol menüde bulunan Sınıflar menüsüne tıklayarak 'Bir Sınıfa Katıl' butonuna tıklayınız. Aşağıdaki sınıf kodu ile sınıfa kaydolduktan sonra laboratuvar çalışmalarını takip edebilir ve yapabilirsiniz.   
@@ -14,10 +19,10 @@ Sol üst köşede, tinkercad logosunun yanında çalışmanıza otomatik olarak 
 Örneğin 3 numaralı çalışma için Lab3 2322705000 şeklinde.
 Çalışmalar için son tarih konulamıyor. Bundan dolayı son tarihten sonra çalışmanızda herhangi bir değişiklik yapmayın. 
 
-**ÖNEMLİ:Laboratavar dersinden önce bu çalışmaları yapmamış olanlar laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinden yok yazılacaktır.**
 
 
-Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). (Güncelleme: 16/04/2024)
+
+
 
 
 ## Arduino Programlama (Final konuları)
@@ -50,7 +55,7 @@ Laboratuvar Çalışmaları için [tıklayınız](./Lab/01.md).
 <!-- 
 ### Kaynaklar -->
 
-#### Kitaplar
+### Kitaplar
 Hiperkitap ve Turcademy sitelerine üniversitemiz üye olduğundan bu sitedeki kitaplara ücretsiz ulaşabilirsiniz.   
 Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.tr/tr/servisler/kampus-disi-erisim-6932s.html).   
 - [Her yönüyle C,  Tevfik Kızılören](https://www.hiperkitap.com/her-yonuyle-c)
