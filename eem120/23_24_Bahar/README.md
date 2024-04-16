@@ -6,7 +6,7 @@
 ## Arduino Programlama
 
 ### ÖNEMLİ DUYURU
-Laboratuvar çalışmalarında belirtilen son tarih ve öncesinde laboratuvar çalışmasını yapmamış olanlar bu tarihten sonraki laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinde yok yazılacaktır.
+Laboratuvar çalışmalarında belirtilen tarihte laboratuvar çalışmasını yapmamış olanlar sonraki laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinde yok yazılacaktır.
 
 
 ### Laboratuvar
