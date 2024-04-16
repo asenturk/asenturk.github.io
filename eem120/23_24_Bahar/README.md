@@ -9,15 +9,21 @@ Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). (Güncelleme: 16
 Arduino programlama simülasyonları ve Laboratuvar çalışmaları için [TINKERCAD](https://www.tinkercad.com/) sitesine kaydolmanız gerekmektedir.   
 Kaydolduktan sonra sağ üst köşede bulunan profil ayarlarından Ekran Adı kısmını sınıf listesinde bulunan Ad Soyadınız olacak şekilde düzenleyin. Eğer ad soyad kabul etmezse soyadınızdan sonra isubu ifadesini ekleyebilirsiniz.   
 Kaydolduktan sonra sol menüde bulunan Sınıflar menüsüne tıklayarak 'Bir Sınıfa Katıl' butonuna tıklayınız. Aşağıdaki sınıf kodu ile sınıfa kaydolduktan sonra laboratuvar çalışmalarını takip edebilir ve yapabilirsiniz.   
-Sınıf kodu: DQQ CSZ WYK
+
+**Sınıf kodu:** DQQ CSZ WYK
 
 Sınıfların içinde laboratuvar  çalışmalarını her öğrencinin kendinin başlatması ve yapması gerekmektedir.
 
 Sınıftaki Lab etkinliğine girdikten sonra "Yeni tasarım oluştur" butonuna tıklayın ve "Devre" seçeneğini seçin.
 
-Sol üst köşede, tinkercad logosunun yanında çalışmanıza otomatik olarak verilen isimin üzerine tıklayarak, "Lab1 okul_numaranız" şeklinde isimlendirmeniz gerekiyor.
+Sol üst köşede, tinkercad logosunun yanında çalışmanıza otomatik olarak verilen isimin üzerine tıklayarak, "Labx okul_numaranız" şeklinde isimlendirmeniz gerekiyor.
 Örneğin 3 numaralı çalışma için Lab3 2322705000 şeklinde.
-Çalışmalar için son tarih konulamıyor. Bundan dolayı son tarihten sonra çalışmanızda herhangi bir değişiklik yapmayın. 
+
+Çalışmalar için son tarih konulamıyor. Bundan dolayı son tarihten sonra çalışmanızda herhangi bir değişiklik yapmayın. Aksi halde çalışmanın son tarihten sonra yapıldığı var sayılarak çalışma kabul edilmeyecektir.
+
+Yapılacak işlemler adım adım aşağıdaki dokümanda gösterilmiştir:    
+[Tinkercad sınıfa kaydolma kılavuzu](./Lab/Tinkercad_sinifa_kaydolma.pdf)
+
 
 
 
