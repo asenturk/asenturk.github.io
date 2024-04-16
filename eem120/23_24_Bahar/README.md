@@ -4,7 +4,8 @@
 
 ## Laboratuvar
 
-Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). (Güncelleme: 16/04/2024)
+Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md).   
+(Lab1 son tarih 21 Nisan 2024 Pazar. Bu tarhten sonra çalışmanızda güncelleme yapmayınız.)
 
 ### Laboratuvar Yönergeleri
 
