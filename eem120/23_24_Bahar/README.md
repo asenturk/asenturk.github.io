@@ -13,8 +13,13 @@
 - Lab 3 çalışması için [tıklayınız](./lab/03.md).
 - Lab 4 çalışması için [tıklayınız](./lab/04.md). -->
 
- 
+## Arduino Programlama (Final konuları)
 
+
+
+
+
+## C Programlama (Arasınav konuları)
 
 ### Dersler
 
@@ -106,16 +111,12 @@ int main() {
 <!-- 
 ### Kaynaklar -->
 
-<!-- #### Kitaplar -->
-<!-- Hiperkitap ve Turcademy sitelerine üniversitemiz üye olduğundan bu sitedeki kitaplara ücretsiz ulaşabilirsiniz.   
-Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.tr/tr/servisler/kampus-disi-erisim-6932s.html).
+#### Kitaplar
+Hiperkitap ve Turcademy sitelerine üniversitemiz üye olduğundan bu sitedeki kitaplara ücretsiz ulaşabilirsiniz.   
+Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.tr/tr/servisler/kampus-disi-erisim-6932s.html).   
 - [Her yönüyle C,  Tevfik Kızılören](https://www.hiperkitap.com/her-yonuyle-c)
 - [Algoritma Tasarlama Ve C İle Temel Bilgisayar Programlama, Atakan Abuşoğlu](https://www.turcademy.com/tr/kitap/algoritma-tasarlama-ve-c-ile-temel-bilgisayar-programlama-9786053279099)
-- [C İle Programlama, Deitel ve Deitel](https://www.turcademy.com/tr/kitap/c-ile-programlama-9786053556237) -->
-
-
-<!-- #### İnternet -->
-
+- [C İle Programlama, Deitel ve Deitel](https://www.turcademy.com/tr/kitap/c-ile-programlama-9786053556237) 
 
 ### Programlar
 - [Dev-C++ (Orwell)](https://sourceforge.net/projects/orwelldevcpp/)
