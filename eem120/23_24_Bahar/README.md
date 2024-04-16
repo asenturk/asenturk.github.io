@@ -33,13 +33,6 @@
 - [Konu 8](./dersler/08.md): Makrolar
 - [Konu 9](./dersler/09.md): Yapılar
 
-<!-- 
--  [Konu 3](./dersler/02.md): String (karakter dizisi)
-- [Konu 4](./dersler/03.md): Struct (yapılar)
-- [Konu 5](./dersler/04.md): Bit düzey (bitwise) operatörler
-- [Konu 6](./dersler/05.md): Dosya okuma ve dosyaya yazma işlemleri
-- [Konu 7](./dersler/06.md): Dinamik Bellek Tahsisi
-- [Konu 8](./dersler/07.md): Makrolar -->
 
 
 
