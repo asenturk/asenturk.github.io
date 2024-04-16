@@ -28,16 +28,13 @@ Yapılacak işlemler adım adım aşağıdaki dokümanda gösterilmiştir:
 
 
 
+## Arduino Programlama
+
+- [Konu 1](./dersler/10.md): LED yakma söndürme örneği
 
 
 
-## Arduino Programlama (Final konuları)
-
-
-
-
-
-## C Programlama (Arasınav konuları)
+## C Programlama
 
 ### Dersler
 
