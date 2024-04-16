@@ -1,6 +1,6 @@
 # EEM-120 Algoritma ve Programlama II Dersi
 
-**ÖNEMLİ:Laboratuvar dersinden önce bu çalışmaları yapmamış olanlar laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinden yok yazılacaktır.**
+**ÖNEMLİ:Laboratuvar dersinden önce bu çalışmaları yapmamış olanlar laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinde yok yazılacaktır.**
 
 ## Laboratuvar
 
