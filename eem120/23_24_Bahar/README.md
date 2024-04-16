@@ -6,6 +6,8 @@
 
 Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). (Güncelleme: 16/04/2024)
 
+### Laboratuvar Yönergeleri
+
 Arduino programlama simülasyonları ve Laboratuvar çalışmaları için [TINKERCAD](https://www.tinkercad.com/) sitesine kaydolmanız gerekmektedir.   
 Kaydolduktan sonra sağ üst köşede bulunan profil ayarlarından Ekran Adı kısmını sınıf listesinde bulunan Ad Soyadınız olacak şekilde düzenleyin. Eğer ad soyad kabul etmezse soyadınızdan sonra isubu ifadesini ekleyebilirsiniz.   
 Kaydolduktan sonra sol menüde bulunan Sınıflar menüsüne tıklayarak 'Bir Sınıfa Katıl' butonuna tıklayınız. Aşağıdaki sınıf kodu ile sınıfa kaydolduktan sonra laboratuvar çalışmalarını takip edebilir ve yapabilirsiniz.   
