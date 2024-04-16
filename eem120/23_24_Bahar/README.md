@@ -2,7 +2,10 @@
 
 **ÖNEMLİ:Laboratuvar dersinden önce bu çalışmaları yapmamış olanlar laboratuvar dersine gelmek zorundadır. Aksi halde laboratuvar dersinde yok yazılacaktır.**
 
-## Laboratuvar
+
+## Arduino Programlama
+
+### Laboratuvar
 
 Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md).   
 (Lab1 son tarih 21 Nisan 2024 Pazar. Bu tarihten sonra çalışmanızda güncelleme yapmayınız.)
@@ -28,11 +31,7 @@ Yapılacak işlemler adım adım aşağıdaki dokümanda gösterilmiştir:
 [Tinkercad sınıfa kaydolma kılavuzu](./Lab/Tinkercad_sinifa_kaydolma.pdf)
 
 
-
-
-
-## Arduino Programlama
-
+### Dersler
 - [Konu 1](./dersler/10.md): LED yakma söndürme örneği
 
 ### Kaynaklar
