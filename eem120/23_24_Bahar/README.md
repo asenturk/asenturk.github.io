@@ -1,8 +1,6 @@
 # EEM-120 Algoritma ve Programlama II Dersi
 
 
-
-
 ## Arduino Programlama
 
 ### ÖNEMLİ DUYURU
