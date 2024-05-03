@@ -34,7 +34,7 @@ Yapılacak işlemler adım adım aşağıdaki dokümanda gösterilmiştir:
 
 
 ### Dersler
-- [Konu 1](./dersler/10.md): LED yakma söndürme örneği
+- [Konu 1](./dersler/10.md): LED yakma söndürme örnekleri
 
 ### Kaynaklar
 - Arduino referans sayfası: <https://www.arduino.cc/reference/en/>
