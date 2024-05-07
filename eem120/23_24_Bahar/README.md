@@ -10,7 +10,12 @@ Laboratuvar çalışmalarında belirtilen tarihte laboratuvar çalışmasını y
 ### Laboratuvar
 
 Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md).   
-(Lab1 son tarih 5 Mayıs 2024 Pazar. Bu tarihten sonra çalışmanızda güncelleme yapmayınız.)
+(Lab1 son tarih 5 Mayıs 2024 Pazar. Bu tarihten sonra çalışmanızda güncelleme yapmayınız.)    
+
+[Lab1 ödev kabul edilen ödevler.](./Lab/lab1_gonderenler.md). Not: bu lsitede olmayanlar Lab dersine gelmek zorundadır. Aksi halde yok yazılacaktır.
+
+
+Gönderim formatını kontrol ediniz. Formata uygun olmayan çalışmalar kabul edilmeyecektir.
 
 ### Laboratuvar Yönergeleri
 
