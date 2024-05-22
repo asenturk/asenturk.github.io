@@ -11,9 +11,12 @@ Laboratuvar çalışmalarında belirtilen tarihte laboratuvar çalışmasını y
 
 Gönderim formatını kontrol ediniz. Formata uygun olmayan çalışmalar kabul edilmeyecektir.
 
-Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md).   
-(Lab3 son tarih 19 Mayıs 2024 Pazar. Bu tarihten sonra çalışmanızda güncelleme yapmayınız.)    
+Laboratuvar Çalışmaları için [tıklayınız](./Lab/02.md). 
 
+
+(Lab3 son tarih 19 Mayıs 2024 Pazar. Bu tarihten sonra çalışmanızda güncelleme yapmayınız.)    
+[Lab3 kabul edilen çalışmalar](./Lab/lab3_gonderenler.md). Not: bu listede olmayanlar Lab dersine gelmek zorundadır. Aksi halde yok yazılacaktır.
+  
 
 (Lab2 son tarih 12 Mayıs 2024 Pazar. Bu tarihten sonra çalışmanızda güncelleme yapmayınız.)    
 [Lab2 kabul edilen çalışmalar](./Lab/lab2_gonderenler.md). Not: bu listede olmayanlar Lab dersine gelmek zorundadır. Aksi halde yok yazılacaktır.
@@ -49,7 +52,8 @@ Yapılacak işlemler adım adım aşağıdaki dokümanda gösterilmiştir:
 ### Dersler
 - [Konu 1](./dersler/10.md): LED yakma söndürme
 - [Konu 2](./dersler/11.md): Button, kesme, millis fonksiyonu
-- [Konu 3](./dersler/12.md):  
+- [Konu 3](./dersler/12.md): 7 segmentli gösterge, Kaydırma yazmacı, RGB Led, LCD kullanımı
+- [Konu 4](./dersler/13.md): Analog okuma, sıcaklık sensörü, map fonksiyonu, analog yazma, PWM sinyali.
 
 
 ### Kaynaklar
