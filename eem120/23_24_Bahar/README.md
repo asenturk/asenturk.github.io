@@ -57,6 +57,7 @@ Yapılacak işlemler adım adım aşağıdaki dokümanda gösterilmiştir:
 - [Konu 2](./dersler/11.md): Button, kesme, millis fonksiyonu
 - [Konu 3](./dersler/12.md): 7 segmentli gösterge, Kaydırma yazmacı, RGB Led, LCD kullanımı
 - [Konu 4](./dersler/13.md): Analog okuma, sıcaklık sensörü, map fonksiyonu, analog yazma, PWM sinyali.
+- [Konu 5](./dersler/14.md): LCD uygulamaları, DC motor sürme, Servo motor, osiloskop, röle.
 
 
 ### Kaynaklar
