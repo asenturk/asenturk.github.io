@@ -1,11 +1,13 @@
 
 # ISUBU Elektrik-Elektronik Mühendisliği
 
+### [EEM-241 İleri Düzey Programlama](./eem241/)
+
 ### [EEM-465 Gömülü Sistemler](./eem465/EEM465/)
 
-### [EEM-120 Algoritma ve Programlama II](./eem120/23_24_Bahar/)
 
-### [EEM-119 Algoritma ve Programlama I](./eem119/23_24_Guz/)
+
+
 
 
 
@@ -14,7 +16,7 @@
 
 #### [EEM-117 Algoritma ve Programlama (Güz)](eem117/README.md)
 
-#### [EEM-119 Algoritma ve Programlama I (Güz)](./eem119/22_23_Guz/)
+#### [EEM-119 Algoritma ve Programlama I (Güz)](./eem119/)
 
 #### [EEM-120 Algoritma ve Programlama II Bahar](./eem120/README.md)
 
