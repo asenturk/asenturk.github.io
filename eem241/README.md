@@ -1,18 +1,13 @@
-# EEM-251 İleri Düzey Programlama
+# EEM-241 İleri Düzey Programlama
 
-## 2022-2023 Güz Dönemi
+## 2024-2025 Güz Dönemi
 
-
-<!-- #### Algoritma 
-
-#### C Programlama -->
-<!-- - [Hafta 1](./dersler/ders01.md)   EEM-119 Algoritmalar ve Programlama I dersi  -->
 
 ### Dersler
-#### Arduino Programlama 
 
-- [Hafta 1](./dersler/01.md): Arduino LED yakma söndürme örneği
-- [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
+- [Hafta 1](./dersler/01.md): Temel Excel özellikleri ve formül kullanımı 
+
+<!-- - [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
 - [Hafta 3](./dersler/03.md): input pin modu, pull-up, pull-down dirençleri, millis() fonksiyonu 
 - [Hafta 4](./dersler/04.md): Yazılımla debounce, 7 segmentli gösterge, BCD to 7 segment decoder entegresi
 - [Hafta 5](./dersler/05.md): 8-bit kaydırma yazmacı uygulamaları, RGB LED, 16x2 LCD
@@ -40,7 +35,7 @@ Kaydolduktan sonra Tasarımlar -> Yeni -> Devre linkerini takip ederek Arduino t
 Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.tr/tr/servisler/kampus-disi-erisim-6932s.html).
 - [Projeler ile arduino, Erdal Delebe](https://www.hiperkitap.com/projeler-ile-arduino)
 - [Arduino atölyesi, Erdal Delebe](https://www.hiperkitap.com/arduino-atolyesi)
-- [Herkes için arduino, Gökhan Su](https://www.hiperkitap.com/herkes-icin-arduino)
+- [Herkes için arduino, Gökhan Su](https://www.hiperkitap.com/herkes-icin-arduino) --> -->
 
 
 
