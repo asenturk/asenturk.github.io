@@ -7,6 +7,7 @@
 
 - [Hafta 1](./dersler/01.md): Temel Excel özellikleri ve formül kullanımı 
 
+
 <!-- - [Hafta 2](./dersler/02.md): Sıralı LED yakma söndürmek örnekleri, random fonksiyonu, ikili sayıcı
 - [Hafta 3](./dersler/03.md): input pin modu, pull-up, pull-down dirençleri, millis() fonksiyonu 
 - [Hafta 4](./dersler/04.md): Yazılımla debounce, 7 segmentli gösterge, BCD to 7 segment decoder entegresi
