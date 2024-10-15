@@ -34,6 +34,8 @@ HSI - HSE sistem clock (saat) kaynakları
 - [User manual](https://github.com/asenturk/stm32f4/blob/master/Referanslar/04%20-%20UM1472%20User%20manual.pdf)
 
 ### Dokümanlar
+- [Keil 5.41 Yeni Proje](./files/01%20-%20keil5.41%20proje%20ayarlari.pdf)
+
 - [Keil Program ve Kütüphane Kurulumu](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/01_program_ve_kutuphane_kurulumu.pdf)
 - [Yeni Proje](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/09_proje_olu%C5%9Fturma.pdf)
 - [Derleyici Değiştirme](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/04_derleyici_degistirme.pdf)
