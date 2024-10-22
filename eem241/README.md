@@ -40,7 +40,9 @@ Kaydolduktan sonra Tasarımlar -> Yeni -> Devre linkerini takip ederek Arduino t
 Kampus dışı erişim ayarları için [tıklayınız](https://bidb.isparta.edu.tr/tr/servisler/kampus-disi-erisim-6932s.html).
 - [Projeler ile arduino, Erdal Delebe](https://www.hiperkitap.com/projeler-ile-arduino)
 - [Arduino atölyesi, Erdal Delebe](https://www.hiperkitap.com/arduino-atolyesi)
-- [Herkes için arduino, Gökhan Su](https://www.hiperkitap.com/herkes-icin-arduino) --> -->
+- [Herkes için arduino, Gökhan Su](https://www.hiperkitap.com/herkes-icin-arduino) 
+
+-->
 
 
 
