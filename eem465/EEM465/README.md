@@ -45,6 +45,21 @@ HSI - HSE sistem clock (saat) kaynakları
 - [Logic Analyser kullanımı](https://github.com/asenturk/stm32f4/blob/master/Keil_uVision/11_logic_analyser_kullanimi.pdf)
 
 
+### Wokwi ile sümülasyon
+[Wokwi](https://wokwi.com/) ile STM32 Nucleo kartı üzerinde simülasyon yapılabilir.
+
+**Dokümanlar**
+- [Reference Manual](./files/02 - reference manual rm0490-stm32c0x1.pdf)
+- [User Manual](./files/03 - user manual dm00834035.pdf)
+- [Datasheet](./files/04 - datasheet stm32c031c6.pdf)
+
+**Örnek Projeler**
+- [Maro tanımlamaları ile Led yakma](https://wokwi.com/projects/404114383258693633)
+- [Kütüphabe ile Led yakma](https://wokwi.com/projects/404114181584997377)
+
+
+
+
 ### Diğer
 - [Proteus ile STM32F4 Simulasyonu](https://www.youtube.com/watch?v=HrMIRMgGAh0)
 
