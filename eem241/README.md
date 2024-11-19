@@ -11,6 +11,7 @@
 - [Hafta 4](./dersler/04.md): Python programı, editörler, Jupyter, Programlamaya giriş.
 - [Hafta 5](./dersler/05.md): 
 - [Hafta 6](./dersler/06.md): 
+- [Hafta 7](./dersler/07.md): 
 
 
 
