@@ -12,6 +12,7 @@
 - [Hafta 5](./dersler/05.md): 
 - [Hafta 6](./dersler/06.md): 
 - [Hafta 7](./dersler/07.md): 
+- [Hafta 8](./dersler/08.md): 
 
 
 
