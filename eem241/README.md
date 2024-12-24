@@ -13,7 +13,9 @@
 - [Hafta 6](./dersler/06.md): 
 - [Hafta 7](./dersler/07.md): 
 - [Hafta 8](./dersler/08.md): 
-- [Hafta 9](./dersler/09.md): 
+- [Hafta 9](./dersler/09.md): Global değişken, Sınıf
+- [Hafta 10](./dersler/10.md): NumPy
+- [Hafta 11](./dersler/11.md): Matplotlib
 
 
 
