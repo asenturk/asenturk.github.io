@@ -10,3 +10,9 @@
 #downloads{
    display: none; 
 }
+
+head > link[rel="canonical"][href="https://asenturk.github.io/eem241/dersler/11.html"] ~ body {
+    background-color: #f0f8ff; /* Replace with your desired color */
+    background-image: url('path_to_your_image.jpg'); /* Optional background image */
+    background-size: cover;
+}
