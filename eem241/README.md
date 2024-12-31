@@ -16,6 +16,7 @@
 - [Hafta 9](./dersler/09.md): Global değişken, Sınıf
 - [Hafta 10](./dersler/10.md): NumPy
 - [Hafta 11](./dersler/11.md): Matplotlib
+- [Hafta 12](./dersler/12.md): Görüntü işleme, OpenCV
 
 
 
