@@ -18,8 +18,7 @@
 - [Hafta 11](./dersler/11.md): Matplotlib
 - [Hafta 12](./dersler/12.md): Görüntü işleme, OpenCV - 1
 - [Hafta 13](./dersler/13.md): Görüntü işleme, OpenCV - 2
-
-
+- [Hafta 14](./dersler/14.md): Raspberry Pi GPIO Programlama
 
 
 
