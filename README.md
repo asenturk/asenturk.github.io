@@ -1,6 +1,9 @@
 
 # ISUBU Elektrik-Elektronik Mühendisliği
 
+
+### [EEM-272 Makine Öğrenmesine Giriş](./eem272/)
+
 ### [EEM-241 İleri Düzey Programlama](./eem241/)
 
 ### [EEM-465 Gömülü Sistemler](./eem465/EEM465/)
