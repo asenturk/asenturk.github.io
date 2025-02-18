@@ -4,7 +4,8 @@
 
 - Giris: 
 
-- Hafta 1:   (./dersler/01.md) 
+- [Hafta 1](./dersler/01.md) 
+
 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
 - Hafta 2: [Kodlamalar](./dersler/02.md)   
 C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme    
