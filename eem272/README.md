@@ -12,6 +12,7 @@
 - [Hafta 3a](./dersler/03a.md): Eğitim ve test seti ayrıma
 - [Hafta 3b](./dersler/03b.md): Sınıflandırma
 - [Hafta 3c](./dersler/03c.md): Kümeleme
+- [Hafta 4](./dersler/04.md): Yapay Sinir Ağları - Regresyon
 
 
 <!-- -
