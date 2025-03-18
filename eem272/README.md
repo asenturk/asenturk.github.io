@@ -13,6 +13,9 @@
 - [Hafta 3b](./dersler/03b.md): Sınıflandırma
 - [Hafta 3c](./dersler/03c.md): Kümeleme
 - [Hafta 4](./dersler/04.md): Yapay Sinir Ağları - Regresyon
+- [Hafta 5a](./dersler/05a.md): Sınıflandırma kavramlar
+- [Hafta 5b](./dersler/05b.md): MNIST Sınıflandırma
+- [Hafta 5c](./dersler/05c.md): MNIST CNN Sınıflandırma
 
 
 <!-- -
