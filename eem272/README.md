@@ -18,6 +18,8 @@
 - [Hafta 5a](./dersler/05a.md): Sınıflandırma kavramlar
 - [Hafta 5b](./dersler/05b.md): MNIST Sınıflandırma
 - [Hafta 5c](./dersler/05c.md): MNIST CNN Sınıflandırma
+- [Hafta 6a](./dersler/06a.md): Zaman serisi NN 
+- [Hafta 6b](./dersler/06b.md): Zaman serisi RNN
 
 
 <!-- -
