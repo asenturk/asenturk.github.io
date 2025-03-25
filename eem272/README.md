@@ -11,7 +11,7 @@
 
 - [Hafta 1](./dersler/01.md): Genel bilgiler 
 - [Hafta 2](./dersler/02.md): Lineer ve polinom regresyonları
-- [Hafta 3a](./dersler/03a.md): Eğitim ve test seti ayrıma
+- [Hafta 3a](./dersler/03a.md): Eğitim ve test seti ayırma
 - [Hafta 3b](./dersler/03b.md): Sınıflandırma
 - [Hafta 3c](./dersler/03c.md): Kümeleme
 - [Hafta 4](./dersler/04.md): Yapay Sinir Ağları - Regresyon
