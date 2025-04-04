@@ -7,6 +7,8 @@ Projesi kabul edilmeyenlerin formu 6 Nisan 2025 son tarih olmak üzere gerekçel
 
 Bazı projeler kabul edilmiş olsa da revizeler yapılacaktır. Ayrıca tüm projelerin ayrıntıları netleştirilecektir.
 
+
+
 <style>
 table, th, td {
   border: 1px solid black;
@@ -285,7 +287,7 @@ table, th, td {
     <tr>
       <th>21</th>
       <td>2322705009</td>
-      <td>Selen Uzun</td>
+      <td>2322705004</td>
       <td>Kabul</td>
       <td></td>
       <td></td>
