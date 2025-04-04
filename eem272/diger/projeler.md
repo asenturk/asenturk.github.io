@@ -5,7 +5,7 @@ Aşağıda teklif edilen projelerin kabul red durumları verilmiştir.
 Projeleri kabul edilmyenler tekrar formu doldurabilir.   
 Projesi kabul edilmeyenlerin formu 6 Nisan 2025 son tarih olmak üzere gerekçelere dikkat ederek tekrar doldurması gerekmektedir.
 
-
+Bazı projeler kabul edilmiş olsa da revizeler yapılacaktır. Ayrıca tüm projelerin ayrıntıları netleştirilecektir.
 
 <style>
 table, th, td {
