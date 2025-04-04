@@ -6,6 +6,7 @@
 ### Duyurular
 - Proje önerileri için son tarih 3 Nisan 2025 Perşembedir.   Aşağıdaki formu  açıklamaları okuduktan sonra en az 3 tane proje önerisi ile doldurmanız gerekmektedir. <https://forms.gle/YTCNYEUhQ6hFJdqK9>
 
+Güncelleme (04/04/2025)
 Proje kabul red durumları için [tıklayınız](./diger/projeler.md).
 
 
