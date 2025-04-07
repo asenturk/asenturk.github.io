@@ -23,8 +23,9 @@ Proje kabul red durumları için [tıklayınız](./diger/projeler.md).
 - [Hafta 5c](./dersler/05c.md): MNIST CNN Sınıflandırma
 - [Hafta 6a](./dersler/06a.md): Zaman serisi NN 
 - [Hafta 6b](./dersler/06b.md): Zaman serisi RNN
-- [Hafta 7a](./dersler/07a.md): Face landmark, pose estimation 
-- [Hafta 7b](./dersler/07b.md): YOLO
+- [Hafta 7a](./dersler/07a.md): YOLO
+- [Hafta 7b](./dersler/07b.md): Face landmark, pose estimation 
+
 
 
 
