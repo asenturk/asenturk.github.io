@@ -1,348 +1,60 @@
 
-## Proje Kabul/Red
+# Proje 
 
-Aşağıda teklif edilen projelerin kabul red durumları verilmiştir.   
-Projeleri kabul edilmyenler tekrar formu doldurabilir.   
-Projesi kabul edilmeyenlerin formu 6 Nisan 2025 son tarih olmak üzere gerekçelere dikkat ederek tekrar doldurması gerekmektedir.
+## 1. Adım
 
-Bazı projeler kabul edilmiş olsa da revizeler yapılacaktır. Ayrıca tüm projelerin ayrıntıları netleştirilecektir.
+Projenin kabul edilmesi ve kabul edilen proje üzerine görüşme yapılarak projede yapılacakların netleştirilmesi gerekmektedir.  Bu adımı tamamlamamış olanlar Ana sayfadaki linki kullanarak proje önerisi formunu doldurabilirler.
+
+## 2. Adım
+
+2\. adımdaki çalışmayı yapabilmenin ön şartı 1. adımın tamamlanmış olmasıdır.
+
+Yapacağınız proje ile ilgili daha önce yapılan benzer çalışmalar nelerdir. En az 10 ile 15 çalışmayı araştırıp, çalışmalarda hangi veri seti kullanılmış, hangi yöntem kullanılmış ve başarı miktarı ne olmuş gibi bilgilerin tespit edilmesi gerekmetedir. Bu işleme "Literatür Taraması" denilir. Bunun için
+
+- <https://tez.yok.gov.tr/UlusalTezMerkezi/>
+- <https://dergipark.org.tr/tr/>
+- <https://scholar.google.com/>
+- <https://ieeexplore.ieee.org/Xplore/home.jsp>
+- <https://www.sciencedirect.com/>
+- <https://link.springer.com/>
+
+gibi siteleri kullanabilirsiniz.
+
+Kullandığınız kaynakları ieee referans stili ile göstermelisiniz. Lütfen kaynak gösteriminin yapılacağını araştırın. Anlamadığını bir şey olursa sorabilirsiniz. Aşağıdaki dokümanı inceleyebilirsiniz.
+
+[IEEE Referencing Style Sheet ](files/ieee-style-guide.pdf)
+
+Çalışmalarını grup halinde yapanlar tek bir doküman göndersinler.
+
+Lütfen aşağıdaki şablonu kullanın.
+
+[Proje doküman şablonu](files/rapor_sablon_v1.docx)
+
+Literatür taraması makalelerde ayrı bir bölümde de verilmiş olabilir veya Giriş kısmında da yapılan çalışmalar verilebilir. Özellikle kaynak olarak kullandığınız dokümanlarda "Literatür Taraması" nasıl yapılmış inceleyin. Örnek olarak aşağıdaki makaleleri de inceleyebilirsiniz.
+
+- [Örnek makale 1](files/ornek_makale1.pdf)
+- [Örnek makale 2](files/ornek_makale2.pdf)
 
 
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
+Hazırlamış olduğunuz dokümanı Turnitin sitesine yüklemeniz gerekiyor.
+Siteye kayıt olduktan sonra   
+- Sınıf numarası: 48325932
+- Kayıt Anahtarı: isubu_eem272 
+bilgileri ile sınıfa ulaşıp ödevinizi yükleyebilirsiniz.
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Numara1</th>
-      <th>Numara2</th>
-      <th>Proje 1</th>
-      <th>Proje 2</th>
-      <th>Proje 3</th>
-      <th>Proje 4</th>
-      <th>Proje 5</th>
-      <th>Proje 6</th>
-      <th>Gerekçe</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2222705026</td>
-      <td>2222705006</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2322705052</td>
-      <td>2322705030</td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>2322705002</td>
-      <td>2322705031</td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>2322705023</td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>2312705063</td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>2312705040</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>2312705004</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>2112705079</td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>2312705033</td>
-      <td>2312705038</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>2322705015</td>
-      <td>2322705062</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>10</th>
-      <td>2212705025</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Veri setleri ugyun değil</td>
-    </tr>
-    <tr>
-      <th>11</th>
-      <td>2312705009</td>
-      <td>2312705013</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>12</th>
-      <td>2322705042</td>
-      <td>2322705036</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>13</th>
-      <td>2312705057</td>
-      <td>2312705015</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>14</th>
-      <td>2312705001</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Veri Seti belirtilmemiş.</td>
-    </tr>
-    <tr>
-      <th>15</th>
-      <td>2322705037</td>
-      <td>2322705054</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>16</th>
-      <td>2322705034</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Veri Seti belirtilmemiş.</td>
-    </tr>
-    <tr>
-      <th>17</th>
-      <td>2112705054</td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>18</th>
-      <td>2322705062</td>
-      <td>2322705015</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>19</th>
-      <td>2112705058</td>
-      <td>2112705015</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>20</th>
-      <td>2222705024</td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>21</th>
-      <td>2322705009</td>
-      <td>2322705004</td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>22</th>
-      <td>2322705059</td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>23</th>
-      <td>2322705025</td>
-      <td>2222705064</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Veri Seti belirtilmemiş.</td>
-    </tr>
-    <tr>
-      <th>24</th>
-      <td>2322705019</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Projeler açıklanmamış.</td>
-    </tr>
-    <tr>
-      <th>25</th>
-      <td>2312705031</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Kabul</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+Literatür taramsı demek, bir makaleyi okumanız ve o çalışmada yapılanları kendi ifadelerinizle yazmanız demektir. Yoksa kopyala/yapıştır yapmanız anlamına gelmez. Turnitin sistemi kopyala/yapıştır yapılan metinleri göstermektedir. Ayrıca yapay zeka ile üretilen yazıları da göstermektedir.
+
+Bu çalışmanın tüm proje notuna katkısı %20'dir.
+
+Son tarih 2 Mayıs 2025 08:00. Bu tarihten sonra yüklenen ödevler %50 değerlendirmesine tabi olacaktır.
+
+
+
+
+
+
+
+
+
+
