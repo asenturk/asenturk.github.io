@@ -28,7 +28,7 @@ Kullandığınız kaynakları ieee referans stili ile göstermelisiniz. Lütfen 
 
 Aşağıdaki şablonu kullanın.
 
-Literatür şablonu](files/rapor_sablon_v1.docx)
+[Literatür şablonu](files/rapor_sablon_v1.docx)
 
 Literatür taraması makalelerde ayrı bir bölümde de verilmiş olabilir veya Giriş kısmında da  verilebilir. Özellikle kaynak olarak kullanacağınız dokümanlarda "Literatür Taraması" nasıl yapılmış inceleyin. Örnek olarak aşağıdaki makaleleri de inceleyebilirsiniz.
 
