@@ -48,3 +48,5 @@ Literatür taramsı demek, bir makaleyi okumanız ve o çalışmada yapılanlar�
 Bu çalışmanın tüm proje notuna katkısı %20'dir.
 
 Son tarih 2 Mayıs 2025 08:00. Bu tarihten sonra yüklenen ödevler %50 değerlendirmesine tabi olacaktır.
+
+Herhangi bir sorunuz olursa e-posta ile de ulaşabilirsiniz.
