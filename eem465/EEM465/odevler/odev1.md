@@ -14,6 +14,8 @@ Proteus programı için [tıklayınız](https://drive.google.com/file/d/1g7SfHD0
 
 Ödevi yaptıktan sonra ödevin nasıl yapıldığını gösteren 5-10 dakikalık bir video çekmeniz ve o videoda  programlama yapmanız gerekiyor. Programlama yaparken her bir kodun ne için kullanıldığını,  istenilen işlemler için geliştirdiğiniz algoritmayı vs  anlatmanız gerekiyor. Ayrıca videoda sonuç olarak istenilen işlevin yerine getirildiğini yani yazdığınız programın başarılı bir şekilde çalıştığını da göstermeniz gerekmektedir.
 
+Video unlisted (liste dışı) olabilir. Videoda yüzünüz görünmelidir.
+
 Ödev bilgilerini göndermek için [tıklayınız](https://forms.gle/WZA4ms21wLQ7CJQr7).
 
 ### Ödev Sorusu:
