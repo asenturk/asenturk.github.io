@@ -1,5 +1,13 @@
 # EEM-465 Gömülü Sistemler Dersi 
 
+
+### Duyurular
+
+- Ödev 1: Ödev 1 ayrıntıları için [tıklayınız](odevler/odev1.md).   
+Ödev1 son tarih 1 Mayıs 2025 Perşembe'dir. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
+
+
+
 ### Dersler 
 
 - Giris: 
