@@ -12,7 +12,7 @@ Proteus ile simülasyon nasıl yapılır ders sitesinin ana sayfasında var.
 
 Proteus programı için [tıklayınız](https://drive.google.com/file/d/1g7SfHD0NUVeudiIlYYxPVaYGqk-GU8t5/view?usp=sharing).
 
-Ödevi yaptıktan sonra ödevin nasıl yapıldığını gösteren 5-10 dakikalık bir video çekmeniz ve o videoda  programlama yapmanız gerekiyor. Programlama yaparken her bir kodun ne için kullanıldığını,  istenilen işlemler için geliştirdiğiniz algoritmayı vs  anlatmanız gerekiyor. Ayrıca videoda sonuç olarak istenilen işlevin yerine getirildiğini yani yazdığınız programın başarılı bir şekilde çalıştığını da göstermeniz gerekmektedir.
+Ödevi yaptıktan sonra ödevin nasıl yapıldığını gösteren 5-10 dakikalık bir video çekmeniz ve o videoda  programlama yapmanız gerekiyor. Programlama yaparken her bir kodun ne için kullanıldığını,  istenilen işlemler için geliştirdiğiniz algoritmayı vs  anlatmanız gerekiyor. Ayrıca videoda sonuç olarak istenilen işlevin yerine getirildiğini yani yazdığınız programın başarılı bir şekilde çalıştığını da göstermeniz gerekmektedir. Program stm32f407xx.h dosyasındaki tanımlamalar ile yazılacaktır.
 
 Video unlisted (liste dışı) olabilir. Videonun bir köşesinde küçük bir şekilde yüzünüz görünmelidir.
 
