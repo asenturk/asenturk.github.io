@@ -9,7 +9,7 @@ Projenin kabul edilmesi ve kabul edilen proje üzerine görüşme yapılarak pro
 
 2\. adımdaki çalışmayı yapabilmenin ön şartı 1. adımın tamamlanmış olmasıdır.
 
-Projenin bu adımında Literatür Taramsı yapılması gerekmetedir. Literatür taramasında yapacağınız proje ile ilgili "daha önce yapılan benzer çalışmalar nelerdir" sorusuna cevap vermeniz gerekiyor. En az 10 ile 15 çalışmayı araştırıp, çalışmalarda hangi veri seti kullanılmış, hangi yöntem kullanılmış ve başarı miktarı ne olmuş gibi bilgilerin tespit edilmesi ve bunların giriş gelisme sonuc yazımına uygun olacak şekilde ifade edilmesi gerekmetedir.  İlgili çalışmaları araştırmak için
+Projenin bu adımında Literatür Taraması yapılması gerekmetedir. Literatür taramasında yapacağınız proje ile ilgili "daha önce yapılan benzer çalışmalar nelerdir" sorusuna cevap vermeniz gerekiyor. En az 10 ile 15 çalışmayı araştırıp, çalışmalarda hangi veri seti kullanılmış, hangi yöntem kullanılmış ve başarı miktarı ne olmuş gibi bilgilerin tespit edilmesi ve bunların giriş gelisme sonuc yazımına uygun olacak şekilde ifade edilmesi gerekmetedir.  İlgili çalışmaları araştırmak için
 
 - <https://tez.yok.gov.tr/UlusalTezMerkezi/>
 - <https://dergipark.org.tr/tr/>
@@ -43,7 +43,7 @@ Siteye kayıt olduktan sonra
 - Kayıt Anahtarı: isubu_eem272    
 bilgileri ile sınıfa ulaşıp ödevinizi yükleyebilirsiniz.
 
-Literatür taramsı demek, bir makaleyi okumanız ve o çalışmada yapılanları kendi ifadelerinizle yazmanız demektir. Yoksa kopyala/yapıştır yapmanız anlamına gelmez. Turnitin sistemi kopyala/yapıştır yapılan metinleri göstermektedir. Ayrıca yapay zeka ile üretilen yazıları da göstermektedir. Turnitin sisteminden alınan raporlar çalışmanızın notlandırılmasında kullanılacaktır. Bundan dolayı çalışmanızı özenli bir şekilde yapın lütfen.
+Literatür taraması demek, bir makaleyi okumanız ve o çalışmada yapılanları kendi ifadelerinizle yazmanız demektir. Yoksa kopyala/yapıştır yapmanız anlamına gelmez. Turnitin sistemi kopyala/yapıştır yapılan metinleri göstermektedir. Ayrıca yapay zeka ile üretilen yazıları da göstermektedir. Turnitin sisteminden alınan raporlar çalışmanızın notlandırılmasında kullanılacaktır. Bundan dolayı çalışmanızı özenli bir şekilde yapın lütfen.
 
 Bu çalışmanın tüm proje notuna katkısı %20'dir.
 

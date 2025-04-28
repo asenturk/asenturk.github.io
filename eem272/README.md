@@ -28,6 +28,8 @@ Literatür taraması çalışması için [açıklamaları](diger/projeler.md) di
 - [Hafta 6b](./dersler/06b.md): Zaman serisi RNN
 - [Hafta 7a](./dersler/07a.md): YOLO
 - [Hafta 7b](./dersler/07b.md): Face landmark, pose estimation 
+- [Hafta 8a](./dersler/08a.md): CNN örnek çalışmalar, veri arttırma
+- [Hafta 8b](./dersler/08b.md): Veri arttırma
 
 
 
