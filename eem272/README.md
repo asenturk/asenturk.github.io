@@ -4,7 +4,7 @@
 
 
 ### Duyurular
-- Önemli: Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
+- Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
 
 - Proje 2. ödev: Literatür Taraması.   
 Literatür taraması çalışması için [açıklamaları](diger/projeler.md) dikkatli bir şekilde okuyunuz.
