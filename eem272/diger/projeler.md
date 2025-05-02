@@ -3,7 +3,7 @@
 
 ## Proje ile ilgili genel açıklamalar
 
-Projenin ilerleyen aşamalarında, yapmış olduğunuz çalışmayı benzer çalışmalarla kıyaslamanız, modelinizin üstün ve zayıf yönlerini ortaya koymanız ve performansı iyileştirmek amacıyla yaptığınız deneme ve iyileştirme adımlarını detaylı şekilde açıklamanız beklenmektedir. Bu süreçte kullanılan farklı yöntemlerin karşılaştırılması, yapılan parametre değişikliklerinin etkisi ve elde edilen sonuçların yorumlanması da gerekecektir. Yapılan çalışma neticesinde tam anlamı ile bir çalışmanın makalesi yazılmış olacaktır. Bundan ileride  yapılacak çalışmaları merak ediyorsanız araştırmalarınızı buna göre yapabilirsiniz.
+Projenin ilerleyen aşamalarında, yapmış olduğunuz çalışmayı benzer çalışmalarla kıyaslamanız, modelinizin üstün ve zayıf yönlerini ortaya koymanız ve performansı iyileştirmek amacıyla yaptığınız deneme ve iyileştirme adımlarını detaylı şekilde açıklamanız beklenmektedir. Bu süreçte kullanılan farklı yöntemlerin karşılaştırılması, yapılan parametre değişikliklerinin etkisi ve elde edilen sonuçların yorumlanması da gerekecektir. Yapılan çalışma neticesinde tam anlamı ile bir çalışmanın makalesi yazılmış olacaktır. İleride  yapılacak çalışmaları merak ediyorsanız araştırmalarınızı buna göre yapabilirsiniz.
 
 
 ## 3. adım
@@ -15,7 +15,10 @@ Bu adımda, proje çalışmanız için uygun veri setinin temin edilmesi, ön i�
 - Kullanılan veri seti ayrıntılı açıklanmalıdır. Veri seti üzerinde yapılan işlemler anlatılmaldır.
 - Kullandığınız programlama dili, kütüphaneler vs. belirtilmelidir.
 - Kullandığınız modeli ayrıntılı anlatmanız gerekmektedir. Gerekiyorsa çizim eklemelisiniz.
-- Daha önce hazırladığınız Literatür Taraması dokümanında yeni bir başlık açarak çalışmanızı 3. adımı tamamlayınız. Dokümanın güncel halini 11 Mayıs 2025 saat 10:00 son saat olmak üzere Turnitine yükleyiniz. Bu tarihten sonra yüklenen dokümanlar %50 olarak değerlendirilecektir.
+
+Daha önce hazırladığınız Literatür Taraması dokümanında yeni bir başlık açarak  3. adımı tamamlayınız.
+
+Dokümanın güncel halini 11 Mayıs 2025 saat 10:00 son saat olmak üzere Turnitine yükleyiniz. Bu tarihten sonra yüklenen dokümanlar %50 olarak değerlendirilecektir.
 
 
 
