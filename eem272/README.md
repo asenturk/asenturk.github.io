@@ -6,6 +6,8 @@
 ### Duyurular
 - Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
 
+- Proje 3. ödev: Materyal ve Metodkısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
+
 - Proje 2. ödev: Literatür Taraması.   
 Literatür taraması çalışması için [açıklamaları](diger/projeler.md) dikkatli bir şekilde okuyunuz.
 
