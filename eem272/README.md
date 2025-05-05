@@ -33,6 +33,8 @@ Literatür taraması çalışması için [açıklamaları](diger/projeler.md) di
 - [Hafta 7b](./dersler/07b.md): Face landmark, pose estimation 
 - [Hafta 8a](./dersler/08a.md): CNN örnek çalışmalar, veri arttırma
 - [Hafta 8b](./dersler/08b.md): Veri arttırma
+- [Hafta 9a](./dersler/09a.md): Pandas
+- [Hafta 9b](./dersler/09b.md): Tkinter
 
 
 
