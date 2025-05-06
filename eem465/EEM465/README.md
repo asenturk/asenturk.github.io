@@ -6,6 +6,9 @@
 - Ödev 1: Ödev 1 ayrıntıları için [tıklayınız](odevler/odev1.md).   
 Ödev1 son tarih 1 Mayıs 2025 Perşembe'dir. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
 
+- Ödev 2: Ödev 2 ayrıntıları için [tıklayınız](odevler/odev2.md).   
+Ödev2 son tarih 11 Mayıs 2025 Pazar'dır. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
+
 
 
 ### Dersler 
