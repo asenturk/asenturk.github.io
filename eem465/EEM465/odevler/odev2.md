@@ -20,7 +20,7 @@ Video unlisted (liste dışı) olabilir. Videonun bir köşesinde küçük bir �
 
 ### Ödev Sorusu:
 
-İki genel amaçlı timer kullanılarak 2 tane LED'in parlaklığı her 0.1 saniyede %10 oranında değişecektir. 1. LED %0'dan yüze doğru %100 sonra tam tersi, 2. LED ise %100'den %0'a doğru sonra tam tersi şeklinde parlaklıkları değişecektir. Birinci timer zamanı ölçmek için kullanılacak, 2. Timer'ın iki kanalında ise PWM sinyali üretilecektir. Sinyallerin Duty cycle'ları 1. timer'ın kesmesi kullanılarak değiştirilecektir. Kullandığınız PWM sinyalinin frekansının ne olduğunu ve nasıl ayarladığınızı izah etmelisiniz. Programı debug yaparak, hangi registerlarda nelerin nasıl değiştiğini anlatmalısınız.
+İki genel amaçlı timer kullanılarak 2 tane LED'in parlaklığı her 0.1 saniyede %10 oranında değişecektir. 1. LED %0'dan yüze doğru %100 sonra tam tersi, 2. LED ise %100'den %0'a doğru sonra tam tersi şeklinde parlaklıkları değişecektir. Birinci timer zamanı ölçmek için kullanılacak, 2. Timer'ın iki kanalında ise PWM sinyali üretilecektir. Sinyallerin Duty cycle'ları 1. timer'ın kesmesi kullanılarak değiştirilecektir. Kullandığınız PWM sinyalinin frekansının ne olduğunu ve nasıl ayarladığınızı ve programın çalışmasını izah etmelisiniz. 
 
 
 
