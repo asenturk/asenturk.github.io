@@ -6,6 +6,8 @@
 ### Duyurular
 - Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
 
+- Proje 4. ödev:SOnuçlar ve Tartışma kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
+
 - Proje 3. ödev: Materyal ve Yöntem kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
 
 - Proje 2. ödev: Literatür Taraması.   
