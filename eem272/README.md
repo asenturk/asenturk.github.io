@@ -37,6 +37,7 @@ Literatür taraması çalışması için [açıklamaları](diger/projeler.md) di
 - [Hafta 8b](./dersler/08b.md): Veri arttırma
 - [Hafta 9a](./dersler/09a.md): Pandas
 - [Hafta 9b](./dersler/09b.md): Tkinter
+- [Hafta 10](./dersler/09b.md): Embedding ve Transformer Network
 
 
 
