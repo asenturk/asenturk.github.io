@@ -10,6 +10,8 @@ Projenin ilerleyen aşamalarında, yapmış olduğunuz çalışmayı benzer çal
 
 **Önemli Not: Daha önce göndermiş olduğunuz dokümanlarda ciddi anlamda eksik ve yanlışlar mevcut. Bundan dolayı çalışmanızı özenli bir şekilde yapmanız gerekiyor.**
 
+Dokümanın güncel halini 26 Mayıs 2025 saat 08:00 son saat olmak üzere Turnitine yükleyiniz. Bu tarihten sonra yüklenen dokümanlar %50 olarak değerlendirilecektir.
+
 4\. Adım Sonuçlar ve Tartışma bölümüdür. Daha önce hazırladığınız dokümana bu başlığı ekleyerek devam edin. Ayrıca daha önce hazırladığınız bölümlerde gerekiyorsa değişiklikler de yapabilirsiniz. Bu bölümde neler olması ve bu bölümün nasıl yazılması gerektiğini araştırdığını makaleleri okuyarak anlamanız gerekiyor.
 
 Bu alt bölümde, modelinizi test ettikten sonra elde ettiğiniz performans ölçümlerini açıkça tablo ve grafiklerle vermeniz gerekmektedir.

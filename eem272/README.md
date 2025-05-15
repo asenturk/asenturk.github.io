@@ -6,7 +6,7 @@
 ### Duyurular
 - Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
 
-- Proje 4. ödev:SOnuçlar ve Tartışma kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
+- Proje 4. ödev:Sonuçlar ve Tartışma kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
 
 - Proje 3. ödev: Materyal ve Yöntem kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
 
@@ -37,7 +37,7 @@ Literatür taraması çalışması için [açıklamaları](diger/projeler.md) di
 - [Hafta 8b](./dersler/08b.md): Veri arttırma
 - [Hafta 9a](./dersler/09a.md): Pandas
 - [Hafta 9b](./dersler/09b.md): Tkinter
-- [Hafta 10](./dersler/09b.md): Embedding ve Transformer Network
+- [Hafta 10](./dersler/10.md): Embedding ve Transformer Network
 
 
 
