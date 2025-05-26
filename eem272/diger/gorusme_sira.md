@@ -1,8 +1,11 @@
-1 	Hasan Can ERGELEN    	
-2 	YİĞİT PUSATLI, MUSA TİRYAKİ 	  
-3 	CEMİL ŞARLI, ANIL BOYBEK     	
-4 	UYGAR MURAT BAYSAL 	  
-5 	SÜLEYMAN YAVUZ 	  
-6 	EMİRHAN SÜNGER 	  
-7 	MERVE DURAK, AHSEN AYDIN   	 
-8 	EMİR DELİORMAN 	  
+  1             CANER OĞUZ, FURKAN ÜLGEN  
+  2                           NEVZAT ULU  
+  3     RÜŞTÜ UTKU ERSÖZ, EROLCAN BEYSİR  
+  4                        SÜMEYRA SAVAŞ  
+  5                          FETHİ HALİS  
+  6      SELEN UZUN, BEKİR FURKAN ÖZTÜRK  
+  7                        BERK CAN GENÇ  
+  8        ENES KARACA, MUTLU CAN TAŞKIN  
+  9  ABDURRAHMAN DEMİR, AHMET EMRE ZAVAR  
+ 10   SULTAN YILDIRIM, FATMA NUR AYDEMİR  
+ 11              ESAT SAKMAN, NAYİF ÜZÜM  
