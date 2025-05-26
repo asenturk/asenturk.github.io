@@ -3,7 +3,7 @@
 ## 2024-2025 Bahar Dönemi
 
 
-
+Görüşme sıra <https://asenturk.github.io/eem272/diger/gorusme_sira.html>
 
 
 
