@@ -6,6 +6,31 @@
 Projenin ilerleyen aşamalarında, yapmış olduğunuz çalışmayı benzer çalışmalarla kıyaslamanız, modelinizin üstün ve zayıf yönlerini ortaya koymanız ve performansı iyileştirmek amacıyla yaptığınız deneme ve iyileştirme adımlarını detaylı şekilde açıklamanız beklenmektedir. Bu süreçte kullanılan farklı yöntemlerin karşılaştırılması, yapılan parametre değişikliklerinin etkisi ve elde edilen sonuçların yorumlanması da gerekecektir. Yapılan çalışma neticesinde tam anlamı ile bir çalışmanın makalesi yazılmış olacaktır. İleride  yapılacak çalışmaları merak ediyorsanız araştırmalarınızı buna göre yapabilirsiniz.
 
 
+## 6. adım
+
+Bu kısım için son tarih 10 Haziran 2025 Salı'dir. Bu tarihten sonra gönderilen ödevler %50 olarak değerlendirilecektir. Turnitine yükleyiniz.
+
+Özet, Giriş ve Sonuç kısmının yazılarak makalenin tamamlanması.
+
+-  Özet kısmı: Makaleyi okumaya başlamadan önce okuyucuya çalışmanın ne hakkında olduğunu kısaca anlatır. Bu kısımda, çalışmada ne yaptını ve neden yaptınız, Hangi yöntemleri kullandınız ve ne sonuç buldunuz. Bu çalışma neden önemli gibi yaklasık 150-250 kelime arasında yazılması gereken bölümdür.
+
+- Giriş bölümü: Çalışmanın durumu ile ilgili genel çerçeve, problemin tanımı, literatür özeti, mevcut literatür haricinde yapılabilecek çalışmalar, sizin yaptığınız çalışmanın amacı, yaptığınız çalışmanın diğerlerine göre farkı veya katkısı ve makaledeki diğer bölümlerin neler olduğu anlatılır.
+
+- Sonuç bölümü: Kısaca çalışmada ne yapıldı, hangi sonuçlara ulaşılı, bu alanda neye katkı sağlandı, gelecek çalışmalar neler olabilir gibi bilgiler verilmelidir.
+
+Not: Kaynaklar bölümü sonuç bölümünden sonra olur.
+
+Önemli Not: Bu bölümlerden neler yapmanız gerekiyor, literatür taramasında araştırdığınız diğer makaleleri inceleyebilirsiniz, yapay zeka araçları kullanarak eksik ve yanlışlarınızı tespit edebilirsiniz. 
+
+Diğer not: Tüm çalışmanız için yeni eklenmiş olan şablonu kullanın. En son yüklediğini dokümanda tüm bölümler olmalıdır.
+
+
+
+## 5. adım
+
+Kodlamaların gönderilmesi
+
+
 ## 4. adım
 
 **Önemli Not: Daha önce göndermiş olduğunuz dokümanlarda ciddi anlamda eksik ve yanlışlar mevcut. Bundan dolayı çalışmanızı özenli bir şekilde yapmanız gerekiyor.**
@@ -54,15 +79,9 @@ Bu bölüm için aşağıdaki gibi bir şablon kullanabilirsiniz:
 <pre>
 4. Sonuçlar ve Tartışma
 
-4.1. Deney Sonuçları
-
 [Elde edilen metrikler tablo ve grafiklerle verilmelidir.]
 
-4.2. Sonuçların Yorumlanması
-
 [Elde edilen sonuçlar değerlendirilip, literatürle karşılaştırılmalı, yorum yapılmalı.]
-
-4.3. Kısıtlamalar
 
 [Çalışmanın sınırlı yönleri açıklanmalıdır.]
 
