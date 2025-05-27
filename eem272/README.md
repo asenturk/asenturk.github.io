@@ -19,6 +19,9 @@
 
 ### Ödevler
 
+
+- Proje 6. ödev: Özet, Girişve Sonuç kısmının yazılması. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
+
 - Proje 5. ödev: Makine öğrenmesi modeli  ve Grafik arayüz için yazdığınız programlamaları aşağıdaki formu kullanarak gönderebilirsiniz. Son tarih 2 Haziran 2025 saat 08:00.
 <https://forms.gle/MyJi5YzEX7w29fZh7>
 
