@@ -7,7 +7,7 @@
 ### Duyurular
 
 
-- Proje makalesi şablonu güncellenmiştir. Makalenizin güncel hali için bu şablonu kullanmanız gerekmektedir. İndrimek için [tıklayınız](diger/files/rapor_sablon_v2.docx).
+- Proje makalesi şablonu güncellenmiştir. Makalenizin güncel hali için bu şablonu kullanmanız gerekmektedir. İndirmek için [tıklayınız](diger/files/rapor_sablon_v2.docx).
 
 - Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
 
