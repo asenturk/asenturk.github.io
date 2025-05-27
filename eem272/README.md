@@ -3,14 +3,27 @@
 ## 2024-2025 Bahar Dönemi
 
 
-Görüşme sıra <https://asenturk.github.io/eem272/diger/gorusme_sira.html>
-
-
 
 ### Duyurular
+
+
+- Proje makalesi şablonu güncellenmiştir. Makalenizin güncel hali için bu şablonu kullanmanız gerekmektedir. İndrimek için [tıklayınız](diger/files/rapor_sablon_v2.docx).
+
 - Proje ödevinden puan almak için tüm adımları tamamlamanız gerekmektedir.
 
-- Proje 4. ödev:Sonuçlar ve Tartışma kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
+### Proje Sunumu
+
+- Proje sumunları ile ilgili ayrıntılı bilgiler için [tıklayınız](diger/sunum.md).
+
+
+
+### Ödevler
+
+- Proje 5. ödev: Makine öğrenmesi modeli  ve Grafik arayüz için yazdığınız programlamaları aşağıdaki formu kullanarak gönderebilirsiniz. Son tarih 2 Haziran 2025 saat 08:00.
+<https://forms.gle/MyJi5YzEX7w29fZh7>
+
+
+- Proje 4. ödev: Sonuçlar ve Tartışma kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
 
 - Proje 3. ödev: Materyal ve Yöntem kısmının eklenmesi. Ayrıntılar için [tıklayınız.](diger/projeler.md) 
 

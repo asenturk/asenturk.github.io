@@ -1,0 +1,3 @@
+## Sunumla ilgili genel bilgiler
+
+- 
