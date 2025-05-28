@@ -58,6 +58,7 @@ Literatür taraması çalışması için [açıklamaları](diger/projeler.md) di
 - [Hafta 9a](./dersler/09a.md): Pandas
 - [Hafta 9b](./dersler/09b.md): Tkinter
 - [Hafta 10](./dersler/10.md): Embedding ve Transformer Network
+- [Hafta 11](./dersler/11.md): Eğitim optimizasyon algoritmaları, kayıp fonksiyonları, Geri çağrımlar (callbacks), Hiperparametre ayarlama
 
 
 
