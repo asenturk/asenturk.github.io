@@ -6,7 +6,7 @@
 
 ### Duyurular
 
-- Bütünleme sınavı için düzenlenmiş makalenizi 4 Temmuz 2025 tarihine kadar Turnitine yükleyebilirsiniz. Bu tarihe kadar çalışmanızdaki eksikleri, hataları görüşmek üzere ofisime gelebilirsiniz.
+- Bütünleme sınavı için düzenlenmiş makalenizi 5 Temmuz 2025 23:59'a kadar  Turnitine yükleyebilirsiniz. Bu tarihe kadar çalışmanızdaki eksikleri, hataları görüşmek üzere ofisime gelebilirsiniz.
 
 - Proje makalesi şablonu güncellenmiştir. Makalenizin güncel hali için bu şablonu kullanmanız gerekmektedir. İndirmek için [tıklayınız](diger/files/rapor_sablon_v2.docx).
 
