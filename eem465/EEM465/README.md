@@ -1,13 +1,13 @@
 # EEM-465 Gömülü Sistemler Dersi 
 
 
-### Duyurular
+<!-- ### Duyurular
 
 - Ödev 1: Ödev 1 ayrıntıları için [tıklayınız](odevler/odev1.md).   
 Ödev1 son tarih 1 Mayıs 2025 Perşembe'dir. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
 
 - Ödev 2: Ödev 2 ayrıntıları için [tıklayınız](odevler/odev2.md).   
-Ödev2 son tarih 11 Mayıs 2025 Pazar'dır. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
+Ödev2 son tarih 11 Mayıs 2025 Pazar'dır. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir. -->
 
 
 
@@ -89,45 +89,3 @@ HSI - HSE sistem clock (saat) kaynakları
 - [Coşkun Taşdemir](https://www.youtube.com/c/CoskunTasdemirKanal/featured)   
 - [Fastbit Embedded Brain Academy](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/featured)
 - [ Mutex Embedded](https://www.youtube.com/channel/UC-CuJ6qKst9-8Z-EXjoYK3Q)
-
-<!-- - [Ders 1](./dersler/ders01.md)  
-  İşaretli İşaretsiz sayılar, bit set etme, temizleme, dönüştürme, test etme ve bekleme
-
-- [Ders 2](./dersler/ders02.md)  
-  Makro işaretçiler, tür dönüşümü, tür tanımlama, yapılar ve yapı işaretçileri
-
-- [Ders 3 kodlamalar](./dersler/ders03.md)   
-  Struct Tür tanımlama ile bellek erişimi, işaretçilerin farklı kullanımları ile LED yakma-söndürme programları    
-  [Ders 3 Slayt](./dersler/ders03.pdf)   
-  STM32F4 Discovery kartının genel özellikleri, bellek haritası, RCC_AHB1 yazmacı GPIO Moder, IDR, ODR
-
-
-- [Ders 4 kodlamalar](./dersler/ders04.md)   
-  Yapı işaretçisi ile GPIO yazmaçlarına erişim, stm32f407xx.h dosyasında bulunan tanımların kullanımı
-- [Ders 4 Slayt](./dersler/ders04.pdf)   
-  GPIO push-pull, open drain,pull-up, pull-down modları
-
-- [Ders 5 Slayt](./dersler/ders05.pdf)  [Ders 5 kodlamalar](./dersler/ders05.md)   
-  SysTick Timer
-
-- [Ders 6 Slayt](./dersler/ders06.pdf)  [Ders 6 kodlamalar](./dersler/ders06.md)   
-  Harici kesmeler
-
-- [Ders 7 Slayt](./dersler/ders07.pdf)  [Ders 7 kodlamalar](./dersler/ders07.md)   
-  Basic Timers - Temel Zamanlayıcılar
-
-- [Ders 8 Slayt](./dersler/ders08.pdf)  [Ders 8 kodlamalar](./dersler/ders08.md)   
-  General Purpose Timers - Genel Amaçlı Zamanlayıcılar
-
-- [Ders 9 Slayt](./dersler/ders09.pdf)  [Ders 9 kodlamalar](./dersler/ders09.md)   
-  Analog Dijital Çevrici - ADC
-
-- [Ders 10 Slayt](./dersler/ders10.pdf)  [Ders 10 kodlamalar](./dersler/ders10.md)   
-  Evrensel Senkron Asenkron Alıcı Verici - USART
-
-- [Ders 11 Slayt](./dersler/ders11.pdf)  [Ders 10 kodlamalar](./dersler/ders11.md)   
-  Dahili ve harici çevrim kaynakları - HSI, HSE  
-
-
-
- -->
