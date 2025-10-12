@@ -1,7 +1,5 @@
 # EEM-241 İleri Düzey Programlama
 
-## 2024-2025 Güz Dönemi
-
 
 ### Dersler
 
