@@ -19,5 +19,7 @@ Yine aklınıza takılan herhangi bir soruyu e-posta üzerinden sorabilirsiniz.
 
 Lütfen bu yazıyı dikkatlice okuyunp dersle ilgili yapılacakları yerine getirin ve sorunsuz bir şekilde dersinizi geçin.
 
+Not: Daha önce başvuru yapanların tekrar başvuru yapmasına gerek yoktur.
+
 Ali Şentürk
 
