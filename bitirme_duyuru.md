@@ -9,7 +9,7 @@ Geçmiş yıllardaki başvuru tecrübesine istinaden; öğrencilerimizin proje b
 
 Dolayısıyla Bitirme I ve/veya Bitirme II dersini geçebilmek için Tübitak'a başvuru yapılmasının zaruri olduğundan (veya yukarıda bahsedilen faaliyetlerden bir tanesi) aşağıdaki gibi bir takvime riayet edilmesi gerekmektedir. Bu takvime riayet  edilmediği durumda dökümanın tübitak sistemine başvurması onaylanmayacaktır:
 
-- En son 20/10/2025 tarihinde proje konusunun tekrar teyit edilmesi
+- En son 20/10/2025 tarihinde proje konusunun tekrar teyit edilmesi (Bu tarihe kadar herhangi bir iletişiminiz olmazsa probitte olan konunuzun geçerli olduğu var sayıulacaktır.)
 - En son 27/10/2025 tarihinde proje hazırlanmış proje önersinin danışman öğretim üyesine gönderilmesi.
 - Yapılan inceleme neticesinde gerekli revizyonların belirtilen süre içerisinde yapılıp, dokümanın danışman öğretim üyesin tekrar gönderilmesi.
 
