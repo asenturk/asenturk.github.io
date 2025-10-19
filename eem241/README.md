@@ -6,8 +6,8 @@
 - [Hafta 1](./dersler/01.md): Temel Excel özellikleri ve formül kullanımı 
 - [Hafta 2](./dersler/02.md): C# konsol örnekleri
 - [Hafta 3](./dersler/03.md): C# form uygulamaları
-- [Hafta 4](./dersler/04.md): Python programı, editörler, Jupyter, Programlamaya giriş, değişken tanımlama, print fonksiyonu, stirngler, aritmetik operatörler
-- [Hafta 5](./dersler/05.md): 
+- [Hafta 4](./dersler/04.md): Python programı, editörler, Jupyter, Programlamaya giriş, değişken tanımlama, print fonksiyonu, stringler, aritmetik operatörler
+- [Hafta 5](./dersler/05.md): Klavyeden veri okumak, if-elif-else, lojik operatörler, Liste, while döngüsü, range, for döngüsü
 - [Hafta 6](./dersler/06.md): 
 - [Hafta 7](./dersler/07.md): 
 - [Hafta 8](./dersler/08.md): 
