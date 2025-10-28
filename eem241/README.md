@@ -9,7 +9,7 @@
 - [Hafta 4](./dersler/04.md): Python programı, editörler, Jupyter, Programlamaya giriş, değişken tanımlama, print fonksiyonu, stringler, aritmetik operatörler
 - [Hafta 5](./dersler/05.md): Klavyeden veri okumak, if-elif-else, lojik operatörler, liste, while döngüsü, range, for döngüsü
 - [Hafta 6](./dersler/06.md): İç içe listeler, break-continue, ord-chr fonksiyonları
-- [Hafta 7](./dersler/07.md): 
+- [Hafta 7](./dersler/07.md): List comprehension
 - [Hafta 8](./dersler/08.md): 
 - [Hafta 9](./dersler/09.md): Global değişken, Sınıf
 - [Hafta 10](./dersler/10.md): NumPy
