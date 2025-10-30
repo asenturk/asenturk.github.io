@@ -1,5 +1,24 @@
-# Bitirme Tezi I ve Bitirme Tezi II dersleri ile ilgili önemli duyuru
+# Bitirme Tezi I ve Bitirme Tezi II dersleri ile ilgili duyurular
 
+
+## Duyuru 2
+TÜBİTAK 2209 Proje Tanıtım Toplantısı
+
+Teknoloji Transfer Ofisi Koordinatörlüğü tarafından
+30 Ekim 2025 Perşembe günü, 13:30 - 14:30 saatleri arasında
+“TÜBİTAK 2209 Öğrenci Araştırma Projeleri Programı” hakkında
+online tanıtım toplantısı düzenlenecektir.
+
+Toplantıya öğrencilerimiz ve üniversitemiz akademik personeli davetlidir.
+
+🔗 Toplantı Bilgileri:
+Zoom bağlantısı: https://zoom.us/j/94236321268?pwd=X2JMdcHuJJI7Ccb9bZI2kaniUUyArp.1
+
+Toplantı Kimliği: 942 3632 1268
+Parola: 834931
+
+---
+## Duyuru 1
 Bitirme Tezi 1 ve Bitirme Tezi 2 derslerini geçebilmek için 2209A/B gibi bir proje başvurusunda bulunmak, bir proje yarışmasına katılmak veya  yapılan çalışmayı bir konferansta sunmak gibi faaliyette bulunmak gerekiyor. Aksi halde her iki dersi de geçmek mümkün olmayacaktır.
 
 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı 2025 yılı çağrısı başvuruya açılmıştır. Başvurular 12 Kasım 2025 günü saat 17.30'a kadar TÜBİTAK Yönetim Bilgi Sistemi (tybs.tubitak.gov.tr) üzerinden yapılabilecektir.   
