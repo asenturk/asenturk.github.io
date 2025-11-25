@@ -1,8 +1,10 @@
 # EEM-465 Gömülü Sistemler Dersi 
 
 
-<!-- ### Duyurular
+### Duyurular
+Quiz 2: 1 Aralık 2025 Pazartesi günü Timerlar konusunda bir quiz yapılacaktır. Quiz 10 puan üzerinden değerlendirilecek olup, final/bütünleme notuna doğrudan eklenecektir.   
 
+<!-- 
 - Ödev 1: Ödev 1 ayrıntıları için [tıklayınız](odevler/odev1.md).   
 Ödev1 son tarih 1 Mayıs 2025 Perşembe'dir. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
 
