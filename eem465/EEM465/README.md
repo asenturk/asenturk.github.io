@@ -25,31 +25,31 @@ Quiz 2: 1 Aralık 2025 Pazartesi günü Timerlar konusunda bir quiz yapılacakt�
   - [Kodlamalar](./dersler/03.md)   
 
 - Hafta 4: LED yakma için gerekli kodlamalar, buton kontrolü, makro tanımlamaları, yapı türü tanımlamaları
-  - [Kodlamalar](./dersler/04.md) | [Slayt](./dersler/04.pdf)   
+  - [Kodlamalar](./dersler/04.md) \| [Slayt](./dersler/04.pdf)   
 
 - Hafta 5: stm32f407xx.h başlık dosyası tanımlamalarının kullanımı ile programlama, input ve output modları
-  - [Kodlamalar](./dersler/05.md) | [Slayt](./dersler/05.pdf)   
+  - [Kodlamalar](./dersler/05.md) \| [Slayt](./dersler/05.pdf)   
 
 - Hafta 6: Kesme (interrupt)
-  - [Kodlamalar](./dersler/06.md) | [Slayt](./dersler/06.pdf)   
+  - [Kodlamalar](./dersler/06.md) \| [Slayt](./dersler/06.pdf)   
 
 - Hafta 7: Systic Timer
-  - [Kodlamalar](./dersler/07.md) | [Slayt](./dersler/07.pdf)   
+  - [Kodlamalar](./dersler/07.md) \| [Slayt](./dersler/07.pdf)   
 
 - Hafta 8: Basic Timer
-  - [Kodlamalar](./dersler/08.md) | [Slayt](./dersler/08.pdf)   
+  - [Kodlamalar](./dersler/08.md) \| [Slayt](./dersler/08.pdf)   
 
 - Hafta 10: Genel Amaçlı Zamanlayıcılar
-  - [Kodlamalar](./dersler/09.md) | [Slayt](./dersler/09.pdf)   
+  - [Kodlamalar](./dersler/09.md) \| [Slayt](./dersler/09.pdf)   
 
 - Hafta 11: Analog Dijital Çevirici
-  - [Kodlamalar](./dersler/10.md) | [Slayt](./dersler/10.pdf)   
+  - [Kodlamalar](./dersler/10.md) \| [Slayt](./dersler/10.pdf)   
 
 - Hafta 12: Seri Haberleşme UART
-  - [Kodlamalar](./dersler/11.md) | [Slayt](./dersler/11.pdf)   
+  - [Kodlamalar](./dersler/11.md) \| [Slayt](./dersler/11.pdf)   
 
 - Hafta 13: HSI - HSE sistem clock (saat) kaynakları
-  - [Kodlamalar](./dersler/12.md) | [Slayt](./dersler/12.pdf)   
+  - [Kodlamalar](./dersler/12.md) \| [Slayt](./dersler/12.pdf)   
 
 
 
