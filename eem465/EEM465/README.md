@@ -14,33 +14,43 @@ Quiz 2: 1 Aralık 2025 Pazartesi günü Timerlar konusunda bir quiz yapılacakt�
 
 
 ### Dersler 
+ 
 
-- Giris: 
+- Hafta 1: Ayrıca derste şu konular anlatılmıştır: 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
+  - [Giriş](./dersler/01.md)  
+- Hafta 2: C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme    
+  - [Kodlamalar](./dersler/02.md)   
 
-- Hafta 1: [Giriş](./dersler/01.md)  
-Ayrıca derste şu konular anlatılmıştır: 2 ve 16 sayı sistemi, 2, 16, 10 sayı sistemlerinde sayıların birbirine çevrilmeleri, 2 sayı sisteminde negatif sayıların temsili, 2 sayı sisteminde ondalıklı sayıların temsili
-- Hafta 2: [Kodlamalar](./dersler/02.md)   
-C programlama dilinde işaretli işaretsiz sayıların temsili, bit düzey operatörler, bit set etme, temizleme, dönüştürme, test etme ve bekleme    
-- Hafta 3: [Kodlamalar](./dersler/03.md)   
-Makro tanımlama, işaretçiler, tür dönüşümü,  yapılar, yapı işaretçileri, tür tanımlama, yapı türü
-- Hafta 4: [Kodlamalar](./dersler/04.md) | [Slayt](./dersler/04.pdf)   
-LED yakma için gerekli kodlamalar, buton kontrolü, makro tanımlamaları, yapı türü tanımlamaları
-- Hafta 5: [Kodlamalar](./dersler/05.md) | [Slayt](./dersler/05.pdf)   
-stm32f407xx.h başlık dosyası tanımlamalarının kullanımı ile programlama, input ve output modları
-- Hafta 6: [Kodlamalar](./dersler/06.md) | [Slayt](./dersler/06.pdf)   
-Kesme (interrupt)
-- Hafta 7: [Kodlamalar](./dersler/07.md) | [Slayt](./dersler/07.pdf)   
-Systic Timer
-- Hafta 8: [Kodlamalar](./dersler/08.md) | [Slayt](./dersler/08.pdf)   
-Basic Timer
-- Hafta 10: [Kodlamalar](./dersler/09.md) | [Slayt](./dersler/09.pdf)   
-Genel Amaçlı Zamanlayıcılar
-- Hafta 11: [Kodlamalar](./dersler/10.md) | [Slayt](./dersler/10.pdf)   
-Analog Dijital Çevirici
-- Hafta 12: [Kodlamalar](./dersler/11.md) | [Slayt](./dersler/11.pdf)   
-Seri Haberleşme UART
-- Hafta 13: [Kodlamalar](./dersler/12.md) | [Slayt](./dersler/12.pdf)   
-HSI - HSE sistem clock (saat) kaynakları
+- Hafta 3: Makro tanımlama, işaretçiler, tür dönüşümü,  yapılar, yapı işaretçileri, tür tanımlama, yapı türü
+  - [Kodlamalar](./dersler/03.md)   
+
+- Hafta 4: LED yakma için gerekli kodlamalar, buton kontrolü, makro tanımlamaları, yapı türü tanımlamaları
+  - [Kodlamalar](./dersler/04.md) | [Slayt](./dersler/04.pdf)   
+
+- Hafta 5: stm32f407xx.h başlık dosyası tanımlamalarının kullanımı ile programlama, input ve output modları
+  - [Kodlamalar](./dersler/05.md) | [Slayt](./dersler/05.pdf)   
+
+- Hafta 6: Kesme (interrupt)
+  - [Kodlamalar](./dersler/06.md) | [Slayt](./dersler/06.pdf)   
+
+- Hafta 7: Systic Timer
+  - [Kodlamalar](./dersler/07.md) | [Slayt](./dersler/07.pdf)   
+
+- Hafta 8: Basic Timer
+  - [Kodlamalar](./dersler/08.md) | [Slayt](./dersler/08.pdf)   
+
+- Hafta 10: Genel Amaçlı Zamanlayıcılar
+  - [Kodlamalar](./dersler/09.md) | [Slayt](./dersler/09.pdf)   
+
+- Hafta 11: Analog Dijital Çevirici
+  - [Kodlamalar](./dersler/10.md) | [Slayt](./dersler/10.pdf)   
+
+- Hafta 12: Seri Haberleşme UART
+  - [Kodlamalar](./dersler/11.md) | [Slayt](./dersler/11.pdf)   
+
+- Hafta 13: HSI - HSE sistem clock (saat) kaynakları
+  - [Kodlamalar](./dersler/12.md) | [Slayt](./dersler/12.pdf)   
+
 
 
 
