@@ -10,7 +10,7 @@
 - [Hafta 5](./dersler/05.md): Klavyeden veri okumak, if-elif-else, lojik operatörler, liste, while döngüsü, range, for döngüsü
 - [Hafta 6](./dersler/06.md): İç içe listeler, break-continue, ord-chr fonksiyonları
 - [Hafta 7](./dersler/07.md): List comprehension
-- [Hafta 8](./dersler/08.md): 
+- [Hafta 8](./dersler/08.md): demet (tuple), küme (set), sözlük (dictionary), any ve all fonksiyonları, enumerate, zip, kütüphane kullanımı
 - [Hafta 9](./dersler/09.md): Global değişken, Sınıf
 - [Hafta 10](./dersler/10.md): NumPy
 - [Hafta 11](./dersler/11.md): Matplotlib
