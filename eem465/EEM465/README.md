@@ -2,7 +2,44 @@
 
 
 ### Duyurular
-Quiz 2: 1 Aralık 2025 Pazartesi günü Timerlar konusunda bir quiz yapılacaktır. Quiz 10 puan üzerinden değerlendirilecek olup, final/bütünleme notuna doğrudan eklenecektir.   
+
+-  Dönem içinde final/büt notlarına eklenmek üzere derse devam edenlere quizler yapılmıştı. Alttan alan ve derse devam edemeyenlere adaleti sağlamak için 30 puan final/büte ek olarak proje ödevi verilecektir. Projenin teslim tarihi büt sınavından 1 gün önce olacaktır. 
+
+- OBS'de bazı güncellemeler yapılacağı ve notların bu güncellemelerden sonra girilmesi gerektiği Dekanlık tarafından bildirilmiştir. Bundan dolayı proje yapmayı düşünenlerin karar verebilmelerini sağlamak için notlar buradan ilan edilmiştir. 1-2 gün içinde notlar kaldırılacaktır.
+
+1812705011	0	    
+1812705305	5	    
+1812706002	70	    
+1912705045	31	    
+2012705013	0	    
+2012705044	23	    
+2012705057	0	    
+2022705062	0	    
+2112705015	60	    
+2112705029	90	    
+2112705035	25	    
+2112705310	55	    
+2112705312	33	    
+2212705002	75	    
+2212705023	58	    
+2212705026	25	    
+2212705323	38	    
+2212705336	44	    
+2212729006	80	    
+2222705008	0	    
+2222705022	34	    
+1722705009	18	    
+1922705010	15	    
+1922705020	0	    
+2022705049	65	    
+2122705003	50	    
+2122705031	10	    
+2122705042	0	    
+
+
+
+
+<!-- Quiz 2: 1 Aralık 2025 Pazartesi günü Timerlar konusunda bir quiz yapılacaktır. Quiz 10 puan üzerinden değerlendirilecek olup, final/bütünleme notuna doğrudan eklenecektir.    -->
 
 <!-- 
 - Ödev 1: Ödev 1 ayrıntıları için [tıklayınız](odevler/odev1.md).   
