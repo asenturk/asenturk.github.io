@@ -1,6 +1,13 @@
 # EEM-241 İleri Düzey Programlama
 
 
+### Bütünleme Sınavı ile ilgili duyuru
+
+İleri düzey programlama dersinin bütünleme sınavında 5 soru sorulacaktır. Bu 5 sorunun 4 tanesinin konuları Final sınavı ile aynı, 5. soru Python'da Sınıf kullanımı ile ilgilidir.  Bütünleme sınavında sorulacak soruları ancak derste verilen örneklerin mantığını anlayarak yapabilirsiniz. 
+
+Başarılar dilerim. 
+
+
 ### Dersler
 
 - [Hafta 1](./dersler/01.md): Temel Excel özellikleri ve formül kullanımı 
