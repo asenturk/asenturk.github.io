@@ -3,9 +3,9 @@
 
 ### Duyurular
 
--  Dönem içinde final/büt notlarına eklenmek üzere derse devam edenlere quizler yapılmıştı. Alttan alan ve derse devam edemeyenlere adaleti sağlamak için 30 puan final/büte ek olarak proje ödevi verilecektir. Projenin teslim tarihi büt sınavından 1 gün önce olacaktır. 
+<!-- -  Dönem içinde final/büt notlarına eklenmek üzere derse devam edenlere quizler yapılmıştı. Alttan alan ve derse devam edemeyenlere adaleti sağlamak için 30 puan final/büte ek olarak proje ödevi verilecektir. Projenin teslim tarihi büt sınavından 1 gün önce olacaktır. 
 
-- OBS'de bazı güncellemeler yapılacağı ve notların bu güncellemelerden sonra girilmesi gerektiği Dekanlık tarafından bildirilmiştir. Bundan dolayı proje yapmayı düşünenlerin proje konuları hakkında iletişime geçmeleri gerekmektedir.
+- OBS'de bazı güncellemeler yapılacağı ve notların bu güncellemelerden sonra girilmesi gerektiği Dekanlık tarafından bildirilmiştir. Bundan dolayı proje yapmayı düşünenlerin proje konuları hakkında iletişime geçmeleri gerekmektedir. -->
     
 
 

@@ -6,7 +6,7 @@
 
 ### Duyurular
 
-- Bütünleme sınavı için düzenlenmiş makalenizi 5 Temmuz 2025 23:59'a kadar  Turnitine yükleyebilirsiniz. Bu tarihe kadar çalışmanızdaki eksikleri, hataları görüşmek üzere ofisime gelebilirsiniz.
+<!-- - Bütünleme sınavı için düzenlenmiş makalenizi 5 Temmuz 2025 23:59'a kadar  Turnitine yükleyebilirsiniz. Bu tarihe kadar çalışmanızdaki eksikleri, hataları görüşmek üzere ofisime gelebilirsiniz.
 
 - Proje makalesi şablonu güncellenmiştir. Makalenizin güncel hali için bu şablonu kullanmanız gerekmektedir. İndirmek için [tıklayınız](diger/files/rapor_sablon_v2.docx).
 
@@ -34,7 +34,7 @@
 - Proje 2. ödev: Literatür Taraması.   
 Literatür taraması çalışması için [açıklamaları](diger/projeler.md) dikkatli bir şekilde okuyunuz.
 
-- Proje önerileri için son tarih 3 Nisan 2025 Perşembedir.   Aşağıdaki formu  açıklamaları okuduktan sonra en az 3 tane proje önerisi ile doldurmanız gerekmektedir. <https://forms.gle/YTCNYEUhQ6hFJdqK9>
+- Proje önerileri için son tarih 3 Nisan 2025 Perşembedir.   Aşağıdaki formu  açıklamaları okuduktan sonra en az 3 tane proje önerisi ile doldurmanız gerekmektedir. <https://forms.gle/YTCNYEUhQ6hFJdqK9> -->
 
 
 
