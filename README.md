@@ -4,7 +4,7 @@
 
 ### [EEM-241 İleri Düzey Programlama](./eem241/)
 
-### [EEM-241 İleri Düzey Programlama](./eem272/eem272/)
+### [EEM-272 Makine Öğrenmesine Giriş](./eem272/eem272/)
 
 
 
