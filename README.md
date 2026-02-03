@@ -13,7 +13,7 @@
 
 ## Geçmiş Dönemler
 
-#### [EEM-272 Makine Öğrenmesine Giriş](./eem272/)
+#### [EEM-272 Makine Öğrenmesine Giriş (24-25 Bahar)](./eem272/24_25_Bahar)
 
 
 #### [EEM-117 Algoritma ve Programlama (Güz)](eem117/README.md)
