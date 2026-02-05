@@ -2,8 +2,6 @@
 
 ## 2025-2026 Bahar Dönemi
 
-
-
 ### Duyurular
 
 ### Dersin Değerlendirmesi
@@ -11,9 +9,9 @@
 Derste 1 Arasınav, 1 Final/Bütünleme Sınavı, 1 Sunum/Proje yapılacaktır. Yıliçi notlandırması Arasınav %20, Sunum/Proje %80 şeklinde hesaplanacaktır. Ders notu ise yıliçi %50, Final/Bütünleme sınavı %50 şeklinde hesapalanacaktır.
 
 
-Ödev:
-\- Derse devam mecburiyeti olMAyanlar proje yapacaktır.
-\- Derse devam mecburiyeti olanlar sunum yapacaktır.
+Ödev:   
+\- Derse devam mecburiyeti olMAyanlar proje yapacaktır.   
+\- Derse devam mecburiyeti olanlar sunum yapacaktır.   
 
 - **Derse devam mecburiyeti olanlar**
 
