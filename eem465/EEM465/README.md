@@ -3,22 +3,20 @@
 
 ### Duyurular
 
-<!-- -  Dönem içinde final/büt notlarına eklenmek üzere derse devam edenlere quizler yapılmıştı. Alttan alan ve derse devam edemeyenlere adaleti sağlamak için 30 puan final/büte ek olarak proje ödevi verilecektir. Projenin teslim tarihi büt sınavından 1 gün önce olacaktır. 
 
-- OBS'de bazı güncellemeler yapılacağı ve notların bu güncellemelerden sonra girilmesi gerektiği Dekanlık tarafından bildirilmiştir. Bundan dolayı proje yapmayı düşünenlerin proje konuları hakkında iletişime geçmeleri gerekmektedir. -->
-    
+**Dersin ölçme-değerlendirmesi şu şekilde olacaktır:**
+
+- Arasınav %40 
+
+- Final Projesi veya Final/Büt Sınavı %60:
+  - Final projesi yapmayı veya Final sınavına girmeyi tercih edebilirsiniz. 
+  - Projeler dönemin son 2 haftasında sunuclacaktır. Dersi alttan alanlar ise Final sınavı saatinde sunabilirler.
+  - Proje konuları işlenilen konulardan en az 2-3 tanesini içerecek şekilde belirlenmesi gerekmektedir.
+  - Projeler Proteus veya başka bir ortamda simülasyon şeklinde yapılabilir.
+  - Projede yapılan kodlamalar, devre şemaları vs sunumdan önce belirlenen bir takvime göre raporlandırılacaktır. 
 
 
 
-
-<!-- Quiz 2: 1 Aralık 2025 Pazartesi günü Timerlar konusunda bir quiz yapılacaktır. Quiz 10 puan üzerinden değerlendirilecek olup, final/bütünleme notuna doğrudan eklenecektir.    -->
-
-<!-- 
-- Ödev 1: Ödev 1 ayrıntıları için [tıklayınız](odevler/odev1.md).   
-Ödev1 son tarih 1 Mayıs 2025 Perşembe'dir. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir.
-
-- Ödev 2: Ödev 2 ayrıntıları için [tıklayınız](odevler/odev2.md).   
-Ödev2 son tarih 11 Mayıs 2025 Pazar'dır. Bu tarihten sonra gönderilen ödevler %50 şeklinde değerlendirilecektir. -->
 
 
 
