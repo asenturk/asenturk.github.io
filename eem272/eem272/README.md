@@ -4,7 +4,7 @@
 
 ### Duyurular
 
-### Dersin Değerlendirmesi
+<!-- ### Dersin Değerlendirmesi
 
 Derste 1 Arasınav, 1 Final/Bütünleme Sınavı, 1 Sunum/Proje yapılacaktır. Yıliçi notlandırması Arasınav %20, Sunum/Proje %80 şeklinde hesaplanacaktır. Ders notu ise yıliçi %50, Final/Bütünleme sınavı %50 şeklinde hesapalanacaktır.
 
@@ -22,7 +22,7 @@ Sunumlar dersin içeriğinde anlatılacak konuları kapsayacak şekilde olabilec
 
 - **Derse devam mecburiyeti olMAyanlar**
 
-Derse devam mecburiyet olmayanlar, eğer isterlerse geçen sene belirttikleri ve kabul edilen  projeleri yine belirlenecek takvime uygun olacak şekilde takip ederek yabilirler. Yapılan projeler Dönemin son haftasında veya işyeri eğitiminde olanlar için Final haftasında sunulacaktır.
+Derse devam mecburiyet olmayanlar, eğer isterlerse geçen sene belirttikleri ve kabul edilen  projeleri yine belirlenecek takvime uygun olacak şekilde takip ederek yabilirler. Yapılan projeler Dönemin son haftasında veya işyeri eğitiminde olanlar için Final haftasında sunulacaktır. -->
 
 
 
