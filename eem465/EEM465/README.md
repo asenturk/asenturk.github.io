@@ -10,10 +10,10 @@
 
 - Final Projesi veya Final/Büt Sınavı %60:
   - Final projesi yapmayı veya Final sınavına girmeyi tercih edebilirsiniz. 
-  - Projeler dönemin son 2 haftasında sunulacaktır. Dersi alttan alanlar ise Final sınavı saatinde sunabilirler.
-  - Proje konularının işlenilen konulardan en az 2-3 tanesini içerecek şekilde belirlenmesi gerekmektedir.
+  - Projeler dönemin son 2 haftasında sunuclacaktır. Dersi alttan alanlar ise Final sınavı saatinde sunabilirler.
+  - Proje konuları işlenilen konulardan en az 2-3 tanesini içerecek şekilde belirlenmesi gerekmektedir.
   - Projeler Proteus veya başka bir ortamda simülasyon şeklinde yapılabilir.
-  - Projede yapılan kodlamalar, devre şemaları vs sunumdan önce belirlenen bir takvime göre raporlandırılarak teslim edilecektir.  
+  - Projede yapılan kodlamalar, devre şemaları vs sunumdan önce belirlenen bir takvime göre raporlandırılacaktır. 
 
 
 
