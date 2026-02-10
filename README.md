@@ -6,7 +6,6 @@
 
 ### [EEM-272 Makine Öğrenmesine Giriş](./eem272/)
 
-
 ### [EEM-465 Gömülü Sistemler](./eem465/EEM465/)
 
 
