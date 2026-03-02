@@ -15,7 +15,8 @@
 - [Ders 2](./dersler/02.md): Lineer regresyon
 - [Ders 3](./dersler/03.md): Çok değişkenli lineer regresyon
 - [Ders 4](./dersler/04.md): Eğitim-test veri seti bölme, ölçeklendirme
-- [Ders 5](./dersler/05.md): Lojistik regresyon, düzenlileştirme (regularization)
+- [Ders 5](./dersler/05.md): Lojistik regresyon
+- [Ders 6](./dersler/06.md): Düzenlileştirme (regularization)
 
 
 
