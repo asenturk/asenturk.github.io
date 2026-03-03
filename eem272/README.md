@@ -17,6 +17,7 @@
 - [Ders 4](./dersler/04.md): Eğitim-test veri seti bölme, ölçeklendirme
 - [Ders 5](./dersler/05.md): Lojistik regresyon
 - [Ders 6](./dersler/06.md): Düzenlileştirme (regularization)
+- [Ders 7](./dersler/07.md): Yapay sinir ağlarına giriş
 
 
 
