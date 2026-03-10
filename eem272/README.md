@@ -18,6 +18,7 @@
 - [Ders 5](./dersler/05.md): Lojistik regresyon
 - [Ders 6](./dersler/06.md): Düzenlileştirme (regularization)
 - [Ders 7](./dersler/07.md): Yapay sinir ağlarına giriş 
+- [Ders 8](./dersler/08.md): Yapay sinir ağları
 
 
 
