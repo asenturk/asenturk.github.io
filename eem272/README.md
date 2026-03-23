@@ -20,6 +20,8 @@
 - [Ders 7](./dersler/07.md): Yapay sinir ağları 1
 - [Ders 8](./dersler/08.md): Yapay sinir ağları 2
 - [Ders 9](./dersler/09.md): Yapay sinir ağları 3
+- [Ders 10](./dersler/10.md): Yapay sinir ağları regresyon örnek  
+- [Ders 11](./dersler/11.md): Yapay sinir ağları kavramlar
 
 
 
