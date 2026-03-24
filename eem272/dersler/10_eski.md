@@ -1,9 +1,12 @@
+
+- Yapay sinir ağları ile ilgili slaytı indirmek için [tıklayınız](images/04.pptx).
+
 ## Yakıt Verimliliği Çalışması
 Bu çalışmada yakıt verimliliği ile aşağıdaki sayfada verilen eğitim üzerine çalışmalar yapılmıştır.
 
 https://www.tensorflow.org/tutorials/keras/regression
 
-Veri setini indirmek için [tıklayınız](images/10_auto-mpg.data).
+Veri setini indirmek için [tıklayınız](images/04_auto-mpg.data).
 
 
 ```python
@@ -23,7 +26,7 @@ from tensorflow.keras import layers
 ```python
 column_names = ['MPG', 'Cylinders', 'Displacement', 'Horsepower', 'Weight',
                 'Acceleration', 'Model Year', 'Origin']
-dataset=pd.read_csv("auto+mpg/auto-mpg.data", names=column_names, na_values='?',
+dataset=pd.read_csv("04_auto-mpg.data", names=column_names, na_values='?',
                    comment='\t', sep=' ', skipinitialspace=True)
 dataset
 ```
@@ -387,7 +390,7 @@ dataset_np
 
 
 
-
+<pre>
     array([[ 18. ,   8. , 307. , ...,  12. ,  70. ,   1. ],
            [ 15. ,   8. , 350. , ...,  11.5,  70. ,   1. ],
            [ 18. ,   8. , 318. , ...,  11. ,  70. ,   1. ],
@@ -395,82 +398,54 @@ dataset_np
            [ 32. ,   4. , 135. , ...,  11.6,  82. ,   1. ],
            [ 28. ,   4. , 120. , ...,  18.6,  82. ,   1. ],
            [ 31. ,   4. , 119. , ...,  19.4,  82. ,   1. ]])
-
-
-
-
-```python
-from tensorflow.keras.utils import to_categorical
-
-# Son sütunu al (kategori sütunu)
-categorical_column = dataset_np[:, -1]
-```
+</pre>
 
 
 
 ```python
-# One-hot encoding
-encoded_column = to_categorical(categorical_column)
+from sklearn.preprocessing import OneHotEncoder
 ```
 
 
 ```python
-encoded_column
-```
+ # Son sütunu seç (kategori sütunu)
+categorical_column = dataset_np[:, -1].reshape(-1, 1)
 
+# One-hot encoder oluştur ve uygula
+encoder = OneHotEncoder(sparse_output=False)
+encoded_column = encoder.fit_transform(categorical_column)
 
-
-
-    array([[0., 1., 0., 0.],
-           [0., 1., 0., 0.],
-           [0., 1., 0., 0.],
-           ...,
-           [0., 1., 0., 0.],
-           [0., 1., 0., 0.],
-           [0., 1., 0., 0.]], dtype=float32)
-
-
-
-
-```python
-# Orijinal veriyle birleştir
+# Sonucu orijinal veriyle birleştir
 dataset_encoded = np.hstack((dataset_np[:, :-1], encoded_column))
+
+print(dataset_encoded)
 ```
+<pre>
+    [[ 18.   8. 307. ...   1.   0.   0.]
+     [ 15.   8. 350. ...   1.   0.   0.]
+     [ 18.   8. 318. ...   1.   0.   0.]
+     ...
+     [ 32.   4. 135. ...   1.   0.   0.]
+     [ 28.   4. 120. ...   1.   0.   0.]
+     [ 31.   4. 119. ...   1.   0.   0.]]
+</pre>    
 
 
 ```python
-dataset_encoded
+print(dataset_encoded[-5:,:])
 ```
 
-
-
-
-    array([[ 18.,   8., 307., ...,   1.,   0.,   0.],
-           [ 15.,   8., 350., ...,   1.,   0.,   0.],
-           [ 18.,   8., 318., ...,   1.,   0.,   0.],
-           ...,
-           [ 32.,   4., 135., ...,   1.,   0.,   0.],
-           [ 28.,   4., 120., ...,   1.,   0.,   0.],
-           [ 31.,   4., 119., ...,   1.,   0.,   0.]])
-
-
-
-
-```python
-np.set_printoptions(suppress=True, precision=4)
-dataset_encoded[-5:,-5:]
-```
-
-
-
-
-    array([[82.,  0.,  1.,  0.,  0.],
-           [82.,  0.,  0.,  1.,  0.],
-           [82.,  0.,  1.,  0.,  0.],
-           [82.,  0.,  1.,  0.,  0.],
-           [82.,  0.,  1.,  0.,  0.]])
-
-
+    [[2.700e+01 4.000e+00 1.400e+02 8.600e+01 2.790e+03 1.560e+01 8.200e+01
+      1.000e+00 0.000e+00 0.000e+00]
+     [4.400e+01 4.000e+00 9.700e+01 5.200e+01 2.130e+03 2.460e+01 8.200e+01
+      0.000e+00 1.000e+00 0.000e+00]
+     [3.200e+01 4.000e+00 1.350e+02 8.400e+01 2.295e+03 1.160e+01 8.200e+01
+      1.000e+00 0.000e+00 0.000e+00]
+     [2.800e+01 4.000e+00 1.200e+02 7.900e+01 2.625e+03 1.860e+01 8.200e+01
+      1.000e+00 0.000e+00 0.000e+00]
+     [3.100e+01 4.000e+00 1.190e+02 8.200e+01 2.720e+03 1.940e+01 8.200e+01
+      1.000e+00 0.000e+00 0.000e+00]]
+    
 
 
 ```python
@@ -485,7 +460,7 @@ plt.show()
 
 
     
-![png](images/10_output_18_0.png)
+![png](output_11_0.png)
     
 
 
@@ -502,7 +477,7 @@ plt.show()
 
 
     
-![png](images/10_output_19_0.png)
+![png](images/04_output_12_0.png)
     
 
 
@@ -520,6 +495,7 @@ X = hp  # Geri kalan sütunlar (girdi)
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 ```
+
 
 
 ```python
@@ -549,9 +525,9 @@ X_train_scaled.shape
 
 
 
-
+<pre>
     (313, 1)
-
+</pre>
 
 
 
@@ -565,19 +541,19 @@ model = keras.models.Sequential([
 ```python
 model.summary()
 ```
-
-    Model: "sequential"
+<pre>
+    Model: "sequential_10"
     _________________________________________________________________
      Layer (type)                Output Shape              Param #   
     =================================================================
-     dense (Dense)               (None, 1)                 2         
+     dense_12 (Dense)            (None, 1)                 2         
                                                                      
     =================================================================
     Total params: 2
     Trainable params: 2
     Non-trainable params: 0
     _________________________________________________________________
-    
+</pre>    
 
 
 ```python
@@ -588,6 +564,7 @@ model.compile(optimizer='adam', loss='mse')
 ```python
 history=model.fit(X_train_scaled, y_train_scaled, epochs=100, validation_data=(X_test_scaled, y_test_scaled))
 ```
+ 
 
 
 ```python
@@ -602,7 +579,7 @@ plt.show()
 
 
     
-![png](images/10_output_29_0.png)
+![png](images/04_output_23_0.png)
     
 
 
@@ -610,9 +587,9 @@ plt.show()
 ```python
 y_test_predict_scaled=model.predict(X_test_scaled)
 ```
-
+<pre>
     3/3 [==============================] - 0s 3ms/step
-    
+</pre>    
 
 
 ```python
@@ -626,9 +603,9 @@ y_test[:10]
 
 
 
-
+<pre>
     array([26. , 21.6, 36.1, 26. , 27. , 28. , 13. , 26. , 19. , 29. ])
-
+</pre>
 
 
 
@@ -638,44 +615,47 @@ y_pred[:10]
 
 
 
-
-    array([[24.1966],
-           [22.6639],
-           [24.4965],
-           [24.1633],
-           [23.6302],
-           [23.9967],
-           [20.8314],
-           [23.9967],
-           [23.3303],
-           [24.863 ]], dtype=float32)
+<pre>
+    array([[24.879032],
+           [22.3061  ],
+           [25.382433],
+           [24.8231  ],
+           [23.928167],
+           [24.543432],
+           [19.229767],
+           [24.543432],
+           [23.424765],
+           [25.997698]], dtype=float32)
+</pre>
 
 
 
 
 ```python
-X_line = np.linspace(50, 230, 200).reshape((-1,1))
-X_line_scaled = scaler_X.transform(X_line)
+X_fake = np.linspace(50, 230, 200).reshape((-1,1))
+X_fake_scaled = scaler_X.transform(X_fake)
 
-y_line_pred_scaled = model.predict(X_line_scaled)
+y_fake_pred_scaled = model.predict(X_fake_scaled)
 
-y_line_pred=scaler_y.inverse_transform(y_line_pred_scaled)
+y_fake_pred=scaler_y.inverse_transform(y_fake_pred_scaled)
 ```
-
-    7/7 [==============================] - 0s 6ms/step
-    
+<pre>
+    7/7 [==============================] - 0s 3ms/step
+</pre>    
 
 
 ```python
-plt.plot(X_line, y_line_pred)
+plt.plot(X_fake, y_fake_pred)
 plt.scatter(hp, mpg, marker="+", color="red")
 plt.show()
 ```
 
 
     
-![png](images/10_output_35_0.png)
+![png](images/04_output_29_0.png)
     
+
+
 
 
 ## Aktivasyonsuz büyük model
@@ -696,29 +676,29 @@ model.compile(loss="mse", optimizer="adam")
 
 model.summary()
 ```
-
-    Model: "sequential_1"
+<pre>
+    Model: "sequential_11"
     _________________________________________________________________
      Layer (type)                Output Shape              Param #   
     =================================================================
-     dense_1 (Dense)             (None, 64)                128       
+     dense_13 (Dense)            (None, 64)                128       
                                                                      
-     dense_2 (Dense)             (None, 64)                4160      
+     dense_14 (Dense)            (None, 64)                4160      
                                                                      
-     dense_3 (Dense)             (None, 1)                 65        
+     dense_15 (Dense)            (None, 1)                 65        
                                                                      
     =================================================================
     Total params: 4,353
     Trainable params: 4,353
     Non-trainable params: 0
     _________________________________________________________________
-    
+</pre>    
 
 
 ```python
 history=model.fit(X_train_scaled, y_train_scaled, epochs=100, validation_data=(X_test_scaled, y_test_scaled))
 ```
-
+  
 
 
 ```python
@@ -733,7 +713,7 @@ plt.show()
 
 
     
-![png](images/10_output_40_0.png)
+![png](images/04_output_35_0.png)
     
 
 
@@ -741,9 +721,9 @@ plt.show()
 ```python
 y_test_predict_scaled=model.predict(X_test_scaled)
 ```
-
+<pre>
     3/3 [==============================] - 0s 3ms/step
-    
+</pre>    
 
 
 ```python
@@ -757,9 +737,9 @@ y_test[:10]
 
 
 
-
+<pre>
     array([26. , 21.6, 36.1, 26. , 27. , 28. , 13. , 26. , 19. , 29. ])
-
+</pre>
 
 
 
@@ -769,43 +749,43 @@ y_pred[:10]
 
 
 
-
-    array([[29.0933],
-           [21.6916],
-           [30.5413],
-           [28.9311],
-           [26.3578],
-           [28.1282],
-           [12.8439],
-           [28.1282],
-           [24.9084],
-           [32.3117]], dtype=float32)
-
+<pre>
+    array([[29.274797],
+           [22.273424],
+           [30.642967],
+           [29.121162],
+           [26.68683 ],
+           [28.362114],
+           [13.90795 ],
+           [28.362114],
+           [25.316181],
+           [32.31797 ]], dtype=float32)
+</pre>
 
 
 
 ```python
-X_line = np.linspace(50, 230, 200).reshape((-1,1))
-X_line_scaled = scaler_X.transform(X_line)
+X_fake = np.linspace(50, 230, 200).reshape((-1,1))
+X_fake_scaled = scaler_X.transform(X_fake)
 
-y_line_pred_scaled = model.predict(X_line_scaled)
+y_fake_pred_scaled = model.predict(X_fake_scaled)
 
-y_line_pred=scaler_y.inverse_transform(y_line_pred_scaled)
+y_fake_pred=scaler_y.inverse_transform(y_fake_pred_scaled)
 ```
-
-    7/7 [==============================] - 0s 4ms/step
-    
+<pre>
+    7/7 [==============================] - 0s 2ms/step
+</pre>    
 
 
 ```python
-plt.plot(X_line, y_line_pred)
+plt.plot(X_fake, y_fake_pred)
 plt.scatter(hp, mpg, marker="+", color="red")
 plt.show()
 ```
 
 
     
-![png](images/10_output_46_0.png)
+![png](images/04_output_41_0.png)
     
 
 
@@ -827,28 +807,29 @@ model.compile(loss="mse", optimizer="adam")
 
 model.summary()
 ```
-
-    Model: "sequential_2"
+<pre>
+    Model: "sequential_12"
     _________________________________________________________________
      Layer (type)                Output Shape              Param #   
     =================================================================
-     dense_4 (Dense)             (None, 64)                128       
+     dense_16 (Dense)            (None, 64)                128       
                                                                      
-     dense_5 (Dense)             (None, 64)                4160      
+     dense_17 (Dense)            (None, 64)                4160      
                                                                      
-     dense_6 (Dense)             (None, 1)                 65        
+     dense_18 (Dense)            (None, 1)                 65        
                                                                      
     =================================================================
     Total params: 4,353
     Trainable params: 4,353
     Non-trainable params: 0
     _________________________________________________________________
-    
+</pre>    
 
 
 ```python
 history=model.fit(X_train_scaled, y_train_scaled, epochs=100, validation_data=(X_test_scaled, y_test_scaled))
 ```
+ 
 
 
 ```python
@@ -863,7 +844,7 @@ plt.show()
 
 
     
-![png](images/10_output_51_0.png)
+![png](images/04_output_46_0.png)
     
 
 
@@ -871,9 +852,9 @@ plt.show()
 ```python
 y_test_predict_scaled=model.predict(X_test_scaled)
 ```
-
-    3/3 [==============================] - 0s 9ms/step
-    
+<pre>
+    3/3 [==============================] - 0s 3ms/step
+</pre>    
 
 
 ```python
@@ -887,9 +868,9 @@ y_test[:10]
 
 
 
-
+<pre>
     array([26. , 21.6, 36.1, 26. , 27. , 28. , 13. , 26. , 19. , 29. ])
-
+</pre>
 
 
 
@@ -899,43 +880,43 @@ y_pred[:10]
 
 
 
-
-    array([[32.1325],
-           [19.3693],
-           [34.0669],
-           [31.7668],
-           [25.9717],
-           [29.9602],
-           [14.1179],
-           [29.9602],
-           [22.7098],
-           [34.3702]], dtype=float32)
-
+<pre>
+    array([[32.31129 ],
+           [19.190641],
+           [34.19633 ],
+           [31.933548],
+           [25.983114],
+           [30.077898],
+           [14.251822],
+           [30.077898],
+           [22.63136 ],
+           [35.136513]], dtype=float32)
+</pre>
 
 
 
 ```python
-X_line = np.linspace(50, 230, 200).reshape((-1,1))
-X_line_scaled = scaler_X.transform(X_line)
+X_fake = np.linspace(50, 230, 200).reshape((-1,1))
+X_fake_scaled = scaler_X.transform(X_fake)
 
-y_line_pred_scaled = model.predict(X_line_scaled)
+y_fake_pred_scaled = model.predict(X_fake_scaled)
 
-y_line_pred=scaler_y.inverse_transform(y_line_pred_scaled)
+y_fake_pred=scaler_y.inverse_transform(y_fake_pred_scaled)
 ```
-
-    7/7 [==============================] - 0s 2ms/step
-    
+<pre>
+    7/7 [==============================] - 0s 3ms/step
+</pre>    
 
 
 ```python
-plt.plot(X_line, y_line_pred)
+plt.plot(X_fake, y_fake_pred)
 plt.scatter(hp, mpg, marker="+", color="red")
 plt.show()
 ```
 
 
     
-![png](images/10_output_57_0.png)
+![png](images/04_output_52_0.png)
     
 
 
@@ -980,9 +961,9 @@ X_train_scaled.shape, X_test_scaled.shape, y_train.shape
 
 
 
-
-    ((313, 10), (79, 10), (313,))
-
+<pre>
+    ((313, 9), (79, 9), (313,))
+</pre>
 
 
 ### Aktivasyon fonksiyonu olmayan model
@@ -990,7 +971,7 @@ X_train_scaled.shape, X_test_scaled.shape, y_train.shape
 
 ```python
 model = keras.models.Sequential([
-    layers.Dense(units=32, input_shape=(10,)), # Linear Model
+    layers.Dense(units=32, input_shape=(9,)), # Linear Model
     layers.Dense(1)
 ])
 ```
@@ -999,21 +980,21 @@ model = keras.models.Sequential([
 ```python
 model.summary()
 ```
-
-    Model: "sequential_4"
+<pre>
+    Model: "sequential_13"
     _________________________________________________________________
      Layer (type)                Output Shape              Param #   
     =================================================================
-     dense_9 (Dense)             (None, 32)                352       
+     dense_19 (Dense)            (None, 32)                320       
                                                                      
-     dense_10 (Dense)            (None, 1)                 33        
+     dense_20 (Dense)            (None, 1)                 33        
                                                                      
     =================================================================
-    Total params: 385
-    Trainable params: 385
+    Total params: 353
+    Trainable params: 353
     Non-trainable params: 0
     _________________________________________________________________
-    
+</pre>    
 
 
 ```python
@@ -1039,7 +1020,7 @@ plt.show()
 
 
     
-![png](images/10_output_68_0.png)
+![png](images/04_output_63_0.png)
     
 
 
@@ -1048,7 +1029,7 @@ plt.show()
 
 ```python
 model = keras.models.Sequential([
-    layers.Dense(units=32, input_shape=(10,), activation='relu'),
+    layers.Dense(units=32, input_shape=(9,), activation='relu'),
     layers.Dense(1)
 ])
 ```
@@ -1057,21 +1038,82 @@ model = keras.models.Sequential([
 ```python
 model.summary()
 ```
-
-    Model: "sequential_5"
+<pre>
+    Model: "sequential_15"
     _________________________________________________________________
      Layer (type)                Output Shape              Param #   
     =================================================================
-     dense_11 (Dense)            (None, 32)                352       
+     dense_23 (Dense)            (None, 32)                320       
                                                                      
-     dense_12 (Dense)            (None, 1)                 33        
+     dense_24 (Dense)            (None, 1)                 33        
                                                                      
     =================================================================
-    Total params: 385
-    Trainable params: 385
+    Total params: 353
+    Trainable params: 353
     Non-trainable params: 0
     _________________________________________________________________
+</pre>    
+
+
+```python
+model.compile(optimizer='adam', loss='mse')
+```
+
+
+```python
+history=model.fit(X_train_scaled, y_train_scaled, epochs=100, validation_data=(X_test_scaled, y_test_scaled))
+```
     
+
+
+```python
+plt.plot(history.history['loss'], label='loss')
+plt.plot(history.history['val_loss'], label='val_loss')
+plt.xlabel('Epoch')
+plt.ylabel('Error [MPG]')
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+
+    
+![png](images/04_output_69_0.png)
+    
+
+
+### Aktivasyonlu büyük model
+
+
+```python
+model = keras.models.Sequential([
+    layers.Dense(units=64, input_shape=(9,), activation='relu'),
+    layers.Dense(units=64, input_shape=(9,), activation='relu'),
+    layers.Dense(1)
+])
+```
+
+
+```python
+model.summary()
+```
+<pre>
+    Model: "sequential_16"
+    _________________________________________________________________
+     Layer (type)                Output Shape              Param #   
+    =================================================================
+     dense_25 (Dense)            (None, 64)                640       
+                                                                     
+     dense_26 (Dense)            (None, 64)                4160      
+                                                                     
+     dense_27 (Dense)            (None, 1)                 65        
+                                                                     
+    =================================================================
+    Total params: 4,865
+    Trainable params: 4,865
+    Non-trainable params: 0
+    _________________________________________________________________
+</pre>    
 
 
 ```python
@@ -1097,68 +1139,7 @@ plt.show()
 
 
     
-![png](images/10_output_74_0.png)
-    
-
-
-### Aktivasyonlu büyük model
-
-
-```python
-model = keras.models.Sequential([
-    layers.Dense(units=64, input_shape=(10,), activation='relu'),
-    layers.Dense(units=64, activation='relu'),
-    layers.Dense(1)
-])
-```
-
-
-```python
-model.summary()
-```
-
-    Model: "sequential_6"
-    _________________________________________________________________
-     Layer (type)                Output Shape              Param #   
-    =================================================================
-     dense_13 (Dense)            (None, 64)                704       
-                                                                     
-     dense_14 (Dense)            (None, 64)                4160      
-                                                                     
-     dense_15 (Dense)            (None, 1)                 65        
-                                                                     
-    =================================================================
-    Total params: 4,929
-    Trainable params: 4,929
-    Non-trainable params: 0
-    _________________________________________________________________
-    
-
-
-```python
-model.compile(optimizer='adam', loss='mse')
-```
-
-
-```python
-history=model.fit(X_train_scaled, y_train_scaled, epochs=100, validation_data=(X_test_scaled, y_test_scaled))
-```
-   
-
-
-```python
-plt.plot(history.history['loss'], label='loss')
-plt.plot(history.history['val_loss'], label='val_loss')
-plt.xlabel('Epoch')
-plt.ylabel('Error [MPG]')
-plt.legend()
-plt.grid(True)
-plt.show()
-```
-
-
-    
-![png](images/10_output_80_0.png)
+![png](images/04_output_75_0.png)
     
 
 
@@ -1166,9 +1147,9 @@ plt.show()
 ```python
 y_test_predict_scaled=model.predict(X_test_scaled)
 ```
-
+<pre>
     3/3 [==============================] - 0s 4ms/step
-    
+</pre>    
 
 
 ```python
@@ -1182,9 +1163,9 @@ y_test[:10]
 
 
 
-
+<pre>
     array([26. , 21.6, 36.1, 26. , 27. , 28. , 13. , 26. , 19. , 29. ])
-
+</pre>
 
 
 
@@ -1194,16 +1175,15 @@ y_pred[:10]
 
 
 
-
-    array([[26.7558],
-           [22.5017],
-           [36.2746],
-           [24.9012],
-           [29.0538],
-           [30.3016],
-           [13.2449],
-           [30.7193],
-           [19.4705],
-           [31.5328]], dtype=float32)
-
-
+<pre>
+    array([[25.561352],
+           [21.317728],
+           [34.021828],
+           [21.4228  ],
+           [27.892326],
+           [28.932383],
+           [12.169561],
+           [29.77778 ],
+           [18.302343],
+           [30.233294]], dtype=float32)
+</pre>
