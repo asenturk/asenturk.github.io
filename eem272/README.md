@@ -28,8 +28,8 @@ Bundan dolayı dersi alana tüm öğrencilerin proje veya sunum yapması gerekme
 - Sunumlar 10-15 dakikalık sürede yapılacaktır. 15 dakikada bitirilemeyen sunumlar  devam ettirilmeyecektir. Bu durum sunum notuna etki edecektir.
 - Her sunum konusu için kontenjan 2 olarak belirlenmiştir. Kontenjan dolduğu halde konuyu seçenlerin konuları değiştirilecektir.
 - Tüm kontenjanlar dolduktan sonra sunum yapmak isteyen öğrencilere uygun bir konu verilecektir.
-- Proje konuları, sunum haftası ve kontenjan bilgileri için [tıklayiniz](./files/sunum_konulari_konulari.md).
-- Sunumla ilgili yapılacak çalışmalarla ve hazırlanacak dokümanlarla ilgili açıklamalar için [tıklayınız](./files/sunumlar_aciklama.md).
+- Proje konuları, sunum haftası ve kontenjan bilgileri için [tıklayiniz](./sunum/sunum_konulari_konulari.md).
+- Sunumla ilgili yapılacak çalışmalarla ve hazırlanacak dokümanlarla ilgili açıklamalar için [tıklayınız](./sunum/sunumlar_aciklama.md).
 - Sunum konusu seçmek için tıklayınız. (Daha sonra)
 - Seçilen sunum konularını görmek için tıklayınız. (Daha sonra)
 - Sunum dokümanlarını yüklemek için tıklayınız. (Daha sonra)
