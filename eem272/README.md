@@ -8,8 +8,8 @@
 
 Final notu aşağıdaki gibi hesaplanacaktır.
 
-Proje veya sunum: %50
-Final Sınavı: %50
+Proje veya sunum: %60
+Final Sınavı: %40
 
 Bundan dolayı dersi alana tüm öğrencilerin proje veya sunum yapması gerekmektedir.
 
