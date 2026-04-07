@@ -32,7 +32,7 @@ Bundan dolayı dersi alana tüm öğrencilerin proje veya sunum yapması gerekme
 - Sunumla ilgili yapılacak çalışmalarla ve hazırlanacak dokümanlarla ilgili açıklamalar için [tıklayınız](./sunum/sunumlar_aciklama.md).
 - Sunum konusu seçmek için [tıklayınız](https://forms.gle/7DYhuvMbAA4b8gWo6).
 - Seçilen sunum konularını görmek için [tıklayınız](https://docs.google.com/spreadsheets/d/1zPToxW01aTfw7Qpbj7j2Ob8KtxJJxkmKd_0-HG2cxSg/edit?usp=sharing).
-- Sunum dokümanlarını yüklemek için tıklayınız. (Daha sonra)
+- Sunum dokümanlarını yüklemek için [tıklayınız](https://forms.gle/yHVvpYS5mBQdNfLL6).
 
 
 
