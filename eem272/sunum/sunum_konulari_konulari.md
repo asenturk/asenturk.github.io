@@ -4,6 +4,7 @@
 
 ## Önemli Not:
 Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak yapılacaktır.
+Sunum konusunu ilk seçen 1. proje çalışimasını, ikinci seçen ise 2. proje çalışmasını yapacaktır.
 
 
 ## Sunum 1: Makine Öğrenmesine Giriş ve Model Değerlendirme
@@ -33,7 +34,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. Train/val/test split yaparak model performansını analiz edin  
 2. Overfitting gösterimi (küçük vs büyük model)  
-3. Farklı metriklerin (Accuracy vs F1) karşılaştırılması 
+<!-- 3. Farklı metriklerin (Accuracy vs F1) karşılaştırılması  -->
 
 ---
 
@@ -59,7 +60,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. Dropout etkisinin incelenmesi  
 2. L2 regularization etkisi  
-3. Data augmentation ile performans artışı  
+<!-- 3. Data augmentation ile performans artışı   -->
 
 ---
 
@@ -143,7 +144,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. Pretrained model ile feature extraction  
 2. Fine-tuning uygulaması  
-3. Freeze vs full training karşılaştırması 
+<!-- 3. Freeze vs full training karşılaştırması  -->
 
 ---
 
@@ -165,7 +166,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. MNIST CNN modeli  
 2. Farklı kernel boyutlarının etkisi  
-3. Pooling türlerinin karşılaştırılması 
+<!-- 3. Pooling türlerinin karşılaştırılması  -->
 
 ---
 
@@ -208,7 +209,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. YOLO ile nesne tespiti  
 2. Farklı confidence threshold analizi  
-3. IoU hesaplama uygulaması  
+<!-- 3. IoU hesaplama uygulaması   -->
 
 ---
 
@@ -228,7 +229,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. U-Net ile segmentation  
 2. Mask görselleştirme  
-3. Augmentation etkisi 
+<!-- 3. Augmentation etkisi  -->
 
 ---
 
@@ -248,7 +249,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. Embedding çıkarımı  
 2. Cosine similarity uygulaması  
-3. Basit yüz doğrulama sistemi  
+<!-- 3. Basit yüz doğrulama sistemi   -->
 
 ---
 
@@ -269,8 +270,8 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 
 ### Mini Projeler
 1. Autoencoder reconstruction  
-2. VAE latent space görselleştirme  
-3. GAN ile görüntü üretimi  
+<!-- 2. VAE latent space görselleştirme   -->
+2. GAN ile görüntü üretimi  
 
 ---
 
@@ -292,7 +293,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. Text classification (RNN)  
 2. Time series tahmini  
-3. Gradient clipping etkisi 
+<!-- 3. Gradient clipping etkisi  -->
 
 ---
 
@@ -377,7 +378,7 @@ Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak y
 ### Mini Projeler
 1. HuggingFace inference  
 2. Attention weight görselleştirme  
-3. Küçük fine-tuning denemesi  
+<!-- 3. Küçük fine-tuning denemesi   -->
 
 ---
 
