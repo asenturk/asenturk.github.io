@@ -2,6 +2,9 @@
 
 ---
 
+Önemli Not: Tüm maiken öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak yapılacaktır.
+
+
 ## Sunum 1: Makine Öğrenmesine Giriş ve Model Değerlendirme
 
 - Sunacak Öğrenci Sayısı: 2
@@ -11,7 +14,7 @@
 - Veri → Model → Değerlendirme → İyileştirme
 
 ### 2. Veri Bölme Stratejileri
-- Train / Dev / Test
+- Train / Val / Test
 - K-Fold Cross Validation
 
 ### 3. Bias – Variance
@@ -27,7 +30,7 @@
 - Variance nasıl düşürülür?
 
 ### Mini Projeler
-1. Train/dev/test split yaparak model performansını analiz edin  
+1. Train/val/test split yaparak model performansını analiz edin  
 2. Overfitting gösterimi (küçük vs büyük model)  
 3. Farklı metriklerin (Accuracy vs F1) karşılaştırılması 
 
