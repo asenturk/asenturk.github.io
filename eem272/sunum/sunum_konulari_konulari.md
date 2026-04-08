@@ -2,7 +2,8 @@
 
 ---
 
-Önemli Not: Tüm maiken öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak yapılacaktır.
+## Önemli Not:
+Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak yapılacaktır.
 
 
 ## Sunum 1: Makine Öğrenmesine Giriş ve Model Değerlendirme
