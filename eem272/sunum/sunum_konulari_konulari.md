@@ -3,7 +3,7 @@
 ---
 
 ## Önemli Not:
-Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak yapılacaktır.
+Tüm makine öğrenmesi çalışmaları Tensorflow kütüphanesi kullanılarak yapılacaktır.   
 Sunum konusunu ilk seçen 1. proje çalışimasını, ikinci seçen ise 2. proje çalışmasını yapacaktır.
 
 
