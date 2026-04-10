@@ -1,3 +1,11 @@
+
+## GENEL KURALLAR
+
+- Tüm teslimler zamanında yapılmalıdır. Zamanında yapılmayan sunum, teslim edilmeyen sunum, rapor ve proje dokümanları %50 şeklinde değerlendirilir.
+- Sunum, rapor ve proje dokümanları sunum yapılacak haftadan önceki Pazar günü yüklenmelidir.
+  - Sunum (pdf ve ppt formatında 2 dosya), Rapor (word ve pdf formatında 2 dosya) ve jupyter notebook dosyası olmak üzer 5 dosya sıkıştırılmalıdır.
+  - sıkıştırılan dosyanın adı sunumNumarasi_ogrenciNumaraniz şeklinde değiştirilerek yüklenmelidir.
+
 # Makine Öğrenmesi Dersi – Sunum ve Proje ile İlgili Açıklamalar
 
 Bu ders kapsamında her öğrenci seçmiş olduğu veya atanan konu ile ilgili **3 aşamalı bir çalışma** gerçekleştirecektir:
@@ -168,8 +176,5 @@ Bununla birlikte burada yazılan proje konularından başka bir proje de yapıla
 
 ---
 
-# GENEL KURALLAR
 
-- Tüm teslimler zamanında yapılmalıdır. Zamanında yapılmayan sunum, teslim edilmeyen sunum, rapor ve proje dokümanları %50 şeklinde değerlendirilir.
-- Sunum, rapor ve proje dokümanları sunum yapılacak haftadan önceki Pazar günü teslim edilmelidir.
 
