@@ -191,6 +191,27 @@ Sunum konusunu ilk seçen 1. proje çalışimasını, ikinci seçen ise 2. proje
 
 ---
 
+---
+
+## Sunum 8a: Görüntü İşleme Teknikleri
+
+- Sunacak Öğrenci Sayısı: 2
+- 11\. hafta
+
+### 1. Data Augmentation
+
+### 2. Transfer Learning (Computer Vision)
+
+### 3. Object Localization
+
+### 4. Sliding Window ve CNN dönüşümü
+
+### Mini Proje
+- Basit bir bounding box tahmin modeli oluşturun
+
+
+---
+
 ## Sunum 8: Object Detection (Modern Yaklaşım)
 
 - Sunacak Öğrenci Sayısı: 2
