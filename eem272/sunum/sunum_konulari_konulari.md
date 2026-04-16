@@ -191,8 +191,6 @@ Sunum konusunu ilk seçen 1. proje çalışimasını, ikinci seçen ise 2. proje
 
 ---
 
----
-
 ## Sunum 8a: Görüntü İşleme Teknikleri
 
 - Sunacak Öğrenci Sayısı: 1
