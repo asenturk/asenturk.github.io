@@ -195,7 +195,7 @@ Sunum konusunu ilk seçen 1. proje çalışimasını, ikinci seçen ise 2. proje
 
 ## Sunum 8a: Görüntü İşleme Teknikleri
 
-- Sunacak Öğrenci Sayısı: 2
+- Sunacak Öğrenci Sayısı: 1
 - 11\. hafta
 
 ### 1. Data Augmentation
