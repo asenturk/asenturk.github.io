@@ -10,10 +10,20 @@
 
 - Final Projesi veya Final/Büt Sınavı %60:
   - Final projesi yapmayı veya Final sınavına girmeyi tercih edebilirsiniz. 
-  - Projeler dönemin son 2 haftasında sunuclacaktır. Dersi alttan alanlar ise Final sınavı saatinde sunabilirler.
-  - Proje konuları işlenilen konulardan en az 2-3 tanesini içerecek şekilde belirlenmesi gerekmektedir.
+  - Projeler dönemin son 2 haftasında sunulacaktır. Dersi alttan alanlar ise Final sınavı saatinde sunabilirler.
+  - Proje konuları işlenilen konulardan en az 3 tanesini içerecek şekilde belirlenmesi gerekmektedir. (Örneğin kesme, timer, ADC gibi)
   - Projeler Proteus veya başka bir ortamda simülasyon şeklinde yapılabilir.
-  - Projede yapılan kodlamalar, devre şemaları vs sunumdan önce belirlenen bir takvime göre raporlandırılacaktır. 
+  - Zamanında yapılmayan sunumlar ve zamanında gönderilmeyen dokümanlar %50 oranında puanlamaya tabi olacaktır.
+  - Proje raporları en geç sunum yapılacak haftadan önceki pazar günü yüklenmelidir.
+  - Proje raporlarında ne yaptığınızı, hangi bileşenleri kullandığınızı, bu bileşenlerin nasıl çalıştığını, hangi çevre birimleri kullandığınızı, algoritmanızı, kodlamanızı vs. ayrıntılı anlatmanız gerekmektedir.
+  - Projede derste anlatılan şekilde kodlama yapılmalıdır.
+
+
+   
+
+- Proje seçim formu için [tıklayınız](https://forms.gle/JyWjEvcXEKWVbGji7).   
+- Proje sunum haftalarını görüntülemek için [tıklayınız](https://docs.google.com/spreadsheets/d/15rVl0tn1bk9o8Bjwo2ZgZV0Gsw_WWPPROckaZ9I8Uik/edit?usp=sharing).
+- Proje raprunu yüklemek için tıklayınız. (Daha sonra )
 
 
 
