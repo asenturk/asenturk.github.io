@@ -51,6 +51,11 @@ Bundan dolayı dersi alana tüm öğrencilerin proje veya sunum yapması gerekme
 - [Ders 11](./dersler/11.md): Yapay sinir ağları kavramlar
 
 
+### Sunumlar
+- Makine Öğrenmesine Giriş ve Model Değerlendirme
+  - 
+
+
 
 
 
