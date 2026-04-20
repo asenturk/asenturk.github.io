@@ -52,8 +52,7 @@ Bundan dolayı dersi alana tüm öğrencilerin proje veya sunum yapması gerekme
 
 
 ### Sunumlar
-- Makine Öğrenmesine Giriş ve Model Değerlendirme
-  - 
+- Sunum dosyaları için [tıklayınız](https://github.com/asenturk/asenturk.github.io/tree/main/eem272/sunum/dosyalar).
 
 
 
