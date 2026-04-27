@@ -22,7 +22,7 @@
 
 - Proje seçim formu için [tıklayınız](https://forms.gle/JyWjEvcXEKWVbGji7).   
 - Seçilen proje sunum haftalarını görüntülemek için [tıklayınız](https://docs.google.com/spreadsheets/d/15rVl0tn1bk9o8Bjwo2ZgZV0Gsw_WWPPROckaZ9I8Uik/edit?usp=sharing).
-- Proje raprunu yüklemek için tıklayınız [tıklayınız](https://docs.google.com/forms/d/e/1FAIpQLSfIAObqJPbKoXOcsTNmLiUt2TbLaYTJ3Krmitz68uEgS9pKJw/viewform?usp=sharing&ouid=109415433548449506213).
+- Proje raprunu yüklemek için tıklayınız [tıklayınız](https://forms.gle/DxmVJKAfTadn2ueeA).
 
 
 
