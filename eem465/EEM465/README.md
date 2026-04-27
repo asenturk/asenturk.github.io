@@ -16,7 +16,9 @@
   - Zamanında yapılmayan sunumlar ve zamanında gönderilmeyen dokümanlar %50 oranında puanlamaya tabi olacaktır.
   - Proje raporları en geç sunum yapılacak haftadan önceki pazar günü yüklenmelidir.
   - Proje raporlarında ne yaptığınızı, hangi bileşenleri kullandığınızı, bu bileşenlerin nasıl çalıştığını, hangi çevre birimleri kullandığınızı, algoritmanızı, kodlamanızı vs. ayrıntılı anlatmanız gerekmektedir.
-  - Projede derste anlatılan şekilde kodlama yapılmalıdır.
+  - Projede derste anlatılan şekilde kodlama yapılmalıdır. HAL kütüphanesi, CubeMX vs gibi kodlamalar kabul edilmeyecektir.
+  - Projede yapılan tüm kodlamalara hakim olmanız gerekmektedir.
+  - Proje konusu için son tarih 2 Mayıs 2026 Cumartesi'dir.
 
    
 
