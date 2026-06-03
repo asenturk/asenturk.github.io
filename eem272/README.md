@@ -6,6 +6,19 @@
 
 ### Duyurular
 
+
+**Final/Bütünleme Sınavı**
+
+Final sınavının içeriği yapmış olduğunuz sunumlardan oluşmaktadır. Dolayısıyla bu sunum dosyalarını okumanız ve anlamadığını kısımları raporlara bakarak  veya araştırarak anlamaya çalışmanız gerekmektedir. Sınav soruları seçenekli, boşluk doldurmalı ve kısa cevaplı gibi karma sorulardan oluşacaktır. Soruların zorluk derecesi düzeyi temel düzeyde olacaktır. Dolayısıyla sunum dosyalarını okuyup anlamış olmanızın dersi geçmek için yeterli puanı almanızı sağlayacağını düşünüyorum. 
+
+Başarılar dilerim,
+
+Ali Şentürk
+
+---
+
+**Proje ile ilgili duyuru**
+
 Final notu aşağıdaki gibi hesaplanacaktır.
 
 Proje veya sunum: %60
