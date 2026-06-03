@@ -9,7 +9,7 @@
 
 **Final/Bütünleme Sınavı**
 
-Final sınavının içeriği yapmış olduğunuz sunumlardan oluşmaktadır. Dolayısıyla bu sunum dosyalarını okumanız ve anlamadığını kısımları raporlara bakarak  veya araştırarak anlamaya çalışmanız gerekmektedir. Sınav soruları seçenekli, boşluk doldurmalı ve kısa cevaplı gibi karma sorulardan oluşacaktır. Soruların zorluk derecesi düzeyi temel düzeyde olacaktır. Dolayısıyla sunum dosyalarını okuyup anlamış olmanızın dersi geçmek için yeterli puanı almanızı sağlayacağını düşünüyorum. 
+Final sınavının içeriği yapmış olduğunuz sunumlardan oluşmaktadır. Dolayısıyla bu sunum dosyalarını okumanız ve anlamadığınız kısımları raporlara bakarak  veya araştırarak anlamaya çalışmanız gerekmektedir. Sınav soruları seçenekli, boşluk doldurmalı ve kısa cevaplı gibi karma sorulardan oluşacaktır. Soruların zorluk derecesi düzeyi temel düzeyde olacaktır. Dolayısıyla sunum dosyalarını okuyup genel olarak anlamış olmanızın dersi geçmek için yeterli puanı almanızı sağlayacağını düşünüyorum. 
 
 Başarılar dilerim,
 
