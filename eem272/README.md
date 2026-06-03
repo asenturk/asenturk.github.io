@@ -1,6 +1,6 @@
 # EEM-272 Makine Öğrenmesine Giriş
 
-## 2024-2025 Bahar Dönemi
+## 2025-2026 Bahar Dönemi
 
 
 
