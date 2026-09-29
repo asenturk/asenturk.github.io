@@ -3,7 +3,7 @@
 
 ### Duyurular
 
-- Arasınav projesi yönergesi ile ilgili duyurular için [tıklayınız](./projeler/arasinav_projesi.md). (bu metin güncellenecektir.)
+- Arasınav projesi  ile ilgili açıklama için [tıklayınız](./projeler/arasinav_projesi.md). 
 
 
 <!-- ### Bütünleme Sınavı ile ilgili duyuru
