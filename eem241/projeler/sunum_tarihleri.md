@@ -1,3 +1,7 @@
+- Sürenin çok uzaması durumunda sunumunu belirtilen tarihte yapamayanlar sunumlarını tüm sunumlar bittikten sonra yapacaktır.
+
+- Yukarıdaki durum haricinde sunumlarını aşağıda belirtilen gününde yapmayanların notları %50 oranında hesaplanacaktır.
+
 ||Öğrenci No|Sunum tarihi|
 |------|----------|------------|
 |1     |1812705067|20.10.2026  |
