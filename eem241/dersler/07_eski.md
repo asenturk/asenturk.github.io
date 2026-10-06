@@ -1,0 +1,432 @@
+# EEM-241 İleri Düzey Programlama
+
+## 2024-2025 Güz Dönemi
+
+
+### Ders 7 - Python Programlama
+
+
+
+### List Comprehensions
+
+
+```python
+liste2=[]
+for meyve in liste[::-1]:
+    liste2.append(meyve)
+liste2
+```
+
+
+
+
+<pre>
+    ['muz', 'kiraz', 'Karpuz', 'elma', 'Armut']
+</pre>
+
+
+
+
+```python
+liste3=[meyve for meyve in liste[::-1]]
+liste3
+```
+
+
+
+
+<pre>
+    ['muz', 'kiraz', 'Karpuz', 'elma', 'Armut']
+</pre>
+
+
+
+
+```python
+liste3=["meyve: "+meyve for meyve in liste[::-1]]
+liste3
+```
+
+
+
+
+<pre>
+    ['meyve: muz', 'meyve: kiraz', 'meyve: Karpuz', 'meyve: elma', 'meyve: Armut']
+</pre>
+
+
+
+
+```python
+liste3=[meyve.lower() for meyve in liste[::-1]]
+liste3
+```
+
+
+
+
+<pre>
+    ['muz', 'kiraz', 'karpuz', 'elma', 'armut']
+</pre>
+
+
+
+
+```python
+liste3=[meyve.lower() for meyve in liste[::-1] if meyve.lower()!="elma"]
+liste3
+```
+
+
+
+
+<pre>
+    ['muz', 'kiraz', 'karpuz', 'armut']
+</pre>
+
+
+
+
+```python
+liste3=[meyve for meyve in liste[::-1] if "a" in meyve.lower()]
+liste3
+```
+
+
+
+
+<pre>
+    ['kiraz', 'Karpuz', 'elma', 'Armut']
+</pre>
+
+
+
+
+```python
+liste3=[meyve.upper() for meyve in liste[::-1] if "a" in meyve.lower()]
+liste3
+```
+
+
+
+
+<pre>
+    ['KIRAZ', 'KARPUZ', 'ELMA', 'ARMUT']
+</pre>
+
+
+
+
+```python
+liste3=["abc" for _ in liste]
+liste3
+```
+
+
+
+
+<pre>
+    ['abc', 'abc', 'abc', 'abc', 'abc']
+</pre>
+
+
+
+
+```python
+liste
+```
+
+
+
+
+<pre>
+    ['Armut', 'elma', 'Karpuz', 'kiraz', 'muz']
+</pre>
+
+
+
+
+```python
+liste3=[meyve for meyve in liste if len(meyve)==5]
+liste3
+```
+
+
+
+
+<pre>
+    ['Armut', 'kiraz']
+</pre>
+
+
+
+
+```python
+# 0'dan 50'ye kadar 7 veya 5'in katı olan sayıları büyükten küçüğe doğru
+# bir listeye ekleyen kodu yazalım.
+```
+
+
+```python
+sayilar=[]
+for i in range(49,-1,-1):
+    if i%5==0 or i%7==0:
+        sayilar.append(i)
+sayilar
+```
+
+
+
+
+<pre>
+    [49, 45, 42, 40, 35, 30, 28, 25, 21, 20, 15, 14, 10, 7, 5, 0]
+</pre>
+
+
+
+
+```python
+sayilar =[i for i in range(49,-1,-1) if i%5==0 or i%7==0]
+sayilar
+```
+
+
+
+
+<pre>
+    [49, 45, 42, 40, 35, 30, 28, 25, 21, 20, 15, 14, 10, 7, 5, 0]
+</pre>
+
+
+
+
+```python
+# kullanıcıdan alınan bir n sayısına kadar çift sayıların küplerinde bir
+# liste list comprehension yöntemi ile elde edelim.
+
+n=int(input("bir sayi giriniz"))
+liste=[i**3 for i in range(0,n,2)]
+liste
+
+```
+
+
+
+
+<pre>
+    [0, 8, 64, 216, 512, 1000, 1728]
+</pre>
+
+
+
+
+```python
+# 0-10 arasındaki rastgele sayılar kullanılarak 20 elemanlı
+# bir liste elde edelim.
+```
+
+
+```python
+import random
+```
+
+
+```python
+help(random.randint)
+```
+
+<pre>
+Help on method randint in module random:
+    
+    randint(a, b) method of random.Random instance
+        Return random integer in range [a, b], including both end points.
+</pre>
+    
+    
+
+
+```python
+liste=[random.randint(0,10) for _ in range(20)]
+liste
+```
+
+
+
+
+<pre>
+    [9, 7, 9, 2, 3, 1, 2, 10, 8, 6, 5, 2, 9, 10, 2, 1, 2, 5, 5, 7]
+</pre>
+
+
+
+```python
+a=[random.randint(0,5) for i in range(20)]
+a
+```
+
+
+<pre>
+
+    [1, 4, 5, 2, 0, 1, 2, 0, 2, 2, 3, 1, 5, 0, 0, 2, 4, 4, 2, 3]
+</pre>
+
+
+
+```python
+for i in range(0,6):
+    sayac=0
+    for j in a:
+        if i==j:
+            sayac+=1
+    print(f"{i} rakamından {sayac} tane var.")
+```
+<pre>
+    0 rakamından 4 tane var.
+    1 rakamından 3 tane var.
+    2 rakamından 6 tane var.
+    3 rakamından 2 tane var.
+    4 rakamından 3 tane var.
+    5 rakamından 2 tane var.
+ </pre>   
+
+
+```python
+for i in range(0,6):
+    print(f"{i} rakamından {a.count(i)} tane var.")
+```
+<pre>
+    0 rakamından 4 tane var.
+    1 rakamından 3 tane var.
+    2 rakamından 6 tane var.
+    3 rakamından 2 tane var.
+    4 rakamından 3 tane var.
+    5 rakamından 2 tane var.
+ </pre>   
+
+
+```python
+a=[random.randint(0,100) for i in range(50)]
+```
+
+
+```python
+print(a)
+```
+<pre>
+    [29, 86, 52, 20, 14, 100, 34, 53, 21, 39, 84, 0, 46, 53, 65, 47, 94, 0, 59, 33, 83, 8, 49, 83, 33, 35, 17, 81, 3, 73, 83, 9, 97, 55, 93, 59, 50, 40, 80, 46, 72, 13, 54, 55, 62, 35, 22, 8, 27, 24]
+</pre>    
+
+
+```python
+[i for i in a if a.count(i)>1]
+```
+
+
+
+<pre>
+    [53, 0, 46, 53, 0, 59, 33, 83, 8, 83, 33, 35, 83, 55, 59, 46, 55, 35, 8]
+</pre>
+
+
+
+
+
+```python
+a=[random.randint(-5,5) for i in range(10)]
+b=[random.randint(-5,5) for i in range(10)]
+a,b
+```
+
+
+
+<pre>
+    ([-3, 1, -4, -4, -5, 0, -2, -3, 3, 2], [-5, 2, 5, -1, 0, 4, 2, 1, 3, -3])
+</pre>
+
+
+
+```python
+[(i,j) for i in a for j in b if i>0 and j>0]
+```
+
+
+
+<pre>
+    [(1, 2),
+     (1, 5),
+     (1, 4),
+     (1, 2),
+     (1, 1),
+     (1, 3),
+     (3, 2),
+     (3, 5),
+     (3, 4),
+     (3, 2),
+     (3, 1),
+     (3, 3),
+     (2, 2),
+     (2, 5),
+     (2, 4),
+     (2, 2),
+     (2, 1),
+     (2, 3)]
+</pre>
+
+
+
+```python
+[i*j for i in a for j in b if i>0 and j>0]
+```
+
+
+
+<pre>
+    [2, 5, 4, 2, 1, 3, 6, 15, 12, 6, 3, 9, 4, 10, 8, 4, 2, 6]
+</pre>
+
+
+
+```python
+a=[i*j for i in range(1,10) for j in range(1,10) if i*j<20]
+print(a)
+```
+
+<pre>
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 2, 4, 6, 8, 10, 12, 14, 16, 18, 3, 6, 9, 12, 15, 18, 4, 8, 12, 16, 5, 10, 15, 6, 12, 18, 7, 14, 8, 16, 9, 18]
+</pre>    
+
+
+```python
+a=[]
+for i in range(1,10):
+    for j in range(1,10):
+        if i*j<20:
+            a.append(i*j)
+```
+
+
+```python
+metin="python list comprehension örnekleri yazıyoruz."
+metin.split()
+```
+
+
+
+<pre>
+    ['python', 'list', 'comprehension', 'örnekleri', 'yazıyoruz.']
+</pre>
+
+
+
+```python
+a=[kelime for kelime in metin.split() if len(kelime)>4]
+a
+```
+
+
+
+<pre>
+    ['python', 'comprehension', 'örnekleri', 'yazıyoruz.']
+</pre>
+
+

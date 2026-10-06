@@ -20,17 +20,17 @@ Başarılar dilerim.  -->
 - [Hafta 1](./dersler/01.md): Temel Excel özellikleri ve formül kullanımı 
 - [Hafta 2](./dersler/02.md): C# konsol örnekleri
 - [Hafta 3](./dersler/03.md): C# form uygulamaları
-- [Hafta 4](./dersler/04.md): Python programı, editörler, Jupyter, Programlamaya giriş, değişken tanımlama, print fonksiyonu, stringler, aritmetik operatörler
-- [Hafta 5](./dersler/05.md): Klavyeden veri okumak, if-elif-else, lojik operatörler, liste, while döngüsü, range, for döngüsü
-- [Hafta 6](./dersler/06.md): İç içe listeler, break-continue, ord-chr fonksiyonları
-- [Hafta 7](./dersler/07.md): List comprehension
-- [Hafta 8](./dersler/08.md): demet (tuple), küme (set), sözlük (dictionary), any ve all fonksiyonları, enumerate, zip, kütüphane kullanımı
-- [Hafta 9](./dersler/09.md): Global değişken, Sınıf
-- [Hafta 10](./dersler/10.md): NumPy
-- [Hafta 11](./dersler/11.md): Matplotlib
-- [Hafta 12](./dersler/12.md): Görüntü işleme, OpenCV - 1
-- [Hafta 13](./dersler/13.md): Görüntü işleme, OpenCV - 2
-- [Hafta 14](./dersler/14.md): Raspberry Pi GPIO Programlama
+- [Hafta 4](./dersler/04.md): Python ve Jupyter'e giriş; değişkenler, temel veri türleri, aritmetik işlemler, metinler ve girdi/çıktı
+- [Hafta 5](./dersler/05.md): Boolean ifadeler, karşılaştırma ve mantık operatörleri, karar yapıları ve listeler
+- [Hafta 6](./dersler/06.md): `while` ve `for` döngüleri, `range`, `break`/`continue`, iç içe listeler, matrisler ve metin işleme
+- [Hafta 7](./dersler/07.md): Koleksiyonlar; tuple, set ve sözlük yapıları, comprehension ifadeleri, `any` ve `all`
+- [Hafta 8](./dersler/08.md): Fonksiyonlar, parametreler, kapsam, lambda ifadeleri, modüller, `enumerate`, `zip` ve karmaşık sayılar
+- [Hafta 9](./dersler/09.md): Dosya işlemleri, hata yönetimi ve nesne yönelimli programlamaya giriş
+- [Hafta 10](./dersler/10.md): NumPy dizileri, indeksleme, yeniden şekillendirme, vektörleştirme, broadcasting, filtreleme ve doğrusal cebir
+- [Hafta 11](./dersler/11.md): Matplotlib ile çizgi, saçılım, sütun ve histogram grafikleri; alt grafikler ve görselleştirme ilkeleri
+- [Hafta 12](./dersler/12.md): OpenCV ile görüntü okuma, renk uzayları, piksel ve ilgi bölgesi işlemleri, kanal ve boyutlandırma
+- [Hafta 13](./dersler/13.md): OpenCV ile maskeleme, filtreleme, eşikleme, morfoloji, kenar ve kontur bulma, kamera görüntüsü işleme
+- [Hafta 14](./dersler/14.md): Raspberry Pi GPIO güvenliği, dijital giriş/çıkış, LED ve buton kontrolü, debounce, PWM ve bütünleştirici uygulamalar
 
 
 

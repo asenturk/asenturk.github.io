@@ -1,0 +1,853 @@
+# EEM-241 İleri Düzey Programlama
+
+## 2024-2025 Güz Dönemi
+
+
+### Ders 4 - Python Programlama
+
+### Python kurmak için
+- https://www.python.org/ sitesinden Python indirilebilir.
+- (Önerilen) https://www.anaconda.com/download/success sitesinde Anaconda paketi indirilebilir. Bu durumda Python ile birlikte gerekli olabilecek başka programların kurulması da sağlanır.
+
+### Python programı yazmak için aşağıdaki yöntemlerden bir tanesi tercih edilebilir:
+- Not defterine program yazılır py uzantısı ile kaydedilir (Örneğin program.py). Komut penceresinden `python program.py` komutu ile program çalıştırılır.
+- VSCode, Spyder, PyCharm gibi gelişmiş programlama ortamları kullanılır.
+- Jupyter Notebook, *Jupyter Lab (derste bu kullanılacak)* gibi bilgisayarda çalışan  veya Google Colab gibi uzaktan çalışan jupyter türevi sistemler kullanılabilir.
+
+### Jupyter Lab kullanımı:
+- Hücrelerdeki kodları Pythona gönderir sonucu hücrenin altına yazdırır.
+- Hücrenin üzerine çift tıklayarak veya ENTER tuşu ile edit moduna geçilir.
+- ESC'ye basılarak veya hücrenin soluna tıklayarak komut moduna geçilir.
+- Hücre seçili iken;
+  - Ctrl+Enter (Çalıştır ve hücrede kal),
+  - Shift+Enter (Çalıştır ve aşağıdaki hücreye geç) veya
+  - Alt+Enter (Çalıştır ve aşağıda hücre ekle) ile hücredeki kodlar çalıştırılır.
+- Komut modunda iken
+  - C: hücreyi kopyalar,
+  - X: hücreyi keser,
+  - V: hücreyi yapıştırır,
+  - D D: hücreyi siler,
+  - 0 0: Arka planda çalışan Python çekirdeğini yeniden başlatır,
+  - A: yukarı hücre ekler,
+  - B: aşağı hücre ekler.
+
+### Değişken Türleri
+
+
+```python
+a=1
+b=2
+c=a+b
+print(c) 
+c=1
+a+b
+```
+
+
+<pre>
+    3
+    
+    3
+</pre>
+
+
+
+
+```python
+a=1
+```
+
+
+```python
+type(a)
+```
+
+
+
+<pre>
+
+    int
+
+</pre>
+
+
+Python nesne yönelimli bir programlama dilidir. Bundan dolayı pythonda her şey bir nesnedir.
+Örneğin tamsayı sınıfı için kullanılabilecek fonksiyonlar
+
+
+```python
+dir(int)
+```
+
+
+
+
+<pre>
+
+    ['__abs__',
+     '__add__',
+     '__and__',
+     '__bool__',
+     '__ceil__',
+     '__class__',
+     '__delattr__',
+     '__dir__',
+     '__divmod__',
+     '__doc__',
+     '__eq__',
+     '__float__',
+     '__floor__',
+     '__floordiv__',
+     '__format__',
+     '__ge__',
+     '__getattribute__',
+     '__getnewargs__',
+     '__gt__',
+     '__hash__',
+     '__index__',
+     '__init__',
+     '__init_subclass__',
+     '__int__',
+     '__invert__',
+     '__le__',
+     '__lshift__',
+     '__lt__',
+     '__mod__',
+     '__mul__',
+     '__ne__',
+     '__neg__',
+     '__new__',
+     '__or__',
+     '__pos__',
+     '__pow__',
+     '__radd__',
+     '__rand__',
+     '__rdivmod__',
+     '__reduce__',
+     '__reduce_ex__',
+     '__repr__',
+     '__rfloordiv__',
+     '__rlshift__',
+     '__rmod__',
+     '__rmul__',
+     '__ror__',
+     '__round__',
+     '__rpow__',
+     '__rrshift__',
+     '__rshift__',
+     '__rsub__',
+     '__rtruediv__',
+     '__rxor__',
+     '__setattr__',
+     '__sizeof__',
+     '__str__',
+     '__sub__',
+     '__subclasshook__',
+     '__truediv__',
+     '__trunc__',
+     '__xor__',
+     'as_integer_ratio',
+     'bit_length',
+     'conjugate',
+     'denominator',
+     'from_bytes',
+     'imag',
+     'numerator',
+     'real',
+     'to_bytes']
+
+</pre>
+
+
+
+```python
+a=1.0
+```
+
+
+```python
+type(a)
+```
+
+
+
+<pre>
+
+    float
+
+</pre>
+
+
+
+```python
+a="isim soyisim"
+```
+
+
+```python
+type(a)
+```
+
+
+
+<pre>
+
+    str
+
+</pre>
+
+### Değişken tanımlama
+
+Değişken isimlendirme kuralları ve önerileri
+
+- Değişkenler numara başlayamaz: 1a hatalı, a1 doğru
+- Değişken kelimeleri arasında boşluk bırakılmaz, boşluk yerine _ kullanılır: “bir değişken” hatalı, bir_degisken doğru
+- Python anahtar kelimeleri değişken olarak kullanılmamalıdır. print=1 hatalı, print_=1 şeklinde kullanılabilir.
+- Anlamlı değişken isimleri kullanmak faydalı olur. t=0 yerine toplam=0 gibi.
+
+
+
+```python
+a_1=1
+a_1
+```
+
+
+
+<pre>
+
+    1
+
+</pre>
+
+\# yorum satırı için # sembolu kullanılır  
+jupyter de kısayolu Ctrl+/ dir
+
+
+```python
+a=1
+A=2
+# python büyük küçük harf duyarlıdır
+a, A
+```
+
+
+<pre>
+
+    (1, 2)
+
+</pre>
+
+
+
+
+
+### print fonksiyonu
+
+
+```python
+print("merhaba", end=" ")
+print("merhaba")
+print("merhaba")
+```
+<pre>
+
+    merhaba merhaba
+    merhaba
+  
+</pre>  
+
+
+```python
+print(a,b,c, sep="-")
+```
+<pre>
+
+    1-2-1
+    
+</pre>
+
+
+```python
+help(print)
+```
+<pre>
+    Help on built-in function print in module builtins:
+    
+    print(...)
+        print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
+        
+        Prints the values to a stream, or to sys.stdout by default.
+        Optional keyword arguments:
+        file:  a file-like object (stream); defaults to the current sys.stdout.
+        sep:   string inserted between values, default a space.
+        end:   string appended after the last value, default a newline.
+        flush: whether to forcibly flush the stream.
+</pre> 
+
+```python
+a=1
+b=2
+print(a,b)
+print(a,b)
+```
+
+<pre>
+    1 2
+    1 2
+</pre>
+    
+
+
+```python
+print("abc\ndef\nghi")
+print("abc\n\tdef\n\tghi")
+```
+
+<pre>
+    abc
+    def
+    ghi
+    abc
+    	def
+    	ghi
+</pre>
+
+
+```python
+a=1
+b=2
+c=a+b
+print(a,"+",b,"=",c)
+print(f"{a}+{b}={c}")
+metin = f"{a}+{b}={c}"
+print(metin)
+
+print(f"{a}+{b}={a+b}")
+```
+
+<pre>
+    1 + 2 = 3
+    1+2=3
+    1+2=3
+    1+2=3
+</pre>
+    
+
+### string türü
+
+
+```python
+a="isim soyisim"
+```
+
+
+```python
+a.upper()
+```
+
+
+
+<pre>
+
+    'ISIM SOYISIM'
+
+</pre>
+
+
+Bir nesne ile ilgili kullanılabilecek fonksiyonlara `dir` fonksiyonu ile bakılabilir.
+
+
+```python
+dir(a)
+# veya dir(str) ile string fonksiyonlarına ulaşılabilir.
+```
+
+
+
+
+<pre>
+
+    ['__add__',
+     '__class__',
+     '__contains__',
+     '__delattr__',
+     '__dir__',
+     '__doc__',
+     '__eq__',
+     '__format__',
+     '__ge__',
+     '__getattribute__',
+     '__getitem__',
+     '__getnewargs__',
+     '__gt__',
+     '__hash__',
+     '__init__',
+     '__init_subclass__',
+     '__iter__',
+     '__le__',
+     '__len__',
+     '__lt__',
+     '__mod__',
+     '__mul__',
+     '__ne__',
+     '__new__',
+     '__reduce__',
+     '__reduce_ex__',
+     '__repr__',
+     '__rmod__',
+     '__rmul__',
+     '__setattr__',
+     '__sizeof__',
+     '__str__',
+     '__subclasshook__',
+     'capitalize',
+     'casefold',
+     'center',
+     'count',
+     'encode',
+     'endswith',
+     'expandtabs',
+     'find',
+     'format',
+     'format_map',
+     'index',
+     'isalnum',
+     'isalpha',
+     'isascii',
+     'isdecimal',
+     'isdigit',
+     'isidentifier',
+     'islower',
+     'isnumeric',
+     'isprintable',
+     'isspace',
+     'istitle',
+     'isupper',
+     'join',
+     'ljust',
+     'lower',
+     'lstrip',
+     'maketrans',
+     'partition',
+     'replace',
+     'rfind',
+     'rindex',
+     'rjust',
+     'rpartition',
+     'rsplit',
+     'rstrip',
+     'split',
+     'splitlines',
+     'startswith',
+     'strip',
+     'swapcase',
+     'title',
+     'translate',
+     'upper',
+     'zfill']
+
+</pre>
+
+
+
+```python
+a
+```
+
+
+<pre>
+
+    'isim soyisim'
+
+</pre>
+
+
+
+```python
+a.count("i")
+```
+
+
+
+
+<pre>
+
+    4
+
+</pre>
+
+
+
+```python
+help(a.count)
+# veya help(str.count) ile dokümantasyona ulaşılabilir.
+```
+<pre>    
+    Help on built-in function count:
+    
+    count(...) method of builtins.str instance
+        S.count(sub[, start[, end]]) -> int
+        
+        Return the number of non-overlapping occurrences of substring sub in
+        string S[start:end].  Optional arguments start and end are
+        interpreted as in slice notation.
+</pre>        
+    
+  
+
+
+    
+```python
+metin1="string icin cift tirnak kullanılabilir."
+metin2='tek tırnak da kullanılabilir.'
+metin3="cift tirnak icinde kesme isareti (') kullanılabilir."
+metin4='tek tirnak icinde tekrar tek tirnak kullanilcaksa ters slash ile kullanılır. \' '
+print(metin1, metin2)
+print(metin3)
+print(metin4)
+```
+
+<pre>
+    string icin cift tirnak kullanılabilir. tek tırnak da kullanılabilir.
+    cift tirnak icinde kesme isareti (') kullanılabilir.
+    tek tirnak icinde tekrar tek tirnak kullanilcaksa ters slash ile kullanılır. ' 
+</pre>
+
+
+### Stringlerin indisleri
+
+
+```python
+a="Bu bir metindir."
+```
+
+
+```python
+len(a)
+```
+
+
+
+
+<pre>
+    16
+</pre>
+
+
+
+
+```python
+a[0], a[len(a)-1], a[5], a[-1], a[-4]
+```
+
+
+
+
+<pre>
+    ('B', '.', 'r', '.', 'd')
+</pre>
+
+
+
+
+```python
+a[0:3], a[8:11], a[:5], a[5:]
+```
+
+
+
+
+<pre>
+    ('Bu ', 'eti', 'Bu bi', 'r metindir.')
+</pre>
+
+
+
+
+```python
+a
+```
+
+
+
+
+<pre>
+    'Bu bir metindir.'
+</pre>
+
+
+
+
+```python
+a[3:11:2], a[::2], a[::-1],a[::-2]
+```
+
+
+
+
+<pre>
+    ('brmt', 'B i eidr', '.ridnitem rib uB', '.intmrbu')
+</pre>
+
+
+
+
+
+```python
+birinci_kelime="Merhaba"
+ikinci_kelime="Dünya"
+birinci_kelime+ikinci_kelime
+```
+
+
+
+
+<pre>
+    'MerhabaDünya'
+</pre>
+
+
+
+
+```python
+birinci_kelime="Merhaba"
+ikinci_kelime="Dünya"
+birinci_kelime+" "+ikinci_kelime
+```
+
+
+
+
+<pre>
+    'Merhaba Dünya'
+</pre>
+
+
+
+
+```python
+birinci_kelime * 10
+```
+
+
+
+
+<pre>
+    'MerhabaMerhabaMerhabaMerhabaMerhabaMerhabaMerhabaMerhabaMerhabaMerhaba'
+</pre>
+
+
+
+
+```python
+print("-"*30)
+```
+
+<pre>
+    ------------------------------
+</pre>
+    
+
+
+```python
+a="bu bir metindir"
+a.split(" ")
+```
+
+
+
+
+<pre>
+    ['bu', 'bir', 'metindir']
+</pre>
+
+
+
+
+```python
+a.replace("b","B")
+```
+
+
+
+
+<pre>
+    'Bu Bir metindir'
+</pre>
+
+
+    
+
+
+
+
+
+### Aritmetik operatörler
+
+
+```python
+a=5
+b=7
+c=a+b
+c
+```
+
+
+
+
+<pre>
+    12
+</pre>
+
+
+
+
+```python
+c=a-b
+c
+```
+
+
+
+
+<pre>
+    -2
+</pre>
+
+
+
+
+```python
+c=a*b
+c
+```
+
+
+
+
+<pre>
+    35
+</pre>
+
+
+
+
+```python
+c=a/b
+c
+```
+
+
+
+
+<pre>
+    0.7142857142857143
+</pre>
+
+
+
+
+```python
+b=14
+c=b//a
+c
+```
+
+
+
+
+<pre>
+    2
+</pre>
+
+
+
+
+```python
+a,b = 23, 5
+a,b
+```
+
+
+
+
+<pre>
+    (23, 5)
+</pre>
+
+
+
+
+```python
+c=a%b
+c
+```
+
+
+
+
+<pre>
+    3
+</pre>
+
+
+
+
+```python
+a=2
+b=4
+c=a**b
+c
+```
+
+
+
+
+<pre>
+    16
+</pre>
+
+
+
+
+```python
+2**10
+```
+
+
+
+
+<pre>
+    1024
+</pre>
+
+
+
+
+```python
+a=b=c=100
+a,b,c
+```
+
+
+
+
+<pre>
+    (100, 100, 100)
+</pre>
+
+
+
+
+```python
+144**0.5
+```
+
+
+
+
+<pre>
+    12.0
+</pre>
+
