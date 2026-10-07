@@ -1,6 +1,6 @@
 # C# Windows Forms ile SCADA Arayüzü Tasarımı
 
-- Bu projeden tüm öğrenciler sorumludur. Tüm öğrenciler tek kişi olarak projelerini gerçekleştirecektir. Proje sunumu için 10 dakika süre verilecektir. Proje, ara sınavın %60'ını oluşturacaktır. Her hafta 20 kişi sunum yapacaktır. Sadece işyeri eğitiminde olan öğrenciler ara sınav haftası sunumlarını yapacaktır. Raporlar sunum yapılacak tarihten önce gönderilmelidir. Sunumlar belirlenen ders saatinde yapılmalıdır. Bunlarda oluşacak gecikmede  notlandırma %50 şeklinde yapılacaktır.
+- Bu projeden tüm öğrenciler sorumludur. Tüm öğrenciler projelerini bireysel olarak gerçekleştirecektir. Proje sunumu için 10 dakika süre verilecektir. Proje, ara sınavın %60'ını oluşturacaktır. Her hafta 20 kişi sunum yapacaktır. Sadece işyeri eğitiminde olan öğrenciler ara sınav haftası sunumlarını yapacaktır. Raporlar, sunum yapılacak tarihten önce gönderilmelidir. Sunumlar belirlenen ders saatinde yapılmalıdır. Raporun veya sunumun belirlenen tarihten sonra gerçekleştirilmesi durumunda notlandırma %50 üzerinden yapılacaktır.
 
 ## Proje Yönergesi
 
@@ -220,21 +220,67 @@ Rapor yalnızca projenin ekran görüntüsünü ve kaynak kodlarını içeren bi
 
 Raporun, projeyi daha önce hiç hazırlamamış bir kişinin aynı uygulamayı yeniden geliştirebilmesini sağlayacak şekilde **adım adım hazırlanmış bir doküman** olması beklenmektedir.
 
-Raporda aşağıdaki konulara yer verilmelidir.
+Raporda kullanılan ekran görüntüleri, şekiller ve kod parçaları açıklamasız bırakılmamalıdır. Her görselin veya kod parçasının hangi amaçla kullanıldığı metin içerisinde açıklanmalıdır.
 
-### 11.1. Projenin Tanıtımı
+Rapor genel olarak aşağıdaki bölümlerden oluşmalıdır.
+
+### 11.1. Kapak Sayfası
+
+Raporun ilk sayfası kapak sayfası olmalıdır.
+
+Kapak sayfasında en az aşağıdaki bilgiler bulunmalıdır:
+
+- üniversite, fakülte ve bölüm bilgileri,
+- dersin adı,
+- **C# Windows Forms ile SCADA Arayüzü Tasarımı** proje başlığı,
+- öğrencinin adı ve soyadı,
+- öğrenci numarası,
+- öğretim elemanının adı,
+- tarih.
+
+### 11.2. Projenin Tanıtımı
+
+Bu bölümde hazırlanan proje genel olarak tanıtılmalıdır.
+
+Aşağıdaki konulara yer verilmelidir:
 
 - SCADA'nın kısa tanımı,
-- kurgulanan senaryo,
-- sistemde bulunan cihazlar...
+- projenin amacı,
+- kurgulanan tesis veya sistem senaryosu,
+- sistemde bulunan cihazlar,
+- ölçülen veya simüle edilen büyüklükler,
+- kullanıcı tarafından kontrol edilebilen elemanlar,
+- programın genel olarak ne yaptığı.
 
-### 11.2. Kullanılan Bileşenlerin Eklenmesi
+Bu bölümü okuyan bir kişinin programı çalıştırmadan önce sistemin ne amaçla geliştirildiğini ve programın temel çalışma mantığını anlayabilmesi beklenmektedir.
 
-Aşağıdaki işlemler ekran görüntüleriyle açıklanmalıdır:
+### 11.3. Programın Genel Çalışma Yapısı
 
-- Toolbox içerisinden nasıl bulunduğu,
+Hazırlanan programın çalışma mantığı genel olarak açıklanmalıdır.
+
+Örneğin;
+
+- program başladığında hangi işlemlerin gerçekleştirildiği,
+- sensör değerlerinin nasıl üretildiği,
+- verilerin hangi aralıklarla güncellendiği,
+- pompa, vana, ısıtıcı vb. cihazların nasıl kontrol edildiği,
+- ölçüm değerlerinin arayüzde nasıl gösterildiği,
+- alarm koşullarının nasıl çalıştığı
+
+açıklanmalıdır.
+
+Programın yalnızca hangi bileşenlerden oluştuğu değil, **bileşenlerin birbirleriyle nasıl ilişkili olarak çalıştığı** da belirtilmelidir.
+
+### 11.4. Kullanılan Bileşenlerin Eklenmesi
+
+Arayüz oluşturulurken kullanılan önemli Windows Forms bileşenlerinin nasıl eklendiği ekran görüntüleriyle açıklanmalıdır.
+
+Örneğin aşağıdaki işlemler gösterilebilir:
+
+- bileşenin Toolbox içerisinden nasıl bulunduğu,
 - Form üzerine nasıl eklendiği,
-- önemli Properties ayarlarının nasıl değiştirildiği
+- `Name`, `Text`, `Size`, `Minimum`, `Maximum`, `Interval` gibi önemli Properties ayarlarının nasıl değiştirildiği,
+- gerekli olayların nasıl oluşturulduğu.
 
 Örneğin:
 
@@ -245,15 +291,41 @@ Aşağıdaki işlemler ekran görüntüleriyle açıklanmalıdır:
 
 şeklinde ekran görüntüleriyle adım adım açıklama yapılabilir.
 
-### 11.3. Arayüz Tasarımının Oluşturulması
+Raporda kullanılan her küçük bileşen için ayrı ayrı aynı işlemlerin tekrarlanması gerekli değildir. Projenin geliştirilmesini ve kullanılan yöntemleri açıklayabilecek önemli bileşenlerin gösterilmesi yeterlidir.
 
-Tank, pompa, kazan, vana veya diğer proses elemanlarının ekranda nasıl temsil edildiği açıklanmalıdır.
+### 11.5. Arayüz Tasarımının Oluşturulması
 
-Hazırlanan arayüzün farklı geliştirme aşamalarına ait ekran görüntülerinin kullanılması gerekmektedir.
+Tank, pompa, kazan, vana, boru, sensör veya diğer proses elemanlarının ekranda nasıl temsil edildiği açıklanmalıdır.
 
-### 11.4. Kodlama
+Arayüzün yalnızca son hali gösterilmemelidir. **Projenin geliştirme aşamalarını gösteren ekran görüntülerinin kullanılması gerekmektedir.**
+
+Örneğin;
+
+1. Formun ilk oluşturulduğu hali,
+2. temel bileşenlerin eklendiği hali,
+3. tank, pompa, vana veya diğer proses elemanlarının oluşturulması,
+4. kontrol butonlarının eklenmesi,
+5. ölçüm göstergelerinin eklenmesi,
+6. alarm alanının oluşturulması,
+7. tamamlanmış arayüz
+
+gibi farklı geliştirme aşamalarına ait ekran görüntüleri kullanılabilir.
+
+Ekran görüntülerinin altında kısa açıklamalar bulunmalıdır.
+
+Örneğin:
+
+> **Şekil 1.** Tank seviye göstergesinin ve kontrol butonlarının Form üzerine eklenmesi.
+
+> **Şekil 2.** SCADA arayüzünün tamamlanmış görünümü.
+
+Bu bölüm, yapılan tasarımın nasıl geliştirildiğini adım adım gösterecek şekilde hazırlanmalıdır.
+
+### 11.6. Kodlama
 
 Programın önemli kod parçaları raporda gösterilmeli ve kodların altında **ne yaptıkları açıklanmalıdır.**
+
+Programdaki bütün kodların rapora kopyalanması gerekli değildir. Programın çalışmasını sağlayan önemli kod parçalarının verilmesi yeterlidir.
 
 Örneğin yalnızca;
 
@@ -261,22 +333,71 @@ Programın önemli kod parçaları raporda gösterilmeli ve kodların altında *
 temperature = random.Next(20, 101);
 ```
 
-kodunu vermek yerine bu satırın sıcaklık sensörünü simüle etmek amacıyla 20–100 °C arasında rastgele bir değer ürettiği açıklanmalıdır.
+kodunu vermek yerine, bu satırın sıcaklık sensörünü simüle etmek amacıyla 20–100 °C arasında rastgele bir değer ürettiği açıklanmalıdır.
 
-### 11.5. Timer Kullanımı
+Raporda özellikle aşağıdaki kodların açıklanması önerilmektedir:
+
+- değişkenlerin tanımlanması,
+- Timer kullanımı,
+- Random ile veri oluşturulması,
+- butonların Click olayları,
+- `if / else` koşulları,
+- cihazların çalıştırılması veya durdurulması,
+- ProgressBar ve Label değerlerinin güncellenmesi,
+- renk ve durum bilgilerinin değiştirilmesi,
+- alarm koşullarının oluşturulması,
+- kullanılan önemli metotlar.
+
+Kodların ekran görüntüsü olarak eklenmesi yerine mümkün olduğunca **metin/kod biçiminde** rapora eklenmesi tercih edilmelidir.
+
+### 11.7. Timer ve Veri Simülasyonu
+
+Bu bölümde;
 
 - Timer bileşeninin neden kullanıldığı,
 - Interval değerinin ne olduğu,
 - Tick olayının nasıl oluşturulduğu,
-- Tick içerisinde hangi işlemlerin yapıldığı
+- Tick içerisinde hangi işlemlerin yapıldığı,
+- sensör verilerinin nasıl üretildiği,
+- üretilen değerlerin arayüzde nasıl güncellendiği
 
 açıklanmalıdır.
 
-### 11.6. Alarm Mekanizması
+Eğer değerler yalnızca rastgele üretilmiyor ve sistemin durumuna göre değişiyorsa bu davranış da açıklanmalıdır.
+
+Örneğin pompa çalışırken tank seviyesinin artması veya ısıtıcı çalışırken sıcaklığın yükselmesi gibi ilişkiler belirtilmelidir.
+
+### 11.8. Sistem Kontrollerinin Açıklanması
+
+Kullanıcının kontrol edebildiği cihazlar ve butonlar açıklanmalıdır.
+
+Örneğin;
+
+- pompa başlatma/durdurma,
+- vana açma/kapatma,
+- ısıtıcı açma/kapatma,
+- sistemi başlatma/durdurma,
+- alarm sıfırlama
+
+işlemlerinin program içerisinde nasıl gerçekleştirildiği açıklanmalıdır.
+
+Kullanılan önemli kod parçaları bu bölümde gösterilebilir.
+
+### 11.9. Alarm Mekanizması
 
 Alarm koşullarının nasıl oluşturulduğu ve alarm gerçekleştiğinde arayüzde hangi değişikliklerin meydana geldiği açıklanmalıdır.
 
-### 11.7. Programın Çalıştırılması ve Test Edilmesi
+Örneğin;
+
+- hangi değerlerin alarm oluşturduğu,
+- alarm sınırlarının nasıl belirlendiği,
+- hangi `if / else` koşullarının kullanıldığı,
+- alarm sırasında Label, Panel veya diğer bileşenlerin renginin nasıl değiştirildiği,
+- alarm mesajının nasıl gösterildiği
+
+açıklanabilir.
+
+### 11.10. Programın Çalıştırılması ve Test Edilmesi
 
 Programın farklı durumlarda nasıl davrandığı gösterilmelidir.
 
@@ -284,20 +405,40 @@ Programın farklı durumlarda nasıl davrandığı gösterilmelidir.
 
 - sistem ilk açıldığında,
 - pompa çalıştırıldığında,
+- vana açıldığında veya kapatıldığında,
 - sıcaklık yükseldiğinde,
 - tank dolduğunda,
-- alarm oluştuğunda
+- alarm oluştuğunda,
+- alarm ortadan kalktığında
 
-ekran görüntüleri alınarak açıklanmalıdır.
+programın verdiği tepkiler ekran görüntüleriyle gösterilebilir.
 
-### 11.8. Sonuç
+Her ekran görüntüsünün altında ilgili durumun ne olduğunu açıklayan bir şekil açıklaması bulunmalıdır.
+
+### 11.11. Programın Son Hali
+
+Hazırlanan SCADA uygulamasının son hali bu bölümde gösterilmelidir.
+
+Programın ana ekranının okunabilir bir ekran görüntüsü verilerek;
+
+- görüntülenen sensörler,
+- kontrol edilen cihazlar,
+- kontrol butonları,
+- göstergeler,
+- alarm alanları
+
+kısaca açıklanmalıdır.
+
+### 11.12. Sonuç
 
 Raporda proje sonunda;
 
 - nelerin gerçekleştirildiği,
+- programın hangi işlevleri yerine getirdiği,
 - hangi C# konularının kullanıldığı,
 - karşılaşılan temel problemler,
-- bu problemlerin nasıl çözüldüğü
+- bu problemlerin nasıl çözüldüğü,
+- proje sonucunda elde edilen kazanımlar
 
 kısaca değerlendirilmelidir.
 
@@ -321,6 +462,8 @@ Sunum yalnızca programın çalıştırılıp gösterilmesinden oluşmamalıdır
 
 Sunum sırasında öğrencilere kodlama ve arayüz tasarımıyla ilgili sorular sorulacaktır.
 
+Öğrenci, projesinde bulunan herhangi bir kod parçasının ne amaçla kullanıldığını açıklayabilmelidir.
+
 ## 13. Yapay Zekâ Kullanımı
 
 Projenin hazırlanması sırasında ChatGPT, DeepSeek, Gemini veya benzeri yapay zekâ araçları kullanılabilir.
@@ -330,11 +473,112 @@ Ancak öğrenciler, yapay zekâ araçlarının ürettiği kodların;
 - ne amaçla yazıldığını,
 - kullanılan değişkenlerin ne işe yaradığını,
 - hangi olayın hangi kodu çalıştırdığını,
-- kullanılan koşulların neyi kontrol ettiğini
+- kullanılan koşulların neyi kontrol ettiğini,
+- kod üzerinde yapılacak temel değişikliklerin programın davranışını nasıl etkileyeceğini
 
 açıklayabilmelidir.
 
-## 14. Genel Beklenti
+Yapay zekâ tarafından üretilmiş olsa dahi öğrencinin açıklayamadığı kodların kullanılması uygun değildir.
+
+## 14. Teslim Edilecek Dosyalar
+
+Proje kapsamında **iki ayrı dosya** yüklenmelidir:
+
+1. **Proje raporu**
+2. **Visual Studio proje dosyalarının sıkıştırılmış hali**
+
+### 14.1. Proje Raporu
+
+Hazırlanan rapor tek bir dosya halinde teslim edilmelidir.
+
+Rapor içerisinde;
+
+- kapak sayfası,
+- proje açıklamaları,
+- geliştirme aşamalarına ait ekran görüntüleri,
+- kullanılan önemli kod parçaları,
+- programın çalışma mantığının açıklaması,
+- test ekran görüntüleri,
+- sonuç bölümü
+
+bulunmalıdır.
+
+Raporun düzenli, okunabilir ve bütün şekillerin açıklamalarının görülebilir olması gerekmektedir.
+
+### 14.2. Visual Studio Projesi
+
+Visual Studio ile oluşturulan projenin tamamı `.zip` veya `.rar` formatında sıkıştırılarak yüklenmelidir.
+
+Sıkıştırılmış dosya içerisinde projenin tekrar Visual Studio ile açılabilmesini sağlayacak gerekli dosyalar bulunmalıdır.
+
+Özellikle;
+
+- `.sln` çözüm dosyası,
+- proje dosyası,
+- `.cs` kaynak kodları,
+- Form dosyaları,
+- kullanılan gerekli görseller ve diğer proje kaynakları
+
+dosyada bulunmalıdır.
+
+Yalnızca programın çalıştırılabilir `.exe` dosyasının teslim edilmesi yeterli değildir.
+
+Dosya boyutunu azaltmak amacıyla ihtiyaç duyulmayan `bin`, `obj` ve `.vs` klasörleri sıkıştırılmış proje dosyasından çıkarılabilir. Ancak proje Visual Studio içerisinde açıldığında tekrar derlenebilir ve çalıştırılabilir durumda olmalıdır.
+
+## 15. Dosya Boyutu ve Ekran Görüntüleri
+
+Sisteme yüklenecek **her bir dosyanın maksimum boyutu 10 MB** olmalıdır.
+
+Özellikle rapora çok sayıda yüksek çözünürlüklü ekran görüntüsü eklenmesi dosya boyutunun gereksiz şekilde büyümesine neden olabilir.
+
+Rapor dosyasının boyutu 10 MB sınırını aşıyorsa;
+
+- ekran görüntülerinin çözünürlükleri düşürülebilir,
+- görseller kırpılarak yalnızca gerekli alanlar bırakılabilir,
+- PNG yerine uygun durumlarda daha düşük dosya boyutuna sahip görsel biçimleri kullanılabilir,
+- Word veya benzeri programların **resimleri sıkıştırma** özelliklerinden yararlanılabilir,
+- gereksiz veya birbirinin aynı ekran görüntüleri kaldırılabilir.
+
+Görsellerin dosya boyutu azaltılırken üzerlerindeki yazıların, kodların ve arayüz elemanlarının okunamayacak hale gelmemesine dikkat edilmelidir.
+
+Visual Studio proje dosyasının boyutunu azaltmak için de derleme sırasında yeniden oluşturulabilen `bin`, `obj` ve `.vs` klasörleri sıkıştırılmadan önce kaldırılabilir.
+
+## 16. Dosyaların Adlandırılması
+
+Teslim edilen dosyaların kolaylıkla ayırt edilebilmesi için anlamlı şekilde adlandırılması önerilmektedir.
+
+Örneğin:
+
+```text
+OgrenciNo_AdSoyad_SCADA_Rapor.pdf
+OgrenciNo_AdSoyad_SCADA_Proje.zip
+```
+
+veya
+
+```text
+OgrenciNo_AdSoyad_SCADA_Proje.rar
+```
+
+şeklinde adlandırılabilir.
+
+## 17. Teslim Öncesi Kontrol
+
+Dosyalar yüklenmeden önce aşağıdaki hususlar kontrol edilmelidir:
+
+- rapor dosyası açılıyor mu,
+- rapordaki ekran görüntüleri okunabiliyor mu,
+- raporda kullanılan şekillerin açıklamaları bulunuyor mu,
+- önemli kod parçaları açıklanmış mı,
+- programın ne yaptığı açıkça ifade edilmiş mi,
+- Visual Studio proje dosyası `.zip` veya `.rar` olarak hazırlanmış mı,
+- sıkıştırılmış proje içerisinde kaynak kodları bulunuyor mu,
+- proje farklı bir klasöre çıkarıldığında Visual Studio ile açılabiliyor mu,
+- proje derlenip çalıştırılabiliyor mu,
+- her iki dosya da 10 MB dosya boyutu sınırına uygun mu,
+- rapor ve proje dosyası olmak üzere toplam iki dosya yüklenmiş mi.
+
+## 18. Genel Beklenti
 
 Bu projede amaç profesyonel bir endüstriyel SCADA yazılımı geliştirmek değildir.
 

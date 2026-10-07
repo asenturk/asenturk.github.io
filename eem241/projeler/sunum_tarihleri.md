@@ -1,6 +1,7 @@
 - Sürenin çok uzaması durumunda sunumunu belirtilen tarihte yapamayanlar sunumlarını tüm sunumlar bittikten sonra yapacaktır.
-
 - Yukarıdaki durum haricinde sunumlarını aşağıda belirtilen gününde yapmayanların notları %50 oranında hesaplanacaktır.
+- İşletmede mesleki eğitimnde olanlar sunumlarını arasınav haftasında yapacaklardır. Dolayısıyla aşağıdaki tarihler işletmede mesleki eğitimde olanlar için geçerli değildir.
+- Proje raporları sunum yapılacak olan haftadan önce yüklenmek zorundadır. Aksi halde notlandırma %50 şeklinde yapılacaktır.
 
 ||Öğrenci No|Sunum tarihi|
 |------|----------|------------|
@@ -77,4 +78,3 @@
 |71    |2512705057|17.11.2026  |
 |72    |2512705071|17.11.2026  |
 |73    |2612705069|17.11.2026  |
-|      |          |            |

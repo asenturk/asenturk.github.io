@@ -4,7 +4,6 @@
 ### Duyurular
 
 - Arasınav projesi  ile ilgili açıklama için [tıklayınız](./projeler/arasinav_projesi.md). 
-
 - Arasınav projesi sunum tarihleri için [tıklayınız](./projeler/sunum_tarihleri.md).
 
 
