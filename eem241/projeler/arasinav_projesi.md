@@ -235,7 +235,6 @@ Kapak sayfasında en az aşağıdaki bilgiler bulunmalıdır:
 - **C# Windows Forms ile SCADA Arayüzü Tasarımı** proje başlığı,
 - öğrencinin adı ve soyadı,
 - öğrenci numarası,
-- öğretim elemanının adı,
 - tarih.
 
 ### 11.2. Projenin Tanıtımı
@@ -478,7 +477,7 @@ Ancak öğrenciler, yapay zekâ araçlarının ürettiği kodların;
 
 açıklayabilmelidir.
 
-Yapay zekâ tarafından üretilmiş olsa dahi öğrencinin açıklayamadığı kodların kullanılması uygun değildir.
+Yapay zekâ tarafından üretilen ancak öğrencinin açıklayamadığı kodların kullanılması uygun değildir.
 
 ## 14. Teslim Edilecek Dosyalar
 
@@ -523,7 +522,7 @@ dosyada bulunmalıdır.
 
 Yalnızca programın çalıştırılabilir `.exe` dosyasının teslim edilmesi yeterli değildir.
 
-Dosya boyutunu azaltmak amacıyla ihtiyaç duyulmayan `bin`, `obj` ve `.vs` klasörleri sıkıştırılmış proje dosyasından çıkarılabilir. Ancak proje Visual Studio içerisinde açıldığında tekrar derlenebilir ve çalıştırılabilir durumda olmalıdır.
+Proje Visual Studio içerisinde açıldığında tekrar derlenebilir ve çalıştırılabilir durumda olmalıdır.
 
 ## 15. Dosya Boyutu ve Ekran Görüntüleri
 
@@ -541,7 +540,6 @@ Rapor dosyasının boyutu 10 MB sınırını aşıyorsa;
 
 Görsellerin dosya boyutu azaltılırken üzerlerindeki yazıların, kodların ve arayüz elemanlarının okunamayacak hale gelmemesine dikkat edilmelidir.
 
-Visual Studio proje dosyasının boyutunu azaltmak için de derleme sırasında yeniden oluşturulabilen `bin`, `obj` ve `.vs` klasörleri sıkıştırılmadan önce kaldırılabilir.
 
 ## 16. Dosyaların Adlandırılması
 
