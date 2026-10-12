@@ -5,6 +5,7 @@
 
 - Arasınav projesi  ile ilgili açıklama için [tıklayınız](./projeler/arasinav_projesi.md). 
 - Arasınav projesi sunum tarihleri için [tıklayınız](./projeler/sunum_tarihleri.md).
+- Proje dosyaları yükleme sayfası için [tıklayınız](https://forms.gle/kZfVHhnLW1U453b59).
 
 
 <!-- ### Bütünleme Sınavı ile ilgili duyuru
