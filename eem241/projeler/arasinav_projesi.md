@@ -1,6 +1,6 @@
 # C# Windows Forms ile SCADA Arayüzü Tasarımı
 
-- Bu projeden tüm öğrenciler sorumludur. Tüm öğrenciler projelerini bireysel olarak gerçekleştirecektir. Proje sunumu için 10 dakika süre verilecektir. Proje, ara sınavın %60'ını oluşturacaktır. Her hafta 20 kişi sunum yapacaktır. Sadece işyeri eğitiminde olan öğrenciler ara sınav haftası sunumlarını yapacaktır. Raporlar, sunum yapılacak tarihten önce gönderilmelidir. Sunumlar belirlenen ders saatinde yapılmalıdır. Raporun veya sunumun belirlenen tarihten sonra gerçekleştirilmesi durumunda notlandırma %50 üzerinden yapılacaktır.
+- Bu projeden tüm öğrenciler sorumludur. Tüm öğrenciler projelerini bireysel olarak gerçekleştirecektir. Proje sunumu için 10 dakika süre verilecektir. Proje, ara sınavın %60'ını oluşturacaktır. Her hafta yaklaşık 20 kişi sunum yapacaktır. Sadece işyeri eğitiminde olan öğrenciler ara sınav haftası sunumlarını yapacaktır. Raporlar, sunum yapılacak hafta başlamadan gönderilmelidir. Sunumlar belirlenen ders saatinde yapılmalıdır. Raporun veya sunumun belirlenen tarihten sonra gerçekleştirilmesi durumunda notlandırma %50 üzerinden yapılacaktır.
 
 ## Proje Yönergesi
 
