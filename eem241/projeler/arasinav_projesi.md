@@ -288,7 +288,7 @@ Arayüz oluşturulurken kullanılan önemli Windows Forms bileşenlerinin nasıl
 > Name özelliği `progressTankSeviye` olarak değiştirildi.  
 > Minimum değeri 0, Maximum değeri 100 olarak ayarlandı.
 
-şeklinde ekran görüntüleriyle adım adım açıklama yapılabilir.
+şeklinde ekran görüntüleriyle adım adım açıklama yapılmalıdır.
 
 Raporda kullanılan her küçük bileşen için ayrı ayrı aynı işlemlerin tekrarlanması gerekli değildir. Projenin geliştirilmesini ve kullanılan yöntemleri açıklayabilecek önemli bileşenlerin gösterilmesi yeterlidir.
 
