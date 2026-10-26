@@ -2,6 +2,10 @@
 
 
 ### Duyurular
+- Arasınavda 1, 4, 5, 6, 7 ve 8. hafta konularından sorumlusunuz.
+
+
+### Arasınav Projesi
 
 - Arasınav projesi  ile ilgili açıklama için [tıklayınız](./projeler/arasinav_projesi.md). 
 - Arasınav projesi sunum tarihleri için [tıklayınız](./projeler/sunum_tarihleri.md).
