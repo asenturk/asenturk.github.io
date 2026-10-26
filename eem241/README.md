@@ -3,6 +3,7 @@
 
 ### Duyurular
 - Arasınavda 1, 4, 5, 6, 7 ve 8. hafta konularından sorumlusunuz.
+- İşyeri eğitiminde olanlar sunumlarını 1 Kasım Pazar günü sınavdan sonra yapacaktır.
 
 
 ### Arasınav Projesi
