@@ -4,6 +4,7 @@
 ### Duyurular
 - Arasınavda 1, 4, 5, 6, 7 ve 8. hafta konularından sorumlusunuz.
 - İşyeri eğitiminde olanlar sunumlarını 1 Kasım Pazar günü sınavdan sonra yapacaktır.
+- **ÖNEMLİ** proje sunumunu belirtilen sunum tarihlerinde yapamayanlar, açıklama sayfasındaki ifadeler geçerli olmak üzere, 10 Kasım 2027 Salı günü yapabilirler.
 
 
 ### Arasınav Projesi
