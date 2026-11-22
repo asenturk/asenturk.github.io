@@ -1,58 +1,66 @@
-
 # EEM-465 Gömülü Sistemler Dersi Final Projesi
 
-STM32F407 Tabanlı İki Kanallı Dijital Osiloskop Tasarımı
+## STM32F407 Tabanlı İki Kanallı Dijital Osiloskop Tasarımı
 
 <!-- **Teslim Tarihi:** Daha sonra duyurulacaktır. -->
 
+## 1. Projenin Konusu ve Amacı
 
-- Projede STM32F4 Discovery Kartı kullanılarak iki kanallı, bilgisayar destekli bir dijital osiloskop sistemi geliştirilecektir.
+- Projede, STM32F4 Discovery kartı kullanılarak iki kanallı, bilgisayar destekli bir dijital osiloskop sistemi geliştirilecektir.
 
-- Geliştirilecek sistem, iki farklı analog girişe uygulanan elektrik sinyallerinin mikrodenetleyicinin ADC (Analog-to-Digital Converter) birimi aracılığıyla sayısal verilere dönüştürecektir. Elde edilen veriler USART ile  bilgisayara aktarılacak ve bilgisayarda geliştirilecek bir arayüz yardımıyla gerçek zamanlı olarak grafik üzerinde görüntülenecektir.
+- Geliştirilecek sistem, iki farklı analog girişe uygulanan elektriksel sinyalleri mikrodenetleyicinin ADC (Analog-to-Digital Converter) birimi aracılığıyla sayısal verilere dönüştürecektir. Elde edilen veriler USART üzerinden bilgisayara aktarılacak ve bilgisayarda geliştirilecek bir arayüz yardımıyla gerçek zamanlı olarak grafik üzerinde görüntülenecektir.
 
-- Projenin temel amacı, derste öğrenilen mikrodenetleyici programlama konularının bir arada kullanıldığı çalışan bir gömülü sistem geliştirilmesidir.
+- Projenin temel amacı, derste öğrenilen mikrodenetleyici programlama konularının bir arada kullanıldığı, çalışan bir gömülü sistem geliştirilmesidir.
 
-- Projede iki  ADC  kanalı veya 2 ADC kullanılabilir.
+## 2. Teknik Gereksinimler
 
-- ADC girişlerine uygulanan gerilimler mikrodenetleyicinin izin verilen sınırlarını aşmamalıdır. Proje kapsamında giriş sinyalleri 0–3.3 V aralığında tutulacaktır. Negatif gerilim veya 3.3 V üzerindeki sinyaller ADC girişlerine doğrudan uygulanmamalıdır.
+- Projede, tek bir ADC biriminin iki kanalı veya iki ayrı ADC birimi kullanılabilir.
 
+- ADC girişlerine uygulanan gerilimler, mikrodenetleyicinin izin verilen sınırlarını aşmamalıdır. Proje kapsamında giriş sinyalleri 0–3.3 V aralığında tutulacaktır. Negatif gerilimler veya 3.3 V üzerindeki sinyaller ADC girişlerine doğrudan uygulanmamalıdır.
 
-- ADC örnekleme işleminin belirli ve düzenli zaman aralıklarında gerçekleştirilmesi gerekmektedir. Bu amaçla STM32F407 mikrodenetleyicisinin timer birimlerinden yararlanılacaktır.
-
+- ADC örnekleme işleminin belirli ve düzenli zaman aralıklarında gerçekleştirilmesi gerekmektedir. Bu amaçla STM32F407 mikrodenetleyicisinin Timer birimlerinden yararlanılacaktır.
 
 - ADC kanallarından elde edilen sayısal veriler USART üzerinden bilgisayara gönderilecektir.
 
-- Bilgisayar tarafında seri port üzerinden gelen verileri okuyarak grafik üzerinde görüntüleyen bir uygulama geliştirilecektir.
-
+- Bilgisayar tarafında, seri port üzerinden gelen verileri okuyarak grafik üzerinde görüntüleyen bir uygulama geliştirilecektir.
 
 - Projenin mikrodenetleyici tarafındaki yazılımı, derste gösterildiği gibi **register seviyesinde** geliştirilecektir.
 
+- Geliştirilen sistemin çalışması gerçek analog sinyaller kullanılarak gösterilecektir. Uygun genlik ve DC ofsete sahip sinüs sinyalleri uygulanacak ve bilgisayar ortamında görüntülenecektir.
 
-Geliştirilen sistemin çalışması gerçek analog sinyaller kullanılarak gösterilecektir. Uygun genlik ve DC ofsete sahip sinüs sinyalleri uygulanacak ve bilgisayar ortamında görüntülenecektir.
+- Uygulanacak sinyalin uygunluğu, öncelikle bir osiloskop yardımıyla kontrol edilecek, ardından STM32F4 Discovery kartı ile ölçüm gerçekleştirilecektir.
 
+- Giriş geriliminin devreye zarar vermemesi için gerekli koruyucu önlemler alınmalıdır.
 
-Gelistirdiğiniz cihaz 100 Hz'e kadar sinyalleri ölçebilmelidir.
+- **Geliştirilen cihaz, 100 Hz'e kadar olan sinyalleri ölçebilmeli ve dalga biçimlerini görüntüleyebilmelidir.**
 
+## 3. Proje Raporu
 
-Her öğrenci gerçekleştirdiği çalışmayı açıklayan bir proje raporu hazırlayacaktır. Raporunuz aşağıdaki bölümlerde oluşmaldır:
+Her öğrenci, gerçekleştirdiği çalışmayı açıklayan bir proje raporu hazırlayacaktır. Rapor aşağıdaki bölümlerden oluşmalıdır.
 
-- Giriş ve Projenin Amacı
+### 3.1. Giriş ve Projenin Amacı
 
+Projenin amacı ve kapsamı açıklanacaktır.
 
-- Sistem Tasarımı
+### 3.2. Sistem Tasarımı
 
+Bu bölümde aşağıdaki konulara yer verilmelidir:
 
-    - Sistemin blok diyagramı
-    - Kullanılan donanımlar
-    - ADC girişleri ve pin bağlantıları
-    - USART bağlantıları
-    - Bilgisayar ile haberleşme yapısı
+- Sistemin blok diyagramı
+- Kullanılan donanımlar
+- ADC girişleri ve pin bağlantıları
+- Giriş koruma elemanları
+- USART bağlantıları
+- Bilgisayar ile haberleşme yapısı
 
-Bu bölümde sistemin genel blok diyagramı ve gerekli bağlantı şemaları bulunmalıdır.
+Sistemin genel blok diyagramı ve gerekli devre/bağlantı şemaları bu bölümde bulunmalıdır.
 
-- Mikrodenetleyici Yazılımı
+### 3.3. Mikrodenetleyici Yazılımı
 
-- GPIO, ADC, Timer ve USART yapılandırmaları açıklanacaktır.
+GPIO, ADC, Timer ve USART yapılandırmaları açıklanacaktır.
+
+Aşağıdaki soruların cevaplarına yer verilmelidir:
+
 - Hangi ADC kanalları kullanılmıştır?
 - ADC hangi çalışma modunda yapılandırılmıştır?
 - Timer örnekleme periyodunu nasıl belirlemektedir?
@@ -61,105 +69,77 @@ Bu bölümde sistemin genel blok diyagramı ve gerekli bağlantı şemaları bul
 - Örnekleme ve veri gönderme işlemleri nasıl organize edilmiştir?
 - Veriler bilgisayara hangi formatta gönderilmektedir?
 
-Register ayarlarının hangi amaçla yapıldığı açıklanmalı ve kullanılan önemli register'lar belirtilmelidir.
+Register ayarlarının hangi amaçla ve nasıl yapıldığı açıklanmalıdır.
 
-Kaynak kodların tamamının rapora eklenmesi gerekli değildir. Önemli kod bölümlerine yer verilmesi yeterlidir.
+**Kaynak kodların tamamının tek seferde rapora eklenmesi uygun değildir.** Kodlar ilgili bölümlerde ele alınmalı, hangi kodun ne amaçla kullanıldığı açıklanmalıdır.
 
-### 7.4. Bilgisayar Uygulaması
+### 3.4. Bilgisayar Uygulaması
 
-Bilgisayar arayüzünün gerçekleştirilmesinde kullanılan yazılım ortamı ve kütüphaneler açıklanacaktır.
+Bilgisayar arayüzünü geliştirmek için uygun bir programlama dili kullanılabilir. Örneğin Python tercih edilebilir.
 
-Seri porttan alınan verilerin nasıl ayrıştırıldığı ve grafiğe aktarıldığı anlatılacaktır.
+Bu bölümde geliştirilen uygulamanın çalışma prensibi, veri alma ve grafik çizdirme işlemleri açıklanmalıdır.
 
-Geliştirilen arayüzün ekran görüntülerine yer verilmelidir.
+### 3.5. Deneysel Sonuçlar
 
-### 7.5. Deneysel Sonuçlar
-
-Gerçekleştirilen testler ve elde edilen sonuçlar sunulacaktır.
-
-Bu bölümde:
+Bu bölümde aşağıdaki bilgilere yer verilmelidir:
 
 - Kullanılan test sinyalleri
 - Sinyallerin frekansları ve gerilim aralıkları
 - Seçilen örnekleme frekansı
-- Bilgisayardaki grafik görüntüleri
+- Bilgisayarda elde edilen grafik görüntüleri
 - Varsa gözlemlenen hatalar veya sınırlamalar
 
-açıklanmalıdır.
-
-Elde edilen sonuçların beklenen sinyal özellikleriyle uyumu değerlendirilmelidir.
-
-### 7.6. Sonuç ve Değerlendirme
+### 3.6. Sonuç ve Değerlendirme
 
 Projenin hangi gereksinimleri karşıladığı, karşılaşılan sorunlar ve geliştirilebilecek özellikler kısaca açıklanacaktır.
 
-### 7.7. Kaynaklar
+### 3.7. Kaynaklar
 
 Yararlanılan kaynaklar belirtilecektir.
 
-Özellikle STM32F407 Reference Manual, veri sayfaları, ders notları ve kullanılan diğer teknik kaynaklara yer verilmelidir.
-
-## 8. Proje Sunumu ve Uygulamalı Gösterim
+## 4. Proje Sunumu ve Uygulamalı Gösterim
 
 Her öğrenci projesini uygulamalı olarak sunacaktır.
 
-Sunum süresi yaklaşık 8 dakika, soru-cevap ve uygulamalı değerlendirme süresi ise yaklaşık 4 dakika olacaktır.
+**Sunum süresi yaklaşık 10 dakikadır.**
 
-Sunumda aşağıdaki işlemler gerçekleştirilecektir:
+Sunum sırasında projede hangi birimlerin kullanıldığı açıklanacak ve geliştirilen sistemin çalışması gösterilecektir.
 
-1. Projenin genel yapısının açıklanması.
-2. Donanım bağlantılarının gösterilmesi.
-3. ADC, Timer ve USART yapılandırmalarının açıklanması.
-4. Mikrodenetleyici yazılımının çalıştırılması.
-5. İki analog kanal üzerinden veri alınması.
-6. Verilerin bilgisayarda gerçek zamanlı görüntülenmesi.
-7. Sinyal frekansı veya genliği değiştirilerek sistemin tepkisinin gösterilmesi.
+Öğrencilere proje, yazılım ve kullanılan donanım birimleriyle ilgili sorular yöneltilecektir. Bu sorulara verilen cevaplar, projenin çalışması ve proje raporu birlikte değerlendirilerek proje notu belirlenecektir.
 
-Sunum sırasında öğrenciden yazılım üzerinde küçük değişiklikler yapması istenebilir.
+Örneğin, öğrencilerden aşağıdaki işlemleri gerçekleştirmeleri veya açıklamaları istenebilir:
 
-Örneğin:
-
-- ADC giriş kanalının değiştirilmesi,
-- Timer örnekleme frekansının değiştirilmesi,
-- USART baud rate değerinin değiştirilmesi,
+- ADC giriş kanalının değiştirilmesi
+- Timer örnekleme frekansının değiştirilmesi
+- USART baud rate değerinin değiştirilmesi
 - Kullanılan bir register'ın işlevinin açıklanması
-
-gibi uygulamalar yaptırılabilir.
 
 **Proje değerlendirmesinde yalnızca sistemin çalışması değil, öğrencinin geliştirdiği kodu anlaması ve açıklayabilmesi de dikkate alınacaktır.**
 
-Çalışan bir projeyi sunmak yeterli değildir. Öğrenci, kullandığı çevre birimlerinin nasıl yapılandırıldığını ve sistemin nasıl çalıştığını açıklayabilmelidir.
+## 5. Teslim Edilecek Dosyalar
 
-## 9. Teslim Edilecek Dosyalar
-
-Proje tesliminde aşağıdaki dosyalar bulunmalıdır:
+Proje kapsamında aşağıdaki dosyalar teslim edilecektir:
 
 1. **STM32 kaynak kodları:** Mikrodenetleyici tarafında geliştirilen projenin kaynak kodları.
 2. **Bilgisayar uygulaması:** Osiloskop arayüzünün kaynak kodları ve çalıştırılması için gerekli bilgiler.
 3. **Proje raporu:** PDF formatında hazırlanmış rapor.
-4. **Çalışma videosu:** Geliştirilen sistemin iki kanallı ölçüm gerçekleştirdiğini gösteren kısa bir video.
 
-Bütün dosyalar tek bir ZIP arşivi içerisinde teslim edilecektir.
+Dosyalar aşağıdaki isimlendirme biçimine uygun olarak teslim edilmelidir:
 
-Dosya isimlendirme biçimi:
+- `OgrenciNo_Ad_Soyad_gomulu.zip`
+- `OgrenciNo_Ad_Soyad_gui.zip`
+- `OgrenciNo_Ad_Soyad_rapor.pdf`
 
-`OgrenciNo_Ad_Soyad_EEM465_Proje.zip`
-
-Projelerin derlenebilir ve çalıştırılabilir durumda olması gerekmektedir.
-
-
-## 11. Akademik Dürüstlük ve Kod Kullanımı
+## 6. Akademik Dürüstlük ve Kod Kullanımı
 
 Proje bireysel olarak gerçekleştirilecektir.
 
-Öğrenciler ders notlarından, mikrodenetleyici Reference Manual dokümanından, teknik kaynaklardan ve açık kaynak örneklerden yararlanabilirler.
+Öğrenciler ders notlarından, mikrodenetleyicinin Reference Manual dokümanından, teknik kaynaklardan ve açık kaynak kod örneklerinden yararlanabilirler.
 
 Ancak teslim edilen yazılımın öğrenci tarafından anlaşılması, uyarlanması ve çalışır hâle getirilmesi gerekmektedir.
 
-Hazır proje kodlarının doğrudan kopyalanması veya başka öğrencilere ait çalışmaların teslim edilmesi akademik dürüstlük ihlali olarak değerlendirilecektir.
+Yapay zekâ araçlarından öğrenme, hata ayıklama ve geliştirme amacıyla yararlanılabilir. Ancak öğrenciler, kullandıkları kodların çalışma prensiplerini anlamak, açıklamak ve gerektiğinde değiştirerek uygulayabilmekle sorumludur.
 
-Yapay zekâ araçlarından öğrenme, hata ayıklama ve geliştirme amacıyla yararlanılabilir. Ancak kullanılan kodun çalışma prensiplerinden öğrencinin kendisi sorumludur.
+**Yapay zekâ araçlarıyla oluşturulan kodları anlayamayan, açıklayamayan veya gerektiğinde değiştiremeyen öğrenciler proje değerlendirmesinde yeterli not alamayabilirler.**
 
-Proje sunumunda kodu açıklayamayan veya gerekli değişiklikleri gerçekleştiremeyen öğrencilerin notları buna göre değerlendirilecektir.
-
-
+**Her durumda mikrodenetleyici tarafındaki kodlamalar, derste anlatılan register seviyesinde programlama yaklaşımına uygun olmak zorundadır.**
