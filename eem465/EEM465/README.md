@@ -29,6 +29,7 @@
 
 ### Proje
 - Proje ile ilgili duyuru için [tıklayınız](proje/).
+- Porje yapma veya Final/Bütünleme sınavına girme tercihinizle ilgili [form](https://forms.gle/5urR3mCpKdETRREp8)
 
 
 
