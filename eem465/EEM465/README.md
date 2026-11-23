@@ -27,6 +27,10 @@
 - Proje raprunu yüklemek için tıklayınız [tıklayınız](https://forms.gle/DxmVJKAfTadn2ueeA). -->
 
 
+### Proje
+- Proje ile ilgili duyuru için [tıklayınız](proje/).
+
+
 
 
 

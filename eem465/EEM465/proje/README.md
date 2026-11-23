@@ -8,7 +8,7 @@
 
 - Projede, STM32F4 Discovery kartı kullanılarak iki kanallı, bilgisayar destekli bir dijital osiloskop sistemi geliştirilecektir.
 
-- Geliştirilecek sistem, iki farklı analog girişe uygulanan elektriksel sinyalleri mikrodenetleyicinin ADC (Analog-to-Digital Converter) birimi aracılığıyla sayısal verilere dönüştürecektir. Elde edilen veriler USART üzerinden bilgisayara aktarılacak ve bilgisayarda geliştirilecek bir arayüz yardımıyla gerçek zamanlı olarak grafik üzerinde görüntülenecektir.
+- Geliştirilecek sistem, iki farklı analog girişe uygulanan elektrik sinyallerini mikrodenetleyicinin ADC (Analog-to-Digital Converter) birimi aracılığıyla sayısal verilere dönüştürecektir. Elde edilen veriler USART üzerinden bilgisayara aktarılacak ve bilgisayarda geliştirilecek bir arayüz yardımıyla gerçek zamanlı olarak grafik üzerinde görüntülenecektir.
 
 - Projenin temel amacı, derste öğrenilen mikrodenetleyici programlama konularının bir arada kullanıldığı, çalışan bir gömülü sistem geliştirilmesidir.
 
@@ -30,7 +30,7 @@
 
 - Uygulanacak sinyalin uygunluğu, öncelikle bir osiloskop yardımıyla kontrol edilecek, ardından STM32F4 Discovery kartı ile ölçüm gerçekleştirilecektir.
 
-- Giriş geriliminin devreye zarar vermemesi için gerekli koruyucu önlemler alınmalıdır.
+- Giriş geriliminin devreye zarar vermemesi için gerilim bölücü devre gibi gerekli koruyucu önlemler alınması gerekebilir.
 
 - **Geliştirilen cihaz, 100 Hz'e kadar olan sinyalleri ölçebilmeli ve dalga biçimlerini görüntüleyebilmelidir.**
 
@@ -52,6 +52,8 @@ Bu bölümde aşağıdaki konulara yer verilmelidir:
 - Giriş koruma elemanları
 - USART bağlantıları
 - Bilgisayar ile haberleşme yapısı
+- Yapılan çalışmanın algoritması
+gibi...
 
 Sistemin genel blok diyagramı ve gerekli devre/bağlantı şemaları bu bölümde bulunmalıdır.
 
@@ -77,7 +79,7 @@ Register ayarlarının hangi amaçla ve nasıl yapıldığı açıklanmalıdır.
 
 Bilgisayar arayüzünü geliştirmek için uygun bir programlama dili kullanılabilir. Örneğin Python tercih edilebilir.
 
-Bu bölümde geliştirilen uygulamanın çalışma prensibi, veri alma ve grafik çizdirme işlemleri açıklanmalıdır.
+Bu bölümde geliştirilen uygulamanın çalışma prensibi, veri alma ve grafik arayüz görüntüleri, işlevleri olmalıdır. Bilgisayardaki programın ayrıntılı açıklanması gerekmemektedir.
 
 ### 3.5. Deneysel Sonuçlar
 
@@ -95,13 +97,13 @@ Projenin hangi gereksinimleri karşıladığı, karşılaşılan sorunlar ve gel
 
 ### 3.7. Kaynaklar
 
-Yararlanılan kaynaklar belirtilecektir.
+Varsa yararlanılan kaynaklar belirtilecektir.
 
 ## 4. Proje Sunumu ve Uygulamalı Gösterim
 
 Her öğrenci projesini uygulamalı olarak sunacaktır.
 
-**Sunum süresi yaklaşık 10 dakikadır.**
+**Sunum süresi yaklaşık 10-15 dakikadır.**
 
 Sunum sırasında projede hangi birimlerin kullanıldığı açıklanacak ve geliştirilen sistemin çalışması gösterilecektir.
 
@@ -136,10 +138,10 @@ Proje bireysel olarak gerçekleştirilecektir.
 
 Öğrenciler ders notlarından, mikrodenetleyicinin Reference Manual dokümanından, teknik kaynaklardan ve açık kaynak kod örneklerinden yararlanabilirler.
 
-Ancak teslim edilen yazılımın öğrenci tarafından anlaşılması, uyarlanması ve çalışır hâle getirilmesi gerekmektedir.
+Ancak teslim edilen yazılımın öğrenci tarafından anlaşılması, uyarlanması ve çalışır hale getirilmesi gerekmektedir.
 
-Yapay zekâ araçlarından öğrenme, hata ayıklama ve geliştirme amacıyla yararlanılabilir. Ancak öğrenciler, kullandıkları kodların çalışma prensiplerini anlamak, açıklamak ve gerektiğinde değiştirerek uygulayabilmekle sorumludur.
+Yapay zeka araçlarından öğrenme, hata ayıklama ve geliştirme amacıyla yararlanılabilir. Ancak öğrenciler, kullandıkları kodların çalışma prensiplerini anlamak, açıklamak ve gerektiğinde değiştirerek uygulayabilmekle sorumludur.
 
-**Yapay zekâ araçlarıyla oluşturulan kodları anlayamayan, açıklayamayan veya gerektiğinde değiştiremeyen öğrenciler proje değerlendirmesinde yeterli not alamayabilirler.**
+**Yapay zeka araçlarıyla oluşturulan kodları anlayamayan, açıklayamayan veya gerektiğinde değiştiremeyen öğrenciler proje değerlendirmesinde yeterli not alamayabilirler.**
 
 **Her durumda mikrodenetleyici tarafındaki kodlamalar, derste anlatılan register seviyesinde programlama yaklaşımına uygun olmak zorundadır.**
